@@ -1,0 +1,342 @@
+{0}{}{DESERT1.MAP}
+{1}{}{DESERT2.MAP}
+{2}{}{DESERT3.MAP}
+{3}{}{HALLDED.MAP}
+{4}{}{HOTEL.MAP}
+{5}{}{WATRSHD.MAP}
+{6}{}{VAULT13.MAP}
+{7}{}{VAULTENT.MAP}
+{8}{}{VAULTBUR.MAP}
+{9}{}{VAULTNEC.MAP}
+{10}{}{JUNKENT.MAP}
+{11}{}{JUNKCSNO.MAP}
+{12}{}{JUNKKILL.MAP}
+{13}{}{BROHDENT.MAP}
+{14}{}{BROHD12.MAP}
+{15}{}{BROHD34.MAP}
+{16}{}{CAVES.MAP}
+{17}{}{CHILDRN1.MAP}
+{18}{}{CHILDRN2.MAP}
+{19}{}{CITY1.MAP}
+{20}{}{COAST1.MAP}
+{21}{}{COAST2.MAP}
+{22}{}{COLATRUK.MAP}
+{23}{}{FSAUSER.MAP}
+{24}{}{RAIDERS.MAP}
+{25}{}{SHADYE.MAP}
+{26}{}{SHADYW.MAP}
+{27}{}{GLOWENT.MAP}
+{28}{}{LAADYTUM.MAP}
+{29}{}{LAFOLLWR.MAP}
+{30}{}{MBENT.MAP}
+{31}{}{MBSTRG12.MAP}
+{32}{}{MBVATS12.MAP}
+{33}{}{MSTRLR12.MAP}
+{34}{}{MSTRLR34.MAP}
+{35}{}{V13ENT.MAP}
+{36}{}{HUBENT.MAP}
+{37}{}{DETHCLAW.MAP}
+{38}{}{HUBDWNTN.MAP}
+{39}{}{HUBHEIGT.MAP}
+{40}{}{HUBOLDTN.MAP}
+{41}{}{HUBWATER.MAP}
+{42}{}{GLOW1.MAP}
+{43}{}{GLOW2.MAP}
+{44}{}{LABLADES.MAP}
+{45}{}{LARIPPER.MAP}
+{46}{}{LAGUNRUN.MAP}
+{47}{}{CHILDEAD.MAP}
+{48}{}{MBDEAD.MAP}
+{49}{}{MOUNTN1.MAP}
+{50}{}{MOUNTN2.MAP}
+{51}{}{FOOT.MAP}
+{52}{}{TARDIS.MAP}
+{53}{}{TALKCOW.MAP}
+{54}{}{USEDCAR.MAP}
+{55}{}{BRODEAD.MAP}
+{56}{}{DESCRVN1.MAP}
+{57}{}{DESCRVN2.MAP}
+{58}{}{MNTCRVN1.MAP}
+{59}{}{MNTCRVN2.MAP}
+{60}{}{VIPERS.MAP}
+{61}{}{DESCRVN3.MAP}
+{62}{}{MNTCRVN3.MAP}
+{63}{}{DESCRVN4.MAP}
+{64}{}{MNTCRVN4.MAP}
+{65}{}{HUBMIS1.MAP}
+{100}{}{Deserto}
+{101}{}{Deserto}
+{102}{}{Deserto}
+{103}{}{Necropolis}
+{104}{}{Necropolis}
+{105}{}{Necropolis}
+{106}{}{Vault 13}
+{107}{}{Vault 15}
+{108}{}{Vault 15}
+{109}{}{Necropolis}
+{110}{}{Junktown}
+{111}{}{Junktown}
+{112}{}{Junktown}
+{113}{}{Confraternita}
+{114}{}{Confraternita}
+{115}{}{Confraternita}
+{116}{}{Shady Sands}
+{117}{}{Cattedrale}
+{118}{}{Cattedrale}
+{119}{}{Rovine}
+{120}{}{Costa}
+{121}{}{Costa}
+{122}{}{Deserto}
+{123}{}{Deserto}
+{124}{}{Predoni}
+{125}{}{Shady Sands}
+{126}{}{Shady Sands}
+{127}{}{Glow}
+{128}{}{Boneyard}
+{129}{}{Boneyard}
+{130}{}{Base Militare}
+{131}{}{Base Militare}
+{132}{}{Base Militare}
+{133}{}{Base Militare}
+{134}{}{Base Militare}
+{135}{}{Vault 13}
+{136}{}{Hub}
+{137}{}{Hub}
+{138}{}{Hub}
+{139}{}{Hub}
+{140}{}{Hub}
+{141}{}{Hub}
+{142}{}{Glow}
+{143}{}{Glow}
+{144}{}{Boneyard}
+{145}{}{Boneyard}
+{146}{}{Boneyard}
+{147}{}{Cattedrale}
+{148}{}{Militare}
+{149}{}{Montagne}
+{150}{}{Montagne}
+{151}{}{Deserto}
+{152}{}{Deserto}
+{153}{}{Deserto}
+{154}{}{Deserto}
+{155}{}{Confraternita}
+{156}{}{Deserto}
+{157}{}{Deserto}
+{158}{}{Montagne}
+{159}{}{Montagne}
+{160}{}{Accamp. Viper}
+{161}{}{Deserto}
+{162}{}{Montagne}
+{163}{}{Deserto}
+{164}{}{Montagne}
+{200}{}{}
+{201}{}{}
+{202}{}{}
+{203}{}{}
+{204}{}{}
+{205}{}{}
+{206}{}{}
+{207}{}{}
+{208}{}{}
+{209}{}{Fogne}
+{210}{}{Sala}
+{211}{}{}
+{212}{}{Fogne}
+{213}{}{Hotel}
+{214}{}{}
+{215}{}{Fogne}
+{216}{}{Acquedotto}
+{217}{}{}
+{218}{}{Entrata}
+{219}{}{Dormitori}
+{220}{}{Centro di Comando}
+{221}{}{Entrata della Grotta}
+{222}{}{}
+{223}{}{}
+{224}{}{Caverne}
+{225}{}{Dormitori}
+{226}{}{Centro di Comando}
+{227}{}{Fogne}
+{228}{}{Dormitori}
+{229}{}{Centro di Comando}
+{230}{}{Entrata}
+{231}{}{Laboratorio}
+{232}{}{}
+{233}{}{Casino'}
+{234}{}{}
+{235}{}{}
+{236}{}{Crash House}
+{237}{}{}
+{238}{}{}
+{239}{}{Entrata}
+{240}{}{}
+{241}{}{}
+{242}{}{Livello 1}
+{243}{}{Livello 2}
+{244}{}{}
+{245}{}{Livello 3}
+{246}{}{Livello 4}
+{247}{}{}
+{248}{}{Grotte}
+{249}{}{}
+{250}{}{}
+{251}{}{Entrata}
+{252}{}{Torre - Livello 1}
+{253}{}{}
+{254}{}{Torre - Livello 2}
+{255}{}{Torre - Livello 3}
+{256}{}{Torre - Livello 4}
+{257}{}{}
+{258}{}{}
+{259}{}{}
+{260}{}{}
+{261}{}{}
+{262}{}{}
+{263}{}{}
+{264}{}{}
+{265}{}{}
+{266}{}{Speciale}
+{267}{}{}
+{268}{}{}
+{269}{}{Speciale}
+{270}{}{}
+{271}{}{}
+{272}{}{Base}
+{273}{}{}
+{274}{}{}
+{275}{}{Giardino}
+{276}{}{Recinto dei Brahmin}
+{277}{}{}
+{278}{}{Municipio}
+{279}{}{}
+{280}{}{}
+{281}{}{Entrata}
+{282}{}{}
+{283}{}{}
+{284}{}{Adytum}
+{285}{}{Sottoterra}
+{286}{}{}
+{287}{}{Biblioteca}
+{288}{}{Sottoterra}
+{289}{}{}
+{290}{}{Entrata}
+{291}{}{}
+{292}{}{}
+{293}{}{Roccaforte - Livello 1}
+{294}{}{Roccaforte - Livello 2}
+{295}{}{}
+{296}{}{Vasche - Livello 1}
+{297}{}{Vasche - Livello 2}
+{298}{}{}
+{299}{}{Covo - Livello 1}
+{300}{}{Covo - Livello 2}
+{301}{}{}
+{302}{}{Covo - Livello 3}
+{303}{}{Covo - Livello 4}
+{304}{}{}
+{305}{}{Entrata della Grotta}
+{306}{}{}
+{307}{}{}
+{308}{}{Entrata}
+{309}{}{}
+{310}{}{}
+{311}{}{Tana}
+{312}{}{}
+{313}{}{}
+{314}{}{Centro}
+{315}{}{Covo di Decker}
+{316}{}{}
+{317}{}{Colli}
+{318}{}{}
+{319}{}{}
+{320}{}{Citta' Vecchia}
+{321}{}{Cerchia dei Ladri}
+{322}{}{}
+{323}{}{Mercanti}
+{324}{}{}
+{325}{}{}
+{326}{}{Livello 1}
+{327}{}{Livello 2}
+{328}{}{Livello 3}
+{329}{}{Livello 4}
+{330}{}{Livello 5}
+{331}{}{Livello 6}
+{332}{}{Centro}
+{333}{}{}
+{334}{}{}
+{335}{}{Magazzino}
+{336}{}{Sottoterra}
+{337}{}{}
+{338}{}{Fortezza}
+{339}{}{}
+{340}{}{}
+{341}{}{Cratere}
+{342}{}{}
+{343}{}{}
+{344}{}{Rovine}
+{345}{}{}
+{346}{}{}
+{347}{}{}
+{348}{}{}
+{349}{}{}
+{350}{}{}
+{351}{}{}
+{352}{}{}
+{353}{}{Speciale}
+{354}{}{}
+{355}{}{}
+{356}{}{Speciale}
+{357}{}{}
+{358}{}{}
+{359}{}{Speciale}
+{360}{}{}
+{361}{}{}
+{362}{}{Speciale}
+{363}{}{}
+{364}{}{}
+{365}{}{Rovine}
+{366}{}{}
+{367}{}{}
+{368}{}{}
+{369}{}{}
+{370}{}{}
+{371}{}{}
+{372}{}{}
+{373}{}{}
+{374}{}{}
+{375}{}{}
+{376}{}{}
+{377}{}{}
+{378}{}{}
+{379}{}{}
+{380}{}{}
+{381}{}{}
+{382}{}{}
+{383}{}{}
+{384}{}{}
+{385}{}{}
+{386}{}{}
+{387}{}{}
+{388}{}{}
+{389}{}{}
+{390}{}{}
+{391}{}{}
+{392}{}{}
+{393}{}{}
+{394}{}{}
+{395}{}{}
+{396}{}{}
+{397}{}{}
+{500}{}{Vault 13}
+{501}{}{Vault 15}
+{502}{}{Shady Sands}
+{503}{}{Junktown}
+{504}{}{Predoni}
+{505}{}{Necropolis}
+{506}{}{Hub}
+{507}{}{Confraternita}
+{508}{}{Base Militare}
+{509}{}{Glow}
+{510}{}{Boneyard}
+{511}{}{Cattedrale}
+{1000}{}{Errore: Spazio insufficiente per salvare la mappa!}

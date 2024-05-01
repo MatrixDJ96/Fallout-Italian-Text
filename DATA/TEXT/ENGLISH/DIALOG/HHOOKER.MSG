@@ -1,0 +1,79 @@
+{100}{}{Vedi un ubriaco.}
+{101}{}{Vedi un cliente.}
+{102}{}{Vedi una ragazza molto carina.}
+{103}{}{Vedi un uomo dall'aspetto insolito.}
+{104}{}{Vedi un giocatore.}
+{105}{}{Vedi una donna. Sembra impegnata.}
+{106}{}{Vedi una donna.}
+{107}{}{Vedi un uomo.}
+{108}{}{Vedi un giocatore arrabbiato.}
+{109}{}{Vedi un mercenario.}
+{110}{}{Lashami sholo col mio dolore.}
+{111}{}{Shei il mio piu' mijjore amico.}
+{112}{}{Perche' shei... (hic) dove shono io?}
+{113}{}{Chi shei?}
+{114}{}{Sci conoshamo?}
+{115}{}{Mi gira un po' la teshta.}
+{116}{}{Offro io... scioe' tu.}
+{117}{}{Shiete gemelli?}
+{118}{}{Shta fermo, amico!}
+{119}{}{Shta ferma, ragassha!}
+{120}{}{Sparisci, sfigato!}
+{121}{}{Rovini l'atmosfera del locale.}
+{122}{}{Vattene! Porti sfiga!}
+{123}{}{Non rovinare la mia concentrazione.}
+{124}{}{Riusciro' a vincere, prima o poi!}
+{125}{}{Sai giocare?}
+{126}{}{Hai visto? Non e' possibile!}
+{127}{}{Secondo me barano.}
+{128}{}{Questa mi pare una buona puntata.}
+{129}{}{Ho praticamente gia' vinto.}
+{130}{}{Cosa? Come ho fatto a perdere?}
+{131}{}{Questo tavolo e' sfigato!}
+{132}{}{Sono occupato.}
+{133}{}{Non vedi che sto giocando?}
+{134}{}{Gioca o schioda.}
+{135}{}{Lasciaci in pace o chiamo le guardie.}
+{136}{}{Sta' attento, sono un'amica intima del vice sceriffo Fry.}
+{137}{}{Ti dispiace?}
+{138}{}{Niente guardoni!}
+{139}{}{Non faccio sesso di gruppo.}
+{140}{}{Sono troppo stanca per un altro cliente.}
+{141}{}{Stai sognando, amico. Sparisci!}
+{142}{}{Via dalle palle!}
+{143}{}{Cosa cazzo credi di fare?}
+{144}{}{Vedi di controllarti!}
+{145}{}{Chiamo gli sbirri!}
+{146}{}{Non pensarci nemmeno!}
+{147}{}{Fuori!}
+{148}{}{Sparisci!}
+{149}{}{Cosa stai guardando?}
+{150}{}{Ti spiace?}
+{151}{}{Fuori dalla nostra stanza!}
+{152}{}{Sparisci!}
+{153}{}{Fai parte dell'offerta?}
+{154}{}{Sparisci, pervertito!}
+{155}{}{Che problemi c'hai?}
+{156}{}{Sparisci, prima che mi incazzi sul serio.}
+{157}{}{Trovatene una per te.}
+{158}{}{Lei e' mia.}
+{159}{}{Cazzo!}
+{160}{}{Stai barando?}
+{161}{}{Avrei dovuto vincere io.}
+{162}{}{Quasi!}
+{163}{}{Per un pelo.}
+{164}{}{Quali erano le regole?}
+{165}{}{Una volta vincevo sempre.}
+{166}{}{Al diavolo.}
+{167}{}{Non ci credo!}
+{168}{}{Ho perso apposta.}
+{169}{}{Fate il vostro gioco.}
+{170}{}{Via le mani dal tavolo.}
+{171}{}{Abbiamo un vincitore!}
+{172}{}{Spiacente, ragazzi. Sara' per la prossima volta.}
+{173}{}{Un altro vincitore!}
+{174}{}{Via le mani!}
+{175}{}{E' il suo turno.}
+{176}{}{Spiacente, ma la puntata non e' valida.}
+{177}{}{Basta cosi'.}
+{178}{}{Altri?}

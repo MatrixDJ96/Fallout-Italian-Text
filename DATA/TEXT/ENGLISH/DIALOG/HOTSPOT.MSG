@@ -1,0 +1,7 @@
+{100}{}{Subisci }
+{101}{}{ punti di danno per le radiazioni.}
+{102}{}{Subisci }
+{103}{}{ punti di danno per le radiazioni.}
+{104}{}{Qui vicino c'e' un'elevata quantita' di radiazioni.}
+{105}{}{Subisci }
+{106}{}{ punti di danno per le radiazioni.}

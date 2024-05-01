@@ -1,0 +1,50 @@
+{200}{}{Entrata della Grotta}
+{201}{}{Entrata}
+{202}{}{Dormitori}
+{203}{}{Centro di Comando}
+{210}{}{Entrata dal Deserto}
+{211}{}{Caverne/Entrata}
+{212}{}{Dormitori}
+{213}{}{Centro di Comando}
+{220}{}{Entrata}
+{221}{}{Giardino}
+{222}{}{Recinti}
+{230}{}{Entrata}
+{231}{}{Crash House}
+{232}{}{Casino'}
+{240}{}{Base}
+{250}{}{Hotel}
+{251}{}{Sala}
+{252}{}{Acquedotto}
+{260}{}{Entrata}
+{261}{}{Centro}
+{262}{}{Colli}
+{263}{}{Citta' Vecchia}
+{264}{}{Mercanti}
+{265}{}{Grotta}
+{270}{}{Entrata}
+{271}{}{Livello 1}
+{272}{}{Livello 2}
+{273}{}{Livello 3}
+{274}{}{Livello 4}
+{280}{}{Entrata}
+{281}{}{Roccaforte Liv. 1}
+{282}{}{Roccaforte Liv. 2}
+{283}{}{Vasche Livello 1}
+{284}{}{Vasche Livello 2}
+{290}{}{Cratere}
+{291}{}{Livello 1}
+{300}{}{Adytum}
+{301}{}{Centro}
+{302}{}{Biblioteca}
+{303}{}{Fortezza}
+{304}{}{Magazzino}
+{310}{}{Entrata}
+{311}{}{Interno}
+{500}{}{Hai guadagnato 10.000 punti esperienza!}
+{501}{}{Rovine}
+{1000}{}{Deserto}
+{1001}{}{Montagne}
+{1002}{}{Citta'}
+{1003}{}{Costa}
+{1004}{}{Ignoto}

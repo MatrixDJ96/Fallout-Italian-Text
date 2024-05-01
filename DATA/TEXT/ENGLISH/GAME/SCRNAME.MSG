@@ -1,0 +1,959 @@
+{101}{}{}
+{102}{}{Anziano}
+{103}{}{Mercante}
+{104}{}{Guardia del Corpo}
+{105}{}{Mucca}
+{106}{}{Guardia del Fossato}
+{107}{}{Guardia di Shady Sands}
+{108}{}{Sfigato}
+{109}{}{Contadino di Shady Sands}
+{110}{}{Gun runner}
+{111}{}{Entrata della Mappa}
+{112}{}{Radscorpione}
+{113}{}{Sentinella Super Mutante}
+{114}{}{Pozzo di Shady Sands}
+{115}{}{Set}
+{116}{}{Harry}
+{117}{}{Stimpak}
+{118}{}{Coperchio del Tombino}
+{119}{}{Tombino}
+{120}{}{Scala}
+{121}{}{Sedia}
+{122}{}{Distributore di Nuka Cola}
+{123}{}{Scrivania del Direttore}
+{124}{}{Cadavere}
+{125}{}{Scrivania}
+{126}{}{Cadavere di Ghoul}
+{127}{}{Ratto Talpa}
+{128}{}{Tombino}
+{129}{}{Scala}
+{130}{}{Manager Ghoul}
+{131}{}{Map Script}
+{132}{}{Ghoul}
+{133}{}{Aradesh}
+{134}{}{Brahmin}
+{135}{}{Cougar}
+{136}{}{Flash}
+{137}{}{Guardia di Junktown}
+{138}{}{Contadino di Junktown}
+{139}{}{Butch}
+{140}{}{Cabbot}
+{141}{}{Figlio della Cattedrale}
+{142}{}{Decker}
+{143}{}{Anziano}
+{144}{}{Gizmo}
+{145}{}{Harold}
+{146}{}{Jain}
+{147}{}{Killian}
+{148}{}{Laura}
+{149}{}{Loxley}
+{150}{}{Tenente}
+{151}{}{Master}
+{152}{}{Maxson}
+{153}{}{Morpheus}
+{154}{}{Nicole}
+{155}{}{Supervisore}
+{156}{}{Rhombus}
+{157}{}{Tandi}
+{158}{}{Vree}
+{159}{}{Ratto Talpa}
+{160}{}{Necropolis Airlock}
+{161}{}{Barry}
+{162}{}{Computer}
+{163}{}{Porta}
+{164}{}{Gangster Ghoul}
+{165}{}{Gary}
+{166}{}{Ghoul}
+{167}{}{Ghoul}
+{168}{}{Luminoso}
+{169}{}{Ghoul Cadavere}
+{170}{}{Sentinella Ghoul}
+{171}{}{Ghoul Cadavere}
+{172}{}{Guardia di Set}
+{173}{}{Manager Ghoul}
+{174}{}{Profugo Ghoul}
+{175}{}{Guardia Ghoul}
+{176}{}{Luminoso Ingabbiato}
+{177}{}{Malavitoso}
+{178}{}{Guardia di Shady Sands}
+{179}{}{Harry}
+{180}{}{Larry}
+{181}{}{Capo della Gang}
+{182}{}{Manager Ghoul}
+{183}{}{Cadavere Decomposto}
+{184}{}{Contadino Ghoul}
+{185}{}{Super Mutante}
+{186}{}{Computer di Controllo}
+{187}{}{Pompa}
+{188}{}{Parete}
+{189}{}{Ghoul Prigioniero}
+{190}{}{Sally}
+{191}{}{Graffiti}
+{192}{}{Ventilatore di Set}
+{193}{}{Scrivania di Set}
+{194}{}{Porta}
+{195}{}{Guardia del Corpo di Set}
+{196}{}{Parete}
+{197}{}{Strano odore}
+{198}{}{Stimpak}
+{199}{}{Magazzino di Necropolis}
+{200}{}{Super Mutante}
+{201}{}{Terry}
+{202}{}{Garret}
+{203}{}{Gretch}
+{204}{}{Morbid}
+{205}{}{Dumar}
+{206}{}{Barstow}
+{207}{}{Iniziato dei Figli della Cattedrale}
+{208}{}{Guaritore dei Figli della Cattedrale}
+{209}{}{Vedetta}
+{210}{}{Computer}
+{211}{}{Stanza Bloccata}
+{212}{}{Deserto}
+{213}{}{Guardia di Shady Sands}
+{214}{}{Cuoca di Shady Sands}
+{215}{}{Abitante di Shady Sands}
+{216}{}{Sedia}
+{217}{}{Letto di Agatha}
+{218}{}{Letto di Razlo}
+{219}{}{Moglie di Razlo}
+{220}{}{Armadio}
+{221}{}{Tappeto}
+{222}{}{Libreria}
+{223}{}{Vaso di Frutta}
+{224}{}{Scrivania}
+{225}{}{Scaffale}
+{226}{}{Tavolo}
+{227}{}{Frutto Mutante}
+{228}{}{Puzza di Brahmin}
+{229}{}{Razlo}
+{230}{}{Abitante del Vault 13}
+{231}{}{Vault 13 Airlock}
+{232}{}{Monitor del Vault 13}
+{233}{}{Computer Centrale del Vault 13}
+{234}{}{Biblioteca Informatica del Vault 13}
+{235}{}{Kalnor}
+{236}{}{Predone}
+{237}{}{Garl}
+{238}{}{Prigioniero}
+{239}{}{Petrox}
+{240}{}{Tolya}
+{241}{}{Gwen}
+{242}{}{Diana}
+{243}{}{Alya}
+{244}{}{Dormitori}
+{245}{}{Sala Riunioni}
+{246}{}{Magazzino}
+{247}{}{Biblioteca}
+{248}{}{Computer Centrale}
+{249}{}{Sala Riunioni}
+{250}{}{Dormitori}
+{251}{}{Dormitori}
+{252}{}{Passaggio Bloccato}
+{253}{}{Passaggio Bloccato}
+{254}{}{Airlock}
+{255}{}{Sala dei Morti}
+{256}{}{Gabriel}
+{257}{}{Tavolo dei Dadi}
+{258}{}{Tombino}
+{259}{}{Tombino}
+{260}{}{Scala}
+{261}{}{Scala}
+{262}{}{Guardia dei Cancelli}
+{263}{}{Guardia delle Razioni d'Acqua}
+{264}{}{Acquedotto}
+{265}{}{Tombino}
+{266}{}{Tombino}
+{267}{}{Tombino}
+{268}{}{Abitante del Vault 13}
+{269}{}{Scala}
+{270}{}{Scala}
+{271}{}{Scala}
+{272}{}{Andrew}
+{273}{}{Ostello dei Morti}
+{274}{}{Lorriane}
+{275}{}{Tombino}
+{276}{}{Tombino}
+{277}{}{Tombino}
+{278}{}{Agente del Vault 13}
+{279}{}{Scala}
+{280}{}{Scala}
+{281}{}{Scala}
+{282}{}{Grotte dei Radscorpioni}
+{283}{}{Seth}
+{284}{}{Medico del Vault 13}
+{285}{}{Abitante del Vault 13}
+{286}{}{Casino' di Junktown}
+{287}{}{Crash House}
+{288}{}{Entrata di Junktown}
+{289}{}{Passaggio Bloccato}
+{290}{}{Airlock}
+{291}{}{Armadietto dei Medicinali}
+{292}{}{Entrata del Vault 15}
+{293}{}{Shady Sands}
+{294}{}{Shady Sands}
+{295}{}{Laboratorio Medico}
+{296}{}{Capanna Abbandonata}
+{297}{}{Seth}
+{298}{}{Scriba della Confraternita}
+{299}{}{Vault 13}
+{300}{}{Ascensore}
+{301}{}{Ascensore}
+{302}{}{Ascensore}
+{303}{}{Ascensore}
+{304}{}{Ascensore Guasto}
+{305}{}{Entrata della Confraternita d'Acciaio}
+{306}{}{Tana dei Ratti}
+{307}{}{Oscurita'}
+{308}{}{Uscita della Caverna}
+{309}{}{Abitante del Vault 13}
+{310}{}{La tua Stanza}
+{311}{}{Katrina}
+{312}{}{Uscita della Caverna}
+{313}{}{Computer Centrale del Vault 13}
+{314}{}{Computer}
+{315}{}{Sala Operativa del Vault 13}
+{316}{}{Stanza di Sicurezza del Vault 13}
+{317}{}{Magazzino del Vault 13}
+{318}{}{Sala Riunioni del Vault 13}
+{319}{}{Laboratorio Medico del Vault 13}
+{320}{}{Rottami}
+{321}{}{Guardia di Junktown}
+{322}{}{}
+{323}{}{Torcia}
+{324}{}{Ascensore}
+{325}{}{Ascensore}
+{326}{}{Ascensore}
+{327}{}{Ascensore}
+{328}{}{Vault 15}
+{329}{}{Cane}
+{330}{}{Guardia Ghoul}
+{331}{}{Ghoul Infuriato}
+{332}{}{Guardia Super Mutante}
+{333}{}{Sentinella Super Mutante}
+{334}{}{Super Mutante}
+{335}{}{Ian}
+{336}{}{Curtis}
+{337}{}{Bambino}
+{338}{}{Predoni}
+{339}{}{Frutto Mutante}
+{340}{}{Predone Guardia}
+{341}{}{Avellone}
+{342}{}{Cane}
+{343}{}{Duc}
+{344}{}{Citta'}
+{345}{}{Costa}
+{346}{}{Montagna}
+{347}{}{Hernandez}
+{348}{}{Grotte}
+{349}{}{Miles}
+{350}{}{Smitty}
+{351}{}{Abitante di Adytum}
+{352}{}{Regolatore}
+{353}{}{Lorri}
+{354}{}{Sammael}
+{355}{}{Caleb}
+{356}{}{Taylor}
+{357}{}{Julianna}
+{358}{}{Studioso dei Discepoli}
+{359}{}{Iniziato dei Discepoli}
+{360}{}{Nightkin Esploratore}
+{361}{}{Studioso dei Figli della Cattedrale}
+{362}{}{Iniziato dei Figli della Cattedrale}
+{363}{}{Esploratore dei Discepoli}
+{364}{}{Guardia dei Discepoli}
+{365}{}{Studioso Super Mutante}
+{366}{}{Heather}
+{367}{}{Peter}
+{368}{}{Jake}
+{369}{}{Orfeo}
+{370}{}{Marney}
+{371}{}{Neil}
+{372}{}{Amber}
+{373}{}{Uthern}
+{374}{}{Talius}
+{375}{}{Guardia dei Figli della Cattedrale}
+{376}{}{Esploratore dei Figli della Cattedrale}
+{377}{}{Esploratore Super Mutante}
+{378}{}{Razor}
+{379}{}{Blade}
+{380}{}{Fuoco}
+{381}{}{Beca}
+{382}{}{Maestro d'Armi dei Blade}
+{383}{}{Michelle}
+{384}{}{Sentinella Notturna}
+{385}{}{Romero}
+{386}{}{Confraternita d'Acciaio}
+{387}{}{Confraternita d'Acciaio}
+{388}{}{Jon}
+{389}{}{Prigioniero}
+{390}{}{Scriba della Confraternita}
+{391}{}{Scala}
+{392}{}{Cadavere Carbonizzato}
+{393}{}{Ossa Disseccate}
+{394}{}{Cadavere contenuto in una strana armatura}
+{395}{}{Olodisco}
+{396}{}{Punto di Massima Radioattivita'}
+{397}{}{Cadavere contenuto in una strana armatura}
+{398}{}{Porta di Sicurezza}
+{399}{}{Computer}
+{400}{}{Porta di Sicurezza}
+{401}{}{Generatore}
+{402}{}{Pompa}
+{403}{}{Dormitori}
+{404}{}{Torretta}
+{405}{}{Porta con segni rossi}
+{406}{}{Porta con segni blu}
+{407}{}{Porta di Sicurezza}
+{408}{}{Forziere}
+{409}{}{Computer}
+{410}{}{Gabbia}
+{411}{}{Tavolo}
+{412}{}{Computer}
+{413}{}{Strano Scheletro}
+{414}{}{Biglietto}
+{415}{}{Farli}
+{416}{}{Darrel}
+{417}{}{Paladino della Confraternita}
+{418}{}{Talus}
+{419}{}{Sophia}
+{420}{}{Michael}
+{421}{}{Porta di Sicurezza}
+{422}{}{Scriba della Confraternita}
+{423}{}{Scriba della Confraternita}
+{424}{}{Paladino della Confraternita}
+{425}{}{Paladino della Confraternita}
+{426}{}{Paladino della Confraternita}
+{427}{}{Paladino della Confraternita}
+{428}{}{Ascensore con segni blu}
+{429}{}{Cavaliere della Confraternita}
+{430}{}{Cavaliere della Confraternita}
+{431}{}{Scrivania}
+{432}{}{Sistemi di Fuoco Armati}
+{433}{}{Strano Olodisco}
+{434}{}{Armadietto}
+{435}{}{Vapori Tossici}
+{436}{}{Laser}
+{437}{}{Predone Impazzito}
+{438}{}{Sinthia}
+{439}{}{Marcelles}
+{440}{}{Cassaforte}
+{441}{}{Bob}
+{442}{}{Trish}
+{443}{}{Porta del Vault 13}
+{444}{}{Computer della Porta}
+{445}{}{Olodisco}
+{446}{}{Olodisco}
+{447}{}{Olodisco}
+{448}{}{Olodisco}
+{449}{}{Olodisco}
+{450}{}{Olodisco}
+{451}{}{Giocatore}
+{452}{}{Phil}
+{453}{}{Dogmeat}
+{454}{}{Slot Machine}
+{455}{}{Slot Machine}
+{456}{}{Tavolo del BlackJack}
+{457}{}{Tavolo del BlackJack}
+{458}{}{Tecnico dei Figli della Cattedrale}
+{459}{}{Abel}
+{460}{}{Campo di Forza}
+{461}{}{Radio}
+{462}{}{Scritta}
+{463}{}{Porta di Sicurezza Blindata}
+{464}{}{Computer}
+{465}{}{Robobrain}
+{466}{}{Robobrain}
+{467}{}{Flip}
+{468}{}{Computer}
+{469}{}{Sergente Nightkin}
+{470}{}{Sentinella Nightkin}
+{471}{}{Computer}
+{472}{}{Lenore}
+{473}{}{Computer}
+{474}{}{Cane}
+{475}{}{Lenore}
+{476}{}{Phil}
+{477}{}{Zack}
+{478}{}{Theresa}
+{479}{}{Abitante Infuriato del Vault 13}
+{480}{}{Frigorifero}
+{481}{}{Scriba della Confraternita}
+{482}{}{Jason}
+{483}{}{Delinquente}
+{484}{}{Lasher}
+{485}{}{Vinnie}
+{486}{}{Victor}
+{487}{}{Shark}
+{488}{}{Sherry}
+{489}{}{Tycho}
+{490}{}{Skulz}
+{491}{}{Slummer}
+{492}{}{Zark}
+{493}{}{Calder}
+{494}{}{Sentinella Nightkin}
+{495}{}{Figlio con brutto carattere}
+{496}{}{Corista}
+{497}{}{Ton}
+{498}{}{Corista}
+{499}{}{Sorella Francis}
+{500}{}{Dr. Wu}
+{501}{}{Rutger}
+{502}{}{Phrax}
+{503}{}{Generatore}
+{504}{}{Gangster}
+{505}{}{Gangster Pazzo}
+{506}{}{Lenny}
+{507}{}{Icepick}
+{508}{}{Skizzer}
+{509}{}{Abitante}
+{510}{}{Roccia}
+{511}{}{Lex}
+{512}{}{Rayze}
+{513}{}{Skippy}
+{514}{}{Baka}
+{515}{}{Esploratore}
+{516}{}{Esploratore}
+{517}{}{Discepolo dell'Apocalisse}
+{518}{}{Computer}
+{519}{}{Ratto Radioattivo}
+{520}{}{Frigorifero}
+{521}{}{Scala}
+{522}{}{Scala}
+{523}{}{Tombino}
+{524}{}{Tombino}
+{525}{}{Vault di Necropolis}
+{526}{}{Town Map}
+{527}{}{Porta}
+{528}{}{Libreria}
+{529}{}{Libreria}
+{530}{}{Grotte}
+{531}{}{Porta di Sicurezza}
+{532}{}{Centro di Comando}
+{533}{}{Sentinella Super Mutante}
+{534}{}{Krupper}
+{535}{}{VanHaggen}
+{536}{}{Vasquez}
+{537}{}{Esploratore di Junktown}
+{538}{}{Cittadino di Junktown}
+{539}{}{Predone}
+{540}{}{Jarvis}
+{541}{}{Roccaforte}
+{542}{}{Vasche}
+{543}{}{Entrata della Base Militare}
+{544}{}{Figlio della Cattedrale}
+{545}{}{Figlio della Cattedrale}
+{546}{}{Vault del Master}
+{547}{}{Vault del Master}
+{548}{}{Computer}
+{549}{}{Testata Nucleare}
+{550}{}{Ascensore}
+{551}{}{Ascensore}
+{552}{}{Tromba delle Scale}
+{553}{}{Scale}
+{554}{}{Scale}
+{555}{}{Tromba delle Scale}
+{556}{}{Porta}
+{557}{}{Grotte}
+{558}{}{Vault 13}
+{559}{}{Porta di Sicurezza}
+{560}{}{Luci}
+{561}{}{Ladro d'Acqua}
+{562}{}{Jennifer}
+{563}{}{Esplosione}
+{564}{}{Sedia}
+{565}{}{Parete della Grotta}
+{566}{}{Ascensore}
+{567}{}{Ascensore}
+{568}{}{Ascensore}
+{569}{}{Ascensore}
+{570}{}{Ascensore}
+{571}{}{Ascensore}
+{572}{}{Ascensore}
+{573}{}{Beone}
+{574}{}{Vault 15}
+{575}{}{Camion di Nuka Cola}
+{576}{}{Disco Volante}
+{577}{}{Il Glow}
+{578}{}{Il Glow}
+{579}{}{Il Glow}
+{580}{}{L.A. Boneyard}
+{581}{}{L.A. Boneyard}
+{582}{}{L.A. Boneyard}
+{583}{}{L.A. Boneyard}
+{584}{}{L'Hub}
+{585}{}{L'Hub}
+{586}{}{L'Hub}
+{587}{}{L'Hub}
+{588}{}{L'Hub}
+{589}{}{Grotta}
+{590}{}{Strana Scatola}
+{591}{}{Grossa Impronta}
+{592}{}{Negozio d'Auto Usate}
+{593}{}{Mandria di Brahmin}
+{594}{}{Tombino}
+{595}{}{Scala}
+{596}{}{Viola}
+{597}{}{Surf}
+{598}{}{Porta}
+{599}{}{Dane}
+{600}{}{Jonathan}
+{601}{}{Studente della Cofraternita}
+{602}{}{Figlio della Cattedrale}
+{603}{}{Porta di Sicurezza}
+{604}{}{Fogne}
+{605}{}{Fogne}
+{606}{}{Fogne}
+{607}{}{Lyle}
+{608}{}{Neal}
+{609}{}{Pavimento}
+{610}{}{Kenji}
+{611}{}{Il Glow}
+{612}{}{Il Glow}
+{613}{}{Scale}
+{614}{}{Scale}
+{615}{}{Scale}
+{616}{}{Base Militare}
+{617}{}{Radscorpione}
+{618}{}{Lars}
+{619}{}{Ascensore}
+{620}{}{Ascensore}
+{621}{}{Ascensore}
+{622}{}{Ascensore}
+{623}{}{Ascensore}
+{624}{}{Soldato Super Mutante}
+{625}{}{Sergente Super Mutante}
+{626}{}{Porta di Sicurezza Blindata}
+{627}{}{Trofeo}
+{628}{}{Saul}
+{629}{}{Gustofer}
+{630}{}{Robot}
+{631}{}{Sentinella Nightkin}
+{632}{}{Sergente Nightkin}
+{633}{}{Sentinella Nightkin}
+{634}{}{Olodisco}
+{635}{}{Garret}
+{636}{}{Guardia Super Mutante}
+{637}{}{Campo di Forza}
+{638}{}{Campo di Forza}
+{639}{}{Campo di Forza}
+{640}{}{Campo di Forza}
+{641}{}{Campo di Forza}
+{642}{}{Campo di Forza}
+{643}{}{Campo di Forza}
+{644}{}{Campo di Forza}
+{645}{}{Computer}
+{646}{}{Guardia Super Mutante}
+{647}{}{Guardia Super Mutante}
+{648}{}{Guardia Super Mutante}
+{649}{}{Guardia Super Mutante}
+{650}{}{Guardia Super Mutante}
+{651}{}{Guardia Super Mutante}
+{652}{}{Guardia Super Mutante}
+{653}{}{Guardia Super Mutante}
+{654}{}{Guardia di Lorenzo}
+{655}{}{Guardia di Lorenzo}
+{656}{}{Billy}
+{657}{}{Bob}
+{658}{}{Insegna}
+{659}{}{Guardia di Lorenzo}
+{660}{}{Cleo}
+{661}{}{Conducente di Carovane}
+{662}{}{Dan}
+{663}{}{Moglie di Dan}
+{664}{}{Abitante dell'Hub}
+{665}{}{Guardia di Decker}
+{666}{}{Demetre}
+{667}{}{Vice Sceriffo Fry}
+{668}{}{Dogmeat}
+{669}{}{Porta di Sicurezza Blindata}
+{670}{}{Pavimento}
+{671}{}{Fattore}
+{672}{}{Guardia dei Mercanti FarGo}
+{673}{}{Agente di Polizia dell'Hub}
+{674}{}{Mercante dei Mercanti FarGo}
+{675}{}{Teppista}
+{676}{}{Guido}
+{677}{}{Porta di Sicurezza}
+{678}{}{Guardia del Corpo}
+{679}{}{Guardia dei Figli della Cattedrale}
+{680}{}{Fattore}
+{681}{}{Guardia dell'Hub}
+{682}{}{Daren Hightower}
+{683}{}{Guardia di Hightower}
+{684}{}{Moglie di Hightower}
+{685}{}{Abitante dell'Hub}
+{686}{}{Mercante}
+{687}{}{Agente di Polizia dell'Hub}
+{688}{}{Figlio dei Fiori}
+{689}{}{Jake}
+{690}{}{Paziente dei Figli della Cattedrale}
+{691}{}{Smitty}
+{692}{}{Jasmine}
+{693}{}{Bacheca}
+{694}{}{Kane}
+{695}{}{Keri}
+{696}{}{Guardia di Lorenzo}
+{697}{}{Lorenzo}
+{698}{}{Capo Mercante}
+{699}{}{Richie}
+{700}{}{Rufus}
+{701}{}{Rutger}
+{702}{}{Sid}
+{703}{}{Thorndyke}
+{704}{}{Troy}
+{705}{}{Commerciante dei Mercanti d'Acqua}
+{706}{}{Guardia dei Mercanti d'Acqua}
+{707}{}{Computer}
+{708}{}{Sentinella Super Mutante}
+{709}{}{Mercante}
+{710}{}{Avviso}
+{711}{}{Allarme}
+{712}{}{Pavimento}
+{713}{}{Pavimento}
+{714}{}{Pavimento}
+{715}{}{Pavimento}
+{716}{}{Armadietto}
+{717}{}{Beth}
+{718}{}{Guardia della Confraternita}
+{719}{}{Guardia della Confraternita}
+{720}{}{Addestratore della Confraternita}
+{721}{}{QA Cheat}
+{722}{}{Izo}
+{723}{}{Katja}
+{724}{}{Tombino}
+{725}{}{Scala}
+{726}{}{Scala}
+{727}{}{Tombino}
+{728}{}{Scale}
+{729}{}{Tromba delle Scale}
+{730}{}{Porta di Sicurezza Blindata}
+{731}{}{Mr. Handy}
+{732}{}{Studente della Confraternita}
+{733}{}{Thomas}
+{734}{}{Modify Reaction}
+{735}{}{Tombino}
+{736}{}{Scala}
+{737}{}{Tombino}
+{738}{}{Scala}
+{739}{}{Guardia di Gizmo}
+{740}{}{Ripper}
+{741}{}{Olodisco}
+{742}{}{Deathclaw}
+{743}{}{Cucciolo di Deathclaw}
+{744}{}{Pescatore}
+{745}{}{Figlio del Pescatore}
+{746}{}{Strana Scatola}
+{747}{}{Grande Impronta}
+{748}{}{Strana Scatola}
+{749}{}{Brahmin}
+{750}{}{Branco di Brahmin}
+{751}{}{Contadino Ferito}
+{752}{}{Guardia Robusta}
+{753}{}{Animate Forever}
+{754}{}{Tromba delle Scale}
+{755}{}{Scale}
+{756}{}{Distributore di Giornali}
+{757}{}{Venditore d'Auto Usate}
+{758}{}{Negozio d'Auto Usate}
+{759}{}{Confraternita d'Acciaio}
+{760}{}{Figlio della Cattedrale}
+{761}{}{Entrata della Base Militare}
+{762}{}{Sarah}
+{763}{}{Agatha}
+{764}{}{Chuck}
+{765}{}{Alan}
+{766}{}{Brenden}
+{767}{}{Patrick}
+{768}{}{Ismarc}
+{769}{}{Angry At You}
+{770}{}{Alex}
+{771}{}{Gideon}
+{772}{}{Jeremiah}
+{773}{}{Guardia Super Mutante}
+{774}{}{Guardia Super Mutante}
+{775}{}{Dr. Lorri}
+{776}{}{Moore}
+{777}{}{Lucy}
+{778}{}{Wiggup}
+{779}{}{Scienziato Pazzo}
+{780}{}{Vincent}
+{781}{}{Pezzi di Ricambio}
+{782}{}{Prigioniero}
+{783}{}{Prigioniero}
+{784}{}{Computer}
+{785}{}{Thomas}
+{786}{}{Cucciolo del Master}
+{787}{}{Computer}
+{788}{}{Rae}
+{789}{}{Porta di Sicurezza Blindata}
+{790}{}{Assistente del Dottore}
+{791}{}{Compagno di Stanza}
+{792}{}{Iniziato della Confraternita d'Acciaio}
+{793}{}{Coyote}
+{794}{}{Sentinella Super Mutante}
+{795}{}{Guardia Super Mutante}
+{796}{}{Sceriffo Greene}
+{797}{}{Barista}
+{798}{}{Mercante dell'Hub}
+{799}{}{Lance}
+{800}{}{Predone}
+{801}{}{Mercante dell'Hub}
+{802}{}{Paladino della Confraternita}
+{803}{}{Trent}
+{804}{}{Croupier}
+{805}{}{Slot Machine}
+{806}{}{Ubriaco}
+{807}{}{Giocatore}
+{808}{}{Sgualdrina}
+{809}{}{John}
+{810}{}{Croupier}
+{811}{}{Super Mutante in Preghiera}
+{812}{}{Figlio della Cattedrale in Preghiera}
+{813}{}{Contadino}
+{814}{}{Croupier}
+{815}{}{Contadino di Junktown}
+{816}{}{Istruttore della Confraternita}
+{817}{}{Scriba della Confraternita}
+{818}{}{Cavaliere della Confraternita}
+{819}{}{Paladino della Confraternita}
+{820}{}{Slot Machine}
+{821}{}{Scale}
+{822}{}{Tromba delle Scale}
+{823}{}{Scriba della Confraternita}
+{824}{}{Cavaliere della Confraternita}
+{825}{}{Terminale del Computer}
+{826}{}{Terminale del Computer}
+{827}{}{Terminale del Computer}
+{828}{}{Terminale del Computer}
+{829}{}{Terminale del Computer}
+{830}{}{Terminale del Computer}
+{831}{}{Terminale del Computer}
+{832}{}{Terminale del Computer}
+{833}{}{Terminale del Computer}
+{834}{}{Armadietto}
+{835}{}{Mantide}
+{836}{}{Tavolo da Lavoro}
+{837}{}{Scienziato Pazzo}
+{838}{}{Prigioniera}
+{839}{}{Lavabo}
+{840}{}{Corridoio della Repulsione}
+{841}{}{Generatore}
+{842}{}{Computer}
+{843}{}{Valigetta}
+{844}{}{Olodisco}
+{845}{}{Olodisco}
+{846}{}{Olodisco}
+{847}{}{Frigorifero}
+{848}{}{Libreria}
+{849}{}{Predone}
+{850}{}{Predone}
+{851}{}{Predone}
+{852}{}{Mercante}
+{853}{}{Mercante}
+{854}{}{Mercante}
+{855}{}{Guardia}
+{856}{}{Guardia}
+{857}{}{Guardia}
+{858}{}{Paladino della Confraternita}
+{859}{}{Paladino della Confraternita}
+{860}{}{Paladino della Confraternita}
+{861}{}{Carovaniere}
+{862}{}{}
+{863}{}{Predone}
+{864}{}{Roba in Vendita}
+{865}{}{Carovana in viaggio}
+{866}{}{Argomenti comuni}
+{867}{}{Temporary Place}
+{868}{}{Temporary Place}
+{869}{}{Temporary Place}
+{870}{}{Cavaliere Larry}
+{871}{}{Scriba}
+{872}{}{Guardia di Vree}
+{873}{}{Guardia di Maxson}
+{874}{}{Jeremiah}
+{875}{}{Porta}
+{876}{}{Porta Robusta}
+{877}{}{Carovana in viaggio}
+{878}{}{Mercante}
+{879}{}{Mercante dei Mercanti FarGo}
+{880}{}{Mercante delle Carovane Scarlatte}
+{881}{}{Mercante dei Mercanti d'Acqua}
+{882}{}{Mitch}
+{883}{}{Negoziante}
+{884}{}{Cose in Vendita}
+{885}{}{Luce sommessa}
+{886}{}{Corda}
+{887}{}{Jake}
+{888}{}{Guardia Ghoul}
+{889}{}{Cella del Carcere}
+{890}{}{Sentinella Ghoul}
+{891}{}{Sentinella Ghoul}
+{892}{}{Luminoso}
+{893}{}{Computer}
+{894}{}{Fattore}
+{895}{}{Fattore}
+{896}{}{Mercante}
+{897}{}{Mercante}
+{898}{}{Mercante}
+{899}{}{Mercante}
+{900}{}{Porta}
+{901}{}{Porta}
+{902}{}{Mat}
+{903}{}{Luke}
+{904}{}{John}
+{905}{}{Porta}
+{906}{}{Biblioteca}
+{907}{}{Stanza in Affitto}
+{908}{}{Porta}
+{909}{}{Scrivania}
+{910}{}{Libreria}
+{911}{}{Tecnico dei Figli della Cattedrale}
+{912}{}{Viscious}
+{913}{}{Scatola delle Razioni d'Acqua}
+{914}{}{Computer}
+{915}{}{Porta}
+{916}{}{Julio}
+{917}{}{Capo Carovaniere}
+{918}{}{Libreria}
+{919}{}{Paladino della Squadra d'Assalto}
+{920}{}{Esploratore dei Discepoli}
+{921}{}{Mike}
+{922}{}{Vance}
+{923}{}{Drogato}
+{924}{}{Frammenti}
+{925}{}{Frammenti}
+{926}{}{Frammenti}
+{927}{}{Frammenti}
+{928}{}{Terminale}
+{929}{}{Impronte}
+{930}{}{Guardia dei Mercanti d'Acqua}
+{931}{}{Robot di Sicurezza}
+{932}{}{Porta di Sicurezza}
+{933}{}{Mercante}
+{934}{}{Guardia delle Carovane Scarlatte}
+{935}{}{Guardia}
+{936}{}{Armadietto}
+{937}{}{Porta Molto Solida}
+{938}{}{Mutante Stupido}
+{939}{}{Bacheca}
+{940}{}{Valigetta}
+{941}{}{Gunther}
+{942}{}{Slappy}
+{943}{}{Negoziante}
+{944}{}{Tavolo}
+{945}{}{Kyle}
+{946}{}{Lemmy}
+{947}{}{Guardia}
+{948}{}{Esploratore Super Mutante}
+{949}{}{Carovaniere dei Mercanti FarGo}
+{950}{}{Super Mutante}
+{951}{}{Forziere}
+{952}{}{Frigorifero}
+{953}{}{Porta}
+{954}{}{Super Mutante}
+{955}{}{Fluido Tossico}
+{956}{}{Straniero Misterioso}
+{957}{}{}
+{958}{}{Porta di Sicurezza Blindata}
+{959}{}{Armadietto}
+{960}{}{Armadietto}
+{961}{}{Olodisco con Dati del Vault}
+{962}{}{Mrs. Staple}
+{963}{}{Luce dell'Allarme}
+{964}{}{Interruttore}
+{965}{}{Cavaliere Paul}
+{966}{}{Leon}
+{967}{}{Pavimento}
+{968}{}{Pavimento}
+{969}{}{Pavimento}
+{970}{}{George}
+{971}{}{Rick}
+{972}{}{Cassaforte}
+{973}{}{Porta}
+{974}{}{Porta}
+{975}{}{Emettitore di Campo di Forza}
+{976}{}{Campo di Forza}
+{977}{}{Freezer}
+{978}{}{Porta}
+{979}{}{Campo di Forza}
+{980}{}{Emettitore di Campo di Forza}
+{981}{}{Campo di Forza}
+{982}{}{Emettitore di Campo di Forza}
+{983}{}{Campo di Forza}
+{984}{}{Emettitore di Campo di Forza}
+{985}{}{Campo di Forza}
+{986}{}{Emettitore di Campo di Forza}
+{987}{}{Campo di Forza}
+{988}{}{Emettitore di Campo di Forza}
+{989}{}{Fluttuante}
+{990}{}{Lenore}
+{991}{}{Bob}
+{992}{}{Porta}
+{993}{}{Campo di Forza}
+{994}{}{Emettitore di Campo di Forza}
+{995}{}{Campo di Forza}
+{996}{}{Emettitore di Campo di Forza}
+{997}{}{Campo di Dolore}
+{998}{}{Campo di Forza}
+{999}{}{Emettitore di Campo di Forza}
+{1000}{}{Campo di Forza}
+{1001}{}{Emettitore di Campo di Forza}
+{1002}{}{Campo di Forza}
+{1003}{}{Emettitore di Campo di Forza}
+{1004}{}{Porta dell'Ascensore}
+{1005}{}{}
+{1006}{}{Porta Blindata}
+{1007}{}{Guardia dei Regolatori}
+{1008}{}{Ghoul}
+{1009}{}{Guardia del Tenente}
+{1010}{}{Computer}
+{1011}{}{Parete}
+{1012}{}{Mutante Invasore}
+{1013}{}{Guardia dei Regolatori}
+{1014}{}{Vice Sceriffo Fry}
+{1015}{}{Guardia Mutante}
+{1016}{}{Soldato del Master}
+{1017}{}{Dugan}
+{1018}{}{MacRae}
+{1019}{}{Guardia delle Carovane Scarlatte}
+{1020}{}{Guardia delle Carovane Scarlatte}
+{1021}{}{Madre Deathclaw}
+{1022}{}{Deathclaw}
+{1023}{}{Micheal}
+{1024}{}{Christine}
+{1025}{}{Greg}
+{1026}{}{Blade}
+{1027}{}{Uovo di DeathClaw}
+{1028}{}{Radscorpione}
+{1029}{}{Scatola}
+{1030}{}{Scatola}
+{1031}{}{Emettitore di Campo di Forza}
+{1031}{}{Emettitore di Campo di Forza Danneggiato}
+{1032}{}{Porta}
+{1033}{}{Armadietto}
+{1034}{}{Ratto}
+{1035}{}{Irwin}
+{1036}{}{Power Armor}
+{1037}{}{Baule}
+{1038}{}{Predone}
+{1039}{}{Mathia}
+{1040}{}{Pavimento}
+{1041}{}{Brahmin}
+{1042}{}{Anziano della Confraternita}
+{1043}{}{Ratto Talpa}
+{1044}{}{Anziano della Confraternita}
+{1045}{}{Ghoul}
+{1046}{}{Scatola del Ghiaccio}
+{1047}{}{Olodisco}
+{1048}{}{Campo di Forza}
+{1049}{}{Campo di Forza}
+{1050}{}{Kenny}
+{1051}{}{Guardia della Confraternita}
+{1052}{}{Hub}
+{1053}{}{}
+{1054}{}{Armadietto}
+{1055}{}{Olodisco}
+{1056}{}{Prigioniero}
+{1057}{}{Discepoli}
+{1058}{}{Porta}

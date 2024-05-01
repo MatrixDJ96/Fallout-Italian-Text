@@ -1,0 +1,27 @@
+{100}{}{Vedi un poliziotto.}
+{101}{}{Benvenuto! Dovro' guardare il tuo... ehm... cioe'... controllare... (l'agente guarda gli altri agenti e fa dei cenni con la testa verso di te.)}
+{102}{}{Ehila', straniero... Ehi! Ma io ti conosco! Sei ricercato per furto! Non muoverti!}
+{103}{}{Okay, mi arrendo.}
+{104}{}{Assaggia un po' di piombo! Offre la casa!}
+{105}{}{Kor Rok!}
+{106}{}{(Ti arrendi.)}
+{107}{}{Guardati le spalle, questo non e' un posto tranquillo.}
+{108}{}{Tieni d'occhio i tuoi soldi, }
+{109}{}{ragazzo.}
+{110}{}{miss.}
+{111}{}{Non dovresti stare qui. E' pericoloso.}
+{112}{}{La Citta' Vecchia sta davvero cadendo a pezzi.}
+{113}{}{Questo posto puzza.}
+{114}{}{Dovremmo proprio deciderci a demolire questa zona.}
+{115}{}{So che la Cerchia dei Ladri si trova da queste parti... ma dove?}
+{116}{}{Povero Harold. Ha avuto una vita difficile.}
+{117}{}{Vedi di non cacciarti nei guai.}
+{118}{}{Ehi. Ti conosco. Niente risse, okay?}
+{119}{}{Farai meglio a non scatenare altre risse!}
+{120}{}{Se ti becchiamo ancora in una rissa, finisci dentro!}
+{121}{}{Hai sentito? I Mercanti FarGo sono stati spazzati via.}
+{122}{}{I Mercanti d'Acqua sono storia... che gioia.}
+{123}{}{Qualcuno ha ucciso tutti i membri delle Carovane Scarlatte.}
+{124}{}{Hai sentito? La Malavita e' stata finalmente debellata!}
+{125}{}{Decker e' morto!}
+{126}{}{Questa citta' sarebbe molto piu' sicura se Decker tirasse le cuoia.}

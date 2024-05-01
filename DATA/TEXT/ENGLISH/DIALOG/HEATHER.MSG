@@ -1,0 +1,78 @@
+{100}{}{Vedi Heather, una degli Esploratori dei Discepoli.}
+{101}{}{Che cosa ci fai qui?}
+{102}{}{Quetto!}
+{103}{}{Me va ciao.}
+{104}{}{Sto soltanto dando un'occhiata in giro.}
+{105}{}{Sono qui per ucciderti!}
+{106}{}{Volevo solo sapere cosa succede da queste parti.}
+{107}{}{Davvero? E cosa staresti cercando?}
+{108}{}{Beh, credo di aver appena fatto centro.}
+{109}{}{Sto cercando una spia.}
+{110}{}{Niente, davvero. Sto solo dando un'occhiata.}
+{111}{}{Solo delle informazioni.}
+{112}{}{Ti ringrazio, ma sono gia' impegnata. Credo che faresti meglio ad andartene.}
+{113}{}{Ah, la spia. Ho sentito parlare di quell'insetto fastidioso. Spero davvero che tu riesca a prenderlo.}
+{114}{}{Mi era parso di capire che la spia fosse una donna.}
+{115}{}{Per caso sai qualcosa che potrebbe interessarmi?}
+{116}{}{Sei tu la spia!}
+{117}{}{Buona fortuna. Scusa se ti ho disturbata.}
+{118}{}{Scommetto che e' stato quello spaccone di Neil a dirtelo. Dovro' scambiarci due parole, prima o poi.}
+{119}{}{Credi che la spia sia Neil?}
+{120}{}{Allora chi credi che sia la spia?}
+{121}{}{Sembri un po' sulla difensiva. C'e' un motivo particolare?}
+{122}{}{Ne ho quasi la certezza. Mi servono soltanto delle prove.}
+{123}{}{Te le forniro' io, le prove.}
+{124}{}{A me sembra una brava persona. Non saprei...}
+{125}{}{Perche' credi che si tratti proprio di lui?}
+{126}{}{Grazie. Non sai cosa questo voglia dire per me. Una volta che avrai le prove, uccidilo.}
+{127}{}{Cos'e' che non sai? Puo' raggiungere la Cattedrale. Lavora durante la notte quando quasi tutti stanno dormendo. Dev'essere lui.}
+{128}{}{Ok, faro' qualche controllo.}
+{129}{}{Scordatelo. Penso che tu stia cercando di ingannarmi!}
+{130}{}{Mi dispiace davvero che tu la pensi cosi'. Ma non posso permettere che qualcuno pensi che io sia una spia. Dovro' sollevarti dal tuo incarico. Definitivamente.}
+{131}{}{Di notte puo' raggiungere la Cattedrale. Nessuno lo vede durante il suo turno. Non puo' che essere lui.}
+{132}{}{Ok, faro' qualche controllo.}
+{133}{}{Scordatelo. Penso che tu stia cercando di ingannarmi!}
+{134}{}{Non so con certezza chi possa essere. Credo sia o una guardia o una delle studiose. Si intrufolano spesso nella Cattedrale, di notte.}
+{135}{}{Hai qualche altra idea?}
+{136}{}{Ma ho sentito che solo gli esploratori attaccano i Figli della Cattedrale.}
+{137}{}{Ok. Grazie dell'aiuto.}
+{138}{}{Direi di no. Secondo me si tratta di un uomo: probabilmente e' una guardia oppure uno degli studiosi della biblioteca.}
+{139}{}{Ok. Grazie dell'aiuto.}
+{140}{}{E' vero. Noi esploratori attacchiamo spesso i Figli della Cattedrale. E ultimamente subiamo parecchie perdite. Questo traditore ci sta costando molto.}
+{141}{}{Sembra che la cosa ti sconvolga davvero. Trovero' questa dannata spia e la uccidero'.}
+{142}{}{La spia potrebbe essere uno degli esploratori, secondo te?}
+{143}{}{Grazie dell'aiuto.}
+{144}{}{E perche' mai uno dei nostri dovrebbe fare una cosa del genere?}
+{145}{}{Se gli esploratori morissero, la Cattedrale non subirebbe piu' attacchi.}
+{146}{}{Non saprei. Tu cosa ne pensi?}
+{147}{}{Non saprei. Stavo solo facendo un'ipotesi.}
+{148}{}{Non e' un'idea malvagia. Ho notato che Peter rimane spesso nelle retrovie, durante gli scontri. Forse si tratta di lui.}
+{149}{}{Ok, faro' qualche controllo.}
+{150}{}{Scordatelo. Penso che tu stia cercando di ingannarmi!}
+{151}{}{Credi forse che sia io?}
+{152}{}{Scusami. E che sono un po' nervoso.}
+{153}{}{Si'! E adesso sei morta!}
+{154}{}{E allora vai a fare le tue ipotesi da qualche altra parte. Io devo tornare al lavoro.}
+{155}{}{Credo che pensi che la spia sia io. Ma non e' cosi'.}
+{156}{}{Forse ha ragione.}
+{157}{}{E perche' dovrebbe pensare una cosa del genere?}
+{158}{}{Perche' sono nuova. Sono qui da solo un anno e i problemi sono cominciati circa cinque mesi fa.}
+{159}{}{Credo che Neil possa aver ragione.}
+{160}{}{Credo che Neil potrebbe essere la spia. Vado subito a verificarlo.}
+{161}{}{Allora cerca da qualche altra parte. Questo posto non e' per te.}
+{162}{}{Se ti servono informazioni, rivolgiti a Nicole. Lei e' convinta di sapere tutto.}
+{163}{}{Se mi fai l'offerta giusta, potrei anche convincermi a rivelarti qualcosa.}
+{164}{}{Quanto "giusta"?}
+{165}{}{E venderesti cosi' dei segreti?}
+{166}{}{Lasciamo perdere. Non ho soldi con me.}
+{167}{}{Trecento tappi e le informazioni sono tutte tue.}
+{168}{}{Certo.}
+{169}{}{No.}
+{170}{}{Ci sara' un attacco contro i cancelli sud della roccaforte dei Figli della Cattedrale. Adesso vattene.}
+{171}{}{Cerchi forse di imbrogliarmi? Adesso te la faccio vedere!}
+{172}{}{Mi dispiace che tu la pensi cosi'. Buona giornata, allora.}
+{173}{}{Devo pur mangiare, no? Ora, le vuoi queste informazioni o no?}
+{174}{}{Certo.}
+{175}{}{No.}
+{176}{}{Niente. Vattene.}
+{177}{}{Lasciami in pace. Sto cercando di riposare.}

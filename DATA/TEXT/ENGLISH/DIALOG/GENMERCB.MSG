@@ -1,0 +1,7 @@
+{101}{}{Adesso non ho bisogno di te. Magari un'altra volta.}
+{102}{}{Aiuto! Salvatemi!}
+{103}{}{Meriti di morire per cio' che hai fatto!}
+{104}{}{Risparmiami! Ti prego!}
+{105}{}{Sono tutti morti? Forse ce ne sono altri!}
+{106}{}{Sei arrivato appena in tempo, amico mio. Permettimi di offrirti un piccolo segno della mia gratitudine.}
+{107}{}{Sei arrivata appena in tempo, amica mia. Permettimi di offrirti un piccolo segno della mia gratitudine.}

@@ -3016,25 +3016,15 @@
 {6035}{}{Il braccio!}
 {6036}{}{}
 {6037}{}{}
-{6037}{}{Cazzo! Che male terribile!}
 {6038}{}{Oof!}
-{6038}{}{Oof! Te ne pentirai amaramente}
 {6039}{}{Ouch!}
-{6039}{}{Gasp}
 {6040}{}{Oof! Le mie costole scricchiolano}
-{6040}{}{Gasp! Ho bisogno... d'aria...}
 {6041}{}{Ugh! Che male!}
-{6041}{}{Sputero' sul tuo cadavere, brutto stronzo!}
 {6042}{}{Cazzo! Ti sputo in faccia!}
-{6042}{}{Cazzo!}
 {6043}{}{Argh!}
-{6043}{}{Oof!}
 {6044}{}{Oh, Le mie costole!}
-{6044}{}{Che colpo da codardi!}
 {6045}{}{Ow!!!}
-{6045}{}{Oof!}
 {6046}{}{Oof!}
-{6046}{}{Ouch!}
 {6047}{}{Aggghhh! La mia gamba}
 {6048}{}{La mia gamba!}
 {6049}{}{Il mio povero ginocchio}
@@ -3273,6 +3263,16 @@
 {6434}{}{Ow, il braccio}
 {6435}{}{Mi hai rotto il braccio!}
 {6436}{}{Il braccio! Il braccio!}
+{6437}{}{Cazzo! Che male terribile!}
+{6438}{}{Oof! Te ne pentirai amaramente}
+{6439}{}{Gasp}
+{6440}{}{Gasp! Ho bisogno... d'aria...}
+{6441}{}{Sputero' sul tuo cadavere, brutto stronzo!}
+{6442}{}{Cazzo!}
+{6443}{}{Oof!}
+{6444}{}{Che colpo da codardi!}
+{6445}{}{Oof!}
+{6446}{}{Ouch!}
 {6447}{}{Ow, la gamba}
 {6448}{}{Nessuno puo' permettersi di azzopparmi!}
 {6449}{}{Oh, il mio ginocchio!}

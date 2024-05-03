@@ -490,10 +490,10 @@
 {8021}{}{accampamento, la scorsa notte. Alle 0600 di domani }
 {8022}{}{controllero' di persona la situazione. Passo.}
 {8023}{}{**END-PAR**}
-{8023}{}{Messaggio ricevuto: Ricevuto. Aspetteremo il vostro}
-{8024}{}{rapporto. Se possibile, cercate di catturarlo. Il}
-{8025}{}{Master ne sarebbe felice. Passo.}
-{8026}{}{**END-DISK**}
+{8024}{}{Messaggio ricevuto: Ricevuto. Aspetteremo il vostro}
+{8025}{}{rapporto. Se possibile, cercate di catturarlo. Il}
+{8026}{}{Master ne sarebbe felice. Passo.}
+{8027}{}{**END-DISK**}
 {9000}{}{• 10 Ott, 2077}
 {9001}{}{Io, Roger Maxson, Capitano, numero di matricola 072389}
 {9002}{}{ho cominciato a scrivere questo diario perche' le cose}

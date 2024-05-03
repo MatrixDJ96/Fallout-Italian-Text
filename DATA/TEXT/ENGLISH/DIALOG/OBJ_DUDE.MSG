@@ -180,7 +180,6 @@
 {9513}{}{Non ho idea di cosa tu stia parlando.}
 {9514}{}{Non ne so molto. Dai rapporti pare che si stiano radunando da qualche parte a nord di qui.}
 {10000}{}{Master}
-{10000}{}{Non ho la piu' pallida idea di cosa tu stia parlando.}
 {10001}{}{Guerra}
 {10002}{}{Esodo}
 {10003}{}{Mutanti}
@@ -194,6 +193,7 @@
 {10011}{}{Cavalieri}
 {10012}{}{Paladini}
 {10013}{}{Water-Chip}
+{10100}{}{Non ho la piu' pallida idea di cosa tu stia parlando.}
 {10101}{}{E' stato uno dei momenti piu' bassi della storia umana e ha dato origine al mondo che conosciamo. Noi della Confraternita conserviamo la Conoscenza della Guerra per evitare che si verifichi un altro olocausto.}
 {10102}{}{Una decisione difficile e dolorosa. Molte persone morirono perche' preferirono seguire la loro strada piuttosto che rimanere con il gruppo principale durante la ricerca di un posto sicuro dove vivere.}
 {10103}{}{Non ne so molto. Dai rapporti pare che si stiano radunando da qualche parte a nord di qui.}

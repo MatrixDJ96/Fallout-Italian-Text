@@ -52,6 +52,3 @@
 {151}{}{Cos'e' successo alla tua Power Armor? Posso aiutarti soltanto se ne hai una.}
 {152}{}{E' un piacere vederti, ma adesso sono nel bel mezzo di una ricerca.}
 {153}{}{Non posso fare nulla con quell'armatura. Mi dispiace.}
-{154}{}{Guadagni 500 punti esperienza per aver aiutato Miles a riparare le colture idroponiche.}
-{155}{}{Guadagni 200 punti esperienza per aver portato i pezzi di ricambio a Miles.}
-{156}{}{Guadagni 250 punti esperienza per aver portato i pezzi di ricambio a Miles.}

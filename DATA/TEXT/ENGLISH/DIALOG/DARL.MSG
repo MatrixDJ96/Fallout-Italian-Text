@@ -78,7 +78,6 @@
 {185}{}{Cioe'?}
 {186}{}{Perche' l'Antico Ordine ha due nomi?}
 {187}{}{Dove si trova l'Antico Ordine e quali pericoli nasconde?}
-{188}{}{Posso farti qualche domanda?}
 {189}{}{Molti di quelli che vivono in superficie pensano che sia solo un grosso buco radioattivo. Da qui il nome Glow, ovvero "Bagliore". Qualcuno lo chiama persino "Hot Spot". Ma noi della Confraternita conosciamo la verita'. Secondo le antiche scritture, quel posto era l'origine di tutta la nostra tecnologia. E chissa' cos'altro potrebbe ancora nascondersi laggiu'.}
 {190}{}{Ho un'altra domanda da farti.}
 {191}{}{Posso aiutarti?}

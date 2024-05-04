@@ -14,6 +14,7 @@
 {113}{}{Devi andartene... e subito.}
 {114}{}{Seguimi. Ti daro' la tua ricompensa.}
 {115}{}{Spero di no, per il tuo bene. Set non era molto contento d'aver usato te. Forse faresti meglio a lasciare Necropolis... e in fretta.}
+{116}{}{Ti ho detto di andartene.}
 {117}{}{Vabbe'.}
 {118}{}{Forse hai ragione. Hmm. Ecco, prendi anche questi.}
 {119}{}{Ricevi 100$.}

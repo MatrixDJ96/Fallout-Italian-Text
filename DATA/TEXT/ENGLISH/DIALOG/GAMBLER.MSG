@@ -36,7 +36,3 @@
 {135}{}{Amigo, le tue parole me offendono. Tu credes que te abbia imbrogliato? Beh, tu no vedras un singulo dinero!}
 {136}{}{Buenos dias, amigo! Cosa posso far por ti?}
 {137}{}{Buenos dias, senorita! Cosa posso far por ti?}
-{138}{}{(Giocate per qualche minuto, ma non riesci mai a vincere. Hai come l'impressione d'esser stato giocato.) Un'altra partida?}
-{140}{}{D'accordo.}
-{141}{}{Scordatelo!}
-{142}{}{Tu no tienes el dinero. Y yo no tiengo tiempo por gringos como ti. Sparisci.}

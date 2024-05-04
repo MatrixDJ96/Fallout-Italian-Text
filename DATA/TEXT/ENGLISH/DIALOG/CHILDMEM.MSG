@@ -63,8 +63,3 @@
 {1108}{}{Credo sia uno dei ghoul.}
 {1109}{}{E' laggiu', a nordest.}
 {1110}{}{Non ne so nulla.}
-{9107}{}{Sei stata guarita. Presta maggior attenzione, in futuro.}
-{9108}{}{Sei ferita.}
-{9109}{}{Non sei ferita. Cio' e' bene.}
-{9110}{}{Vedo che sei stata avvelenata.}
-{9139}{}{Non ci interessa sapere come la pensi. Credo che tu sia stanca di sentire le nostre parole di fede. Se ti serve altro, noi siamo qui.}

@@ -1,34 +1,24 @@
-{100}{}{A Junktown guard.}
-{101}{}{This is Junktown. Nice place to live, as long
- as you stay on our good side}
-{102}{}{Watch out for Gizmo and his cronies.}
-{103}{}{I like my boss.}
-{104}{}{You'd better put that away. Junktown is a friendly place,
- friend, and we want to keep it that way.}
-{105}{}{Put what away?}
-{106}{}{Don't tell me what to do, loser boy.}
-{107}{}{Sounds fair. By the way, what is the local law regarding weapons?}
+{100}{}{Una guardia di Junktown.}
+{101}{}{Questo e' Junktown. Un bel posto dove vivere, finche' rimani dalla nostra parte.}
+{102}{}{Attento a Gizmo e ai suoi scagnozzi.}
+{103}{}{Mi piace il mio capo.}
+{104}{}{Faresti meglio a mettere via quella cosa. Junktown e' un posto amichevole, amico, e vogliamo che rimanga cosi'.}
+{105}{}{Mettere via cosa?}
+{106}{}{Non dirmi cosa fare, sfigato.}
+{107}{}{Sembra giusto. A proposito, quali sono le leggi locali riguardo alle armi?}
 {108}{}{Uh oh.}
-{109}{}{Your weapon, idiot. Killian won't take your arms away, but you'd
- better damn well keep them in your holster.}
-{110}{}{Oh, sorry.}
-{111}{}{No way! I'm not putting down my shooters for nobody!}
-{112}{}{You'd better behave, since it's the law, and I enforce the law.
- Put your weapon away, don't draw it unless in self-defense, and
- you won't have a problem with us guards.}
-{113}{}{[more]}
-{114}{}{Disobey the law, and we will return you to the lawless
- wasteland - dead or alive.}
-{115}{}{Sure, since you put it that way.}
-{116}{}{Bite your laws!}
-{117}{}{Well, uh, fine with me. But you'd better be careful.}
-{118}{}{Fine, then. Heh.}
-{119}{}{Good you asked. No weapons can be drawn except in self-defense. If
- you start a fight, it's your fault. Other than that, it's your right
- to go around armed. Just don't pull a knife or gun without just
- cause. Have a good day.}
-{120}{}{Thanks - you, too.}
-{121}{}{Hey you, no weapons! And I don't care if your momma dropped you on
- your head as a kid. No weapons.}
+{109}{}{La tua arma, idiota. Killian non ti togliera' le armi, ma e' meglio che le tieni bene nella fondina.}
+{110}{}{Oh, scusa.}
+{111}{}{Ma neanche per sogno! Non metto giu' le mie pistole per nessuno!}
+{112}{}{Faresti bene a comportarti, visto che e' la legge, e io faccio rispettare la legge. Metti via l'arma, non estrarla se non per autodifesa, e non avrai problemi con noi guardie.}
+{113}{}{[altro]}
+{114}{}{Disobbedisci alla legge, e ti rimanderemo al deserto senza legge - morto o vivo.}
+{115}{}{Va bene, visto che lo metti in questi termini.}
+{116}{}{Mangia le tue leggi!}
+{117}{}{Beh, uh, va bene per me. Ma fai attenzione.}
+{118}{}{Va bene, allora. Eheh.}
+{119}{}{Bene che hai chiesto. Non si possono estrarre armi se non in autodifesa. Se inizi una rissa, e' colpa tua. A parte questo, e' tuo diritto andare in giro armato. Solo non tirare fuori un coltello o una pistola senza una giusta causa. Buona giornata.}
+{120}{}{Grazie - anche a te.}
+{121}{}{Ehi tu, niente armi! E non importa se tua madre ti ha fatto cadere sulla testa da bambino. Niente armi.}
 {122}{}{Dorf!}
-{123}{}{You earn 150 experience points for killing the guard.}
+{123}{}{Guadagni 150 punti esperienza per aver ucciso la guardia.}

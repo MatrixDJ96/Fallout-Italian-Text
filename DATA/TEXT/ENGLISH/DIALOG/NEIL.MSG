@@ -99,4 +99,3 @@
 {198}{}{Mi farebbero molto comodo. Grazie.}
 {199}{}{Adesso sei un po' piu' preparato. Ci vediamo.}
 {200}{}{Ti ringrazio per i tuoi insegnamenti. Adesso ho buone probabilita' di fargliela pagare, a quei Figli della Cattedrale.}
-{201}{}{Guadagni 250 punti esperienza per aver insegnato ai Discepoli a difendersi meglio.}

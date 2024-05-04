@@ -115,16 +115,16 @@
 {214}{}{Papa', chiudi quella fogna!}
 {215}{}{Ehi, vecchio, sto morendo di fame! Adesso faccio una pausa!}
 {216}{}{Odio compilare i libri contabili.}
-{217}{}{}
-{218}{}{}
-{219}{}{}
-{220}{}{}
-{221}{}{}
-{222}{}{}
-{223}{}{}
-{224}{}{}
-{225}{}{}
-{226}{}{}
-{227}{}{}
-{228}{}{}
+{217}{}{Gennaio }
+{218}{}{Febbraio }
+{219}{}{Marzo }
+{220}{}{Aprile }
+{221}{}{Maggio }
+{222}{}{Giugno }
+{223}{}{Luglio }
+{224}{}{Agosto }
+{225}{}{Settembre }
+{226}{}{Ottobre }
+{227}{}{Novembre }
+{228}{}{Dicembre }
 {229}{}{Ricevi 3 confezioni di droga.}

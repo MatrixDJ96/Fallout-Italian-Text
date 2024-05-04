@@ -1,14 +1,14 @@
-{100}{}{Remove the Gangs from Scrapheap.}
-{101}{}{If you do not kill off all the gangs they will seek vengeance.}
-{102}{}{The Crypts and Fools fight over who controls the power generator.}
-{200}{}{Scout for the Fools}
-{201}{}{You need to go scout out the Crypts for the Fools.}
-{300}{}{Scout for the Crypts}
-{301}{}{You need to go scout out the Fools for the Crypts.}
-{400}{}{The Power Generator}
-{401}{}{Without the generator, the peasants will lead a poorer life.}
-{402}{}{The generator is the most important thing in Scrapheap. Whoever controls it controls Scrapheap.}
-{403}{}{There are exposed wires which lead away from the generator.}
-{500}{}{Phil's dog problem.}
-{501}{}{Phil has some problem with a dog.}
-{502}{}{The dog looks hungry enough to eat Phil.}
+{100}{}{Elimina le bande da Scrapheap.}
+{101}{}{Se non elimini tutte le bande, cercheranno vendetta.}
+{102}{}{I Crypts e i Fools si contendono il controllo del generatore di energia.}
+{200}{}{Esplora per i Fools}
+{201}{}{Devi andare a esplorare i Crypts per i Fools.}
+{300}{}{Esplora per i Crypts}
+{301}{}{Devi andare a esplorare i Fools per i Crypts.}
+{400}{}{Il Generatore di Energia}
+{401}{}{Senza il generatore, i contadini condurranno una vita piu' povera.}
+{402}{}{Il generatore e' la cosa piu' importante a Scrapheap. Chi lo controlla, controlla Scrapheap.}
+{403}{}{Ci sono dei fili scoperti che si allontanano dal generatore.}
+{500}{}{Il problema del cane di Phil.}
+{501}{}{Phil ha un problema con un cane.}
+{502}{}{Il cane sembra abbastanza affamato da mangiare Phil.}

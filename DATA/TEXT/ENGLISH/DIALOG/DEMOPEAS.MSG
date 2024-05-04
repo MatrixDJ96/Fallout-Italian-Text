@@ -7,4 +7,3 @@
 {106}{}{Sono certo che Phil ti sarebbe grato se lo liberassi dal suo cane.}
 {107}{}{Grazie per aver liberato Phil da quel cane.}
 {108}{}{Guadagni 50 punti esperienza.}
-{6100}{}{Vedi una contadina.}

@@ -46,8 +46,3 @@
 {145}{}{Raccontami una storia, per favore.}
 {146}{}{Questo tipo, Dharma, mi sembra un idiota.}
 {147}{}{Insulti i tuoi anziani. Dovresti riflettere meglio sulle tue azioni.}
-{1119}{}{Salve. Tu devi essere la straniera della quale tutti parlano. [sospira] Come posso aiutarti?}
-{1125}{}{Tu hai bisogno di piu' aiuto di quello che io posso darti, figlia mia. Possa Dharma vegliare su di te.}
-{1130}{}{Mi dispiace, figlia mia, adesso sono stanca. Ho bisogno di riposare. Torna piu' tardi.}
-{1137}{}{La notte non dormo bene, figlia mia. Dev'essere l'eta'.}
-{1138}{}{Buongiorno, ragazza mia. Mi sembri in forma. Mi ricordi mia figlia.}

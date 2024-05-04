@@ -1,22 +1,22 @@
-{100}{}{You see a Crypt.}
-{101}{}{You see a ganger.}
-{102}{}{Welcome to the gang, man.}
-{103}{}{We Crypts will bury those Fools.}
-{104}{}{I'm glad you're on on our side.}
-{105}{}{With your help, we can kill them Fools.}
-{106}{}{This town is all ours now.}
-{107}{}{I like your style.}
-{108}{}{You gotta get yourself some leather. You a Crypt now.}
-{109}{}{We don't want your kind around here, Fool.}
-{110}{}{Get out, before we throw you out.}
-{111}{}{If you start any trouble, the whole Crypt will come down on you.}
-{112}{}{You made the wrong choice. Now you gonna be buried.}
-{113}{}{What are you doing here?}
-{114}{}{Scrapheap belongs to us.}
-{115}{}{In Scrapheap, if you ain't with us, you are either a loser or a Fool. What are you?}
-{116}{}{You talking to me? Are you talking to me?}
-{117}{}{This ain't no game, man. You either a Crypt or you gonna be buried.}
-{118}{}{Only Crypts got the right to wear leathers.}
-{119}{}{Run, Fools, while you still have a chance to live.}
-{120}{}{Hey, Rayze, hunting season just openned, and Fools are on the list of dumb animals.}
-{121}{}{Hey guys, leave a Fool for me to kill.}
+{100}{}{Vedi un Crypt.}
+{101}{}{Vedi un membro della banda.}
+{102}{}{Benvenuto nella banda, amico.}
+{103}{}{Noi Crypt seppelliremo quei Fools.}
+{104}{}{Sono contento che tu sia dalla nostra parte.}
+{105}{}{Con il tuo aiuto, possiamo uccidere quei Fools.}
+{106}{}{Questa citta' e' tutta nostra ora.}
+{107}{}{Mi piace il tuo stile.}
+{108}{}{Devi procurarti un po' di pelle. Sei un Crypt ora.}
+{109}{}{Non vogliamo gente come te qui, Fool.}
+{110}{}{Vattene, prima che ti buttiamo fuori.}
+{111}{}{Se fai guai, tutti i Crypt ti cadranno addosso.}
+{112}{}{Hai fatto la scelta sbagliata. Ora verrai sepolto.}
+{113}{}{Cosa ci fai qui?}
+{114}{}{Scrapheap appartiene a noi.}
+{115}{}{A Scrapheap, se non sei con noi, sei o un perdente o un Fool. Cosa sei?}
+{116}{}{Mi stai parlando? Mi stai parlando?}
+{117}{}{Questo non e' un gioco, amico. O sei un Crypt o verrai sepolto.}
+{118}{}{Solo i Crypt hanno il diritto di indossare la pelle.}
+{119}{}{Scappa, Fools, mentre hai ancora una possibilita' di vivere.}
+{120}{}{Ehi, Rayze, la stagione di caccia e' appena aperta, e i Fools sono nella lista degli animali stupidi.}
+{121}{}{Ehi ragazzi, lasciate un Fool da uccidere anche a me.}

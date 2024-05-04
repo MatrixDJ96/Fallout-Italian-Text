@@ -958,7 +958,7 @@
 {1058}{}{Porta}
 {1059}{}{Emettitore di Campo di Forza Danneggiato}
 {1060}{}{Test}
-{1061}{}{Oggetto Trucchi}
+{1061}{}{Oggetto Cheat}
 {1062}{}{Cliente Carovana}
 {1063}{}{Boxer}
 {1064}{}{}

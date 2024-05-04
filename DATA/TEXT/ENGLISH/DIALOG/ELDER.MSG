@@ -10,5 +10,7 @@
 {109}{}{Prima avevi parlato di una "speranza". Cosa volevi dire?}
 {110}{}{Vedo. Beh, ti saluto.}
 {111}{}{Che Dharma vegli sul tuo cammino.}
+{112}{}{Eccellente. Sammy qui ti guidera' al covo.
+ Prendi questi oggetti - ti saranno utili. }
 {113}{}{Che Dharma vegli sul tuo cammino.}
 {114}{}{Non parlo con chi non conosce che il male. Che Dharma possa avere pieta' di te.}

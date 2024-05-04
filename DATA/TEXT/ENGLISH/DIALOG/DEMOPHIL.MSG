@@ -1,42 +1,29 @@
-{100}{}{You see a peasant.}
-{101}{}{You see Phil.}
-{102}{}{It ain't my dog!}
-{103}{}{Damn right, shoot that beast!}
-{104}{}{I wouldn't trust that beast, if I was you.
- That thing is a killer.}
+{100}{}{Vedi un contadino.}
+{101}{}{Vedi Phil.}
+{102}{}{Non e' il mio cane!}
+{103}{}{Hai ragione, facciamolo secco!}
+{104}{}{Non mi fiderei di quella bestia, se fossi in te. Quel coso e' un assassino.}
 {105}{}{Mister,}
-{106}{}{Ma'am,}
-{107}{}{ I would be really happy if you were to get rid of
- that damn dog.}
-{108}{}{Why?}
-{109}{}{Nah, I only deal with important stuff.}
-{110}{}{Where did it come from?}
+{106}{}{Signorina,}
+{107}{}{ sarei davvero felice se tu potessi aiutarmi a sbarazzarmi di quel dannato cane.}
+{108}{}{Perche'?}
+{109}{}{Nah, mi occupo solo di cose importanti, io.}
+{110}{}{Da dove viene?}
 {111}{}{Hnnn.}
-{112}{}{Mebbe you can talk it to death.}
-{113}{}{It won't let us back into our house, that's why.}
+{112}{}{Puoi provare a farlo morire di noia, con le tue chiacchiere.}
+{113}{}{Non ci fa piu' entrare in casa, ecco perche'.}
 {114}{}{Okay.}
-{115}{}{Isn't it your dog?}
-{116}{}{It was the 'pet' of a traveler. When the traveler died, this
- damn dog just plopped its furry ass down on my doorstep
- and wouldn't leave. It's been there for days.}
+{115}{}{Non e' vostro, il cane?}
+{116}{}{Era il "cucciolo" di un viandante. Quando il viandante e' morto, questo dannato cane ha piazzato il suo culo peloso davanti alla porta della mia casa e non se n'e' piu' voluto andare. Sono giorni che e' fermo li'.}
 {117}{}{Oh.}
-{118}{}{Who was this traveler?}
-{119}{}{What did the traveler look like?}
-{120}{}{I don't know. Some guy. He came from the east, he said.
- Like anyone could get past the deadlands to the east.
- He ran afoul of Gizmo, trying to interfere with Gizmo's
- business.}
-{121}{}{So, Gizmo had a couple of boys beat him up and throw him from
- the casino roof. The traveler broke his damnfool neck and
- died. The dog was pissed.}
-{122}{}{What did the traveler look like?}
-{123}{}{Oh, the guy was tall, dark-haired with a little graying
- around the edges. He was dressed all in black leather,
- like that's a good idea in the desert, and carried
- a shotgun.}
-{124}{}{He had some funny accent. The dog was his constant companion,
- followed him everywhere.}
-{125}{}{Appreciate the gossip.}
-{126}{}{I hate that dog.}
-{127}{}{Thanks for your help.}
-{128}{}{You get 50 experience points.}
+{118}{}{Chi era questo viandante?}
+{119}{}{Che aspetto aveva questo viandante?}
+{120}{}{Non so. Era un tipo. Veniva da est, diceva. Come se qualcuno fosse in grado di attraversare le lande roventi dell'est... Ha fatto l'errore di mettersi contro Gizmo, tentando di interferire con i suoi affari.}
+{121}{}{Cosi' Gizmo ha mandato due dei suoi ragazzi a pestarlo per bene e poi l'hanno buttato giu' dal tetto del casino'. Il viandante s'e' spaccato l'osso del collo ed e' morto. E il cane s'e' incazzato.}
+{122}{}{Che aspetto aveva questo viandante?}
+{123}{}{Oh, il tipo era alto, con i capelli neri, un po' grigi ai lati. Era vestito interamente di cuoio nero, non certo la migliore idea del mondo se si viaggia nel deserto, e aveva un fucile a pompa.}
+{124}{}{Aveva uno strano accento. Il cane gli era sempre accanto e lo seguiva dappertutto.}
+{125}{}{Grazie per la storia.}
+{126}{}{Odio quel cane.}
+{127}{}{Grazie per l'aiuto.}
+{128}{}{Guadagni 50 punti esperienza.}

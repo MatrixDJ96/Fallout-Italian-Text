@@ -11,7 +11,6 @@
 {1005}{}{Teo}
 {1006}{}{Ghoul}
 {1007}{}{Umani}
-{1008}{}{Ragfox}
 {1100}{}{E che ne so?.}
 {1101}{}{Ci sei in mezzo.}
 {1102}{}{E' uno smidollato. Dovremmo spazzare via lui e tutti i suoi ghoul.}
@@ -20,4 +19,3 @@
 {1105}{}{E' il capo di Harry.}
 {1106}{}{Smidollati.}
 {1107}{}{Piu' smidollati dei ghoul.}
-{1108}{}{Il piu' smidollato degli umani.}

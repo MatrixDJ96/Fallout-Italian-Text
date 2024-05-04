@@ -1,25 +1,20 @@
-{100}{}{The power generator has been sabotaged. It no longer functions.}
-{101}{}{You see a power generator. It is the only source of power in Scrapheap.}
-{102}{}{You clip some wires on the transformer. The power generator no longer functions.}
-{103}{}{The cutters are of no further use.}
-{104}{}{That item is useless on the generator.}
-{105}{}{You notice nothing in particular about the generator.}
-{106}{}{The generator itself looks fairly tamper-proof; however you notice a set of wires between the transformer
- and the generator.}
-{107}{}{You cannot see anything special about this large generator.}
-{108}{}{You can determine nothing further about the generator.}
-{109}{}{The wires could be repaired, but it may take a while, and there is no guarantee of success.}
-{110}{}{You cannot see anything special about the damaged generator.}
-{111}{}{You are unable to any further repair.}
-{112}{}{There is no need to repair the power generator. It is functioning perfectly.}
-{113}{}{You are unable to repair the functioning generator.}
-{114}{}{It takes several hours, but you fix the power generator. With the power restored, and the gangs gone,
- the townspeople are grateful. They give you some valuable information. Your task in Scrapheap is done. The
- mission to find the water chip still awaits.}
-{115}{}{You cannot fix the generator. The people of Scrapheap will lead a poorer life without their power;
- but with the gangs gone, at least they will have a life. Your task in Scrapheap is done. The mission to
- find the water chip still awaits.}
-{116}{}{Further tampering with the generator yields nothing.}
-{117}{}{That skill has no effect on the generator.}
-{118}{}{The generator is already running.}
-{119}{}{You are unable to start the generator, because it is broken.}
+{100}{}{Il generatore di energia e' stato sabotato. Non funziona piu'.}
+{101}{}{Vedi un generatore di energia. E' l'unica fonte di energia a Scrapheap.}
+{102}{}{Tagli alcuni cavi sul trasformatore. Il generatore di energia non funziona piu'.}
+{103}{}{Le tronchesi non sono piu' utili.}
+{104}{}{Quell'oggetto e' inutile sul generatore.}
+{105}{}{Non noti nulla di particolare sul generatore.}
+{106}{}{Il generatore stesso sembra abbastanza a prova di manomissione; tuttavia noti un insieme di cavi tra il trasformatore e il generatore.}
+{107}{}{Non riesci a vedere nulla di speciale su questo grande generatore.}
+{108}{}{Non puoi determinare nulla di piu' sul generatore.}
+{109}{}{I cavi potrebbero essere riparati, ma potrebbe richiedere del tempo e non e' garantito il successo.}
+{110}{}{Non riesci a vedere nulla di speciale sul generatore danneggiato.}
+{111}{}{Non sei in grado di effettuare ulteriori riparazioni.}
+{112}{}{Non c'e' bisogno di riparare il generatore di energia. Funziona perfettamente.}
+{113}{}{Non sei in grado di riparare il generatore funzionante.}
+{114}{}{Ci vogliono diverse ore, ma riesci a riparare il generatore di energia. Con l'energia ripristinata e le bande scomparse, gli abitanti della citta' sono grati. Ti danno alcune informazioni preziose. Il tuo compito a Scrapheap e' concluso. La missione di trovare il chip dell'acqua ti aspetta ancora.}
+{115}{}{Non riesci a riparare il generatore. La gente di Scrapheap condurra' una vita piu' povera senza energia; ma con le bande scomparse, almeno avranno una vita. Il tuo compito a Scrapheap e' concluso. La missione di trovare il chip dell'acqua ti aspetta ancora.}
+{116}{}{Ulteriori manomissioni al generatore non danno risultati.}
+{117}{}{Quell'abilita' non ha effetto sul generatore.}
+{118}{}{Il generatore e' gia' in funzione.}
+{119}{}{Non riesci a avviare il generatore perche' e' rotto.}

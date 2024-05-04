@@ -130,6 +130,7 @@
 {229}{}{Li hai uccisi tutti? No, non e' un problema... anzi! Adesso la mia gente potra' vivere libera insieme agli abitanti di Adytum.}
 {230}{}{Non posso crederci. Sei riuscito ad ucciderli tutti. I Blade ed io ti ringraziamo.}
 {231}{}{Ho sentito che i Regolatori controllano ancora Adytum. Pare che tu non sia riuscito ad ucciderli tutti come speravi.}
+{232}{}{Non preoccuparti, me ne occupero' io.}
 {233}{}{Non credo di essere in grado di farlo da solo.}
 {234}{}{Verremmo volentieri con te, ma senza delle armi decenti i Regolatori ci ucciderebbero tutti. Ma potrebbe esserci un'altra possibilita' [Razor pensa per un attimo] Se riuscissi a convicere i Gun Runner a fornirci delle armi, allora potremmo venire con te.}
 {235}{}{Buona idea. Vado subito a parlare con i Gun Runner.}

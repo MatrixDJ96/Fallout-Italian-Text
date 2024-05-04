@@ -40,7 +40,6 @@
 {1023}{}{Citta'}
 {1024}{}{Centro}
 {1025}{}{Colli}
-{1026}{}{Ragfox}
 {1100}{}{Wah! Mi fa venire gli incubi!}
 {1101}{}{Dei cattivoni!}
 {1102}{}{Non lo so.}
@@ -67,4 +66,3 @@
 {1123}{}{Il mio papa' dice che li' possiamo giocare.}
 {1124}{}{Ci vivono molte persone.}
 {1125}{}{Ci vivono molte persone.}
-{1126}{}{Mi fa tanta paura.}

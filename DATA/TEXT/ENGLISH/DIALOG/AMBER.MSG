@@ -43,5 +43,3 @@
 {142}{}{Magari un'altra volta. Grazie.}
 {143}{}{Speravo di imparare qualcosa che mi risultasse piu' utile.}
 {144}{}{Non hai bisogno dei miei insegnamenti. Tu hai insegnato la guerra a persone pacifiche. Ora piango per loro.}
-{202}{}{Benvenuta, nobile viaggiatrice. Sei giunta qui per apprendere?}
-{241}{}{Sarei onorata se potessi sentire una canzone.}

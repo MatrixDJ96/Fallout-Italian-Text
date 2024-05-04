@@ -26,7 +26,7 @@
 {125}{}{Certo, sarebbe magnifico.}
 {126}{}{Mi dispiace, ma sono un po' di fretta.}
 {127}{}{Whoa, non cosi' in fretta. Non abbiamo ancora finito le presentazioni, ricordi? Come ti chiami, straniero?}
-{128}{}{}
+{128}{}{Io sono }
 {129}{}{.}
 {130}{}{Non sono affari tuoi, testa bacata.}
 {131}{}{E' un piacere. Fa' attenzione, amico.}

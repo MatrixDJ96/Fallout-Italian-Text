@@ -2,4 +2,3 @@
 {101}{}{Ripara la pompa o sei morto.}
 {102}{}{Ben fatto!}
 {103}{}{Torna subito qui e ripara la pompa!}
-{201}{}{Ripara la pompa o sei morta.}

@@ -2,4 +2,3 @@
 {101}{}{[Si']}
 {102}{}{[No]}
 {103}{}{Ti svegli riposato.}
-{104}{}{Ti svegli riposata.}

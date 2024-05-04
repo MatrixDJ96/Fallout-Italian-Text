@@ -194,7 +194,6 @@
 {1013}{}{Scorpione}
 {1014}{}{Torre}
 {1015}{}{Seth}
-{1016}{}{Ragfox}
 {1100}{Ara_49}{Sono io. E guido l'umile villaggio di Shady Sands.}
 {1101}{Ara_49A}{Dharma era un grand'uomo, profondamente religioso. Faresti bene a prestare attenzione alle sue parole.}
 {1102}{Ara_50}{E' mia figlia. E' lei che rende questa dura vita degna d'essere vissuta.}
@@ -211,18 +210,3 @@
 {1113}{Ara_57}{Sono creature pericolose. Sta' attento alla loro coda. Il veleno di quei mostri puo' essere letale.}
 {1114}{Ara_62}{La trovi vicino all'entrata del villaggio. Seth dovrebbe trovarsi la'.}
 {1115}{Ara_52}{Un bravo giovine, Seth. E' il Capitano delle nostre guardie. Dovrebbe trovarsi nei pressi della caserma. }
-{1116}{}{Un eroe leggendario dalle sembianze di volpe.}
-{2101}{}{Benvenuta, viandante. Ti prego, non sentirti offesa se i miei compaesani ti sembrano ostili. Come dice Dharma: "Le difficolta' induriscono la pelle degli uomini". Cosa ti porta a Shady Sands?}
-{2102}{}{Benvenuta. Cosa ti porta a Shady Sands?}
-{2109}{}{Shady Sands? Whoops, mi sono persa! Adesso devo proprio andare.}
-{2120}{}{Non sono obbligata a risponderti.}
-{2126}{}{Sei davvero insolente. Credo che dovresti andartene. E non tornare mai piu'. Non sei la benvenuta, qui.}
-{2135}{}{Un Vault. Come posso fidarmi di te, viandante, se tu non sei onesta con me?}
-{2152}{}{Ci ritroviamo, giovane viandante. Spero che il tuo soggiorno sia stato piacevole.}
-{2153}{}{Mi sono trovata benissimo. Posso farti qualche domanda?}
-{2157}{}{Benvenuta. Come posso aiutarti, in questa splendida giornata?}
-{2210}{}{Sei una vera eroina! La gente di Shady Sands ti e' immensamente grata.}
-{2245}{}{Fin quando non ci ritroveremo, addio, amica mia. Possa l'acqua trovata nel deserto non abbagliarti nel buio.}
-{2259}{}{Sono creature pericolose. Sta' attenta alla loro coda. Il veleno di quei mostri puo' essere letale.}
-{2277}{}{Non ho intenzione di sprecare il mio tempo con una traditrice.}
-{21113}{}{Sono creature pericolose. Sta' attenta alla loro coda. Il veleno di quei mostri puo' essere letale.}

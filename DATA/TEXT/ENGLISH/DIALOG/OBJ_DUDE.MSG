@@ -11,42 +11,36 @@
 {2803}{}{Set}
 {2804}{}{Acquedotto}
 {2805}{}{Sala}
-{2806}{}{Ragfox}
 {2900}{}{Non e' per caso un pezzo grosso?}
 {2901}{}{Non saprei, ma forse nell'acquedotto ce n'e' uno.}
 {2902}{}{Ci sei dentro.  O in quel che ne rimane, almeno. Questo posto sta morendo... lentamente, forse, ma sta morendo.}
 {2903}{}{Oh, lui mi piace, certo.  Lo puoi trovare nella Sala.}
 {2904}{}{Si trova a nord di qui. Occhio alle guardie. Il loro lavoro lo prendono dannatamente sul serio, quelli.}
 {2905}{}{La Sala dei Morti. E' dove Set dirige i suoi affari.}
-{2906}{}{Non e' per caso un pezzo grosso?}
 {3400}{}{Master}
 {3401}{}{Chip}
 {3402}{}{Necropolis}
 {3403}{}{Set}
 {3404}{}{Acquedotto}
 {3405}{}{Sala}
-{3406}{}{Ragfox}
 {3500}{}{Non e' per caso un pezzo grosso?}
 {3501}{}{Non saprei, ma forse nell'acquedotto ce n'e' uno.}
 {3502}{}{Ci sei dentro.  O in quel che ne rimane, almeno. Questo posto sta morendo... lentamente, forse, ma sta morendo.}
 {3503}{}{Oh, lui mi piace, certo.  Lo puoi trovare nella Sala.}
 {3504}{}{Si trova a nord di qui. Occhio alle guardie. Il loro lavoro lo prendono dannatamente sul serio, quelli.}
 {3505}{}{La Sala dei Morti. E' dove Set dirige i suoi affari. E' giusto nel centro di Necropolis.}
-{3506}{}{Non e' per caso un pezzo grosso?}
 {4000}{}{Master}
 {4001}{}{Chip}
 {4002}{}{Necropolis}
 {4003}{}{Set}
 {4004}{}{Acquedotto}
 {4005}{}{Sala}
-{4006}{}{Ragfox}
 {4100}{}{Non e' per caso un pezzo grosso?}
 {4101}{}{Non saprei, ma forse nell'acquedotto ce n'e' uno.}
 {4102}{}{Ci sei dentro.  O in quel che ne rimane, almeno. Questo posto sta morendo... lentamente, forse, ma sta morendo.}
 {4103}{}{Oh, lui mi piace, certo.  Lo puoi trovare nella Sala.}
 {4104}{}{Occhio alle guardie. Il loro lavoro lo prendono dannatamente sul serio, quelli..}
 {4105}{}{La Sala dei Morti. E' dove Set dirige i suoi affari. E' giusto nel centro di Necropolis.}
-{4106}{}{Non e' per caso un pezzo grosso?}
 {4600}{}{Vault}
 {4601}{}{Water}
 {4602}{}{Supervisore}
@@ -163,7 +157,6 @@
 {9411}{}{Cavalieri}
 {9412}{}{Paladini}
 {9413}{}{Water-Chip}
-{9414}{}{Mutanti}
 {9500}{}{Non ho la piu' pallida idea di cosa tu stia parlando.}
 {9501}{}{E' stato uno dei momenti piu' bassi della storia umana e ha dato origine al mondo che conosciamo. Noi della Confraternita conserviamo la Conoscenza della Guerra per evitare che si verifichi un altro olocausto.}
 {9502}{}{Una decisione difficile e dolorosa. Molte persone morirono perche' preferirono seguire la loro strada piuttosto che rimanere con il gruppo principale durante la ricerca di un posto sicuro dove vivere.}
@@ -178,7 +171,6 @@
 {9511}{}{Sono loro che costruiscono le armi della Confraternita.}
 {9512}{}{Sono i protettori della Confraternita.}
 {9513}{}{Non ho idea di cosa tu stia parlando.}
-{9514}{}{Non ne so molto. Dai rapporti pare che si stiano radunando da qualche parte a nord di qui.}
 {10000}{}{Master}
 {10001}{}{Guerra}
 {10002}{}{Esodo}

@@ -13,4 +13,3 @@
 {112}{}{Come va?}
 {113}{}{E' un piacere vederti.}
 {114}{}{Buona giornata.}
-{115}{}{Vedi un'abitante di Shady Sands.}

@@ -18,6 +18,7 @@
 {213}{}{Naturalmente. Grazie. L'Unita' prevale.}
 {214}{}{Veramente no. Dovrei?}
 {215}{}{Certo! Non puoi sperare di superare il Corridoio, senza! Cos'altro pensavi di farci, con l'annullatore?}
+{216}{}{L'ho lasciato negli altri vestiti.}
 {217}{}{Il Tenente non ha avuto il tempo di darmene uno.}
 {218}{}{Ah, dell'umorismo... mi piace. [tace] Io naturalmente non ne ho. Dovrai andarne a prendere uno da quegli scervellati nel secondo livello. L'Unita' prevale.}
 {219}{}{Allora e' un pazzo, o tu non sei chi dici di essere... Dunque, qual e' la verita'?}

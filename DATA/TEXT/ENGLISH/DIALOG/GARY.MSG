@@ -12,7 +12,6 @@
 {1006}{}{Ghoul}
 {1007}{}{Umani}
 {1008}{}{chip}
-{1009}{}{Ragfox}
 {1100}{}{Mai sentito.}
 {1101}{}{Ci sei in mezzo.}
 {1102}{}{E' uno smidollato. Dovremmo spazzare via lui e tutti i suoi ghoul.}
@@ -22,4 +21,3 @@
 {1106}{}{Smidollati.}
 {1107}{}{Piu' smidollati dei ghoul.}
 {1108}{}{Mai sentito.}
-{1109}{}{Ne ho mangiato uno proprio ieri... beh, forse no.}

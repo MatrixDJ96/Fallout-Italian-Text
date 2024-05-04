@@ -131,4 +131,3 @@
 {230}{}{Vedi un ghoul dalle fattezze mostruose.}
 {231}{}{Stranamente ti ricorda qualcuno.}
 {232}{}{Ahime', non ho altro tempo da dedicarti. Buona giornata.}
-{233}{}{Davvero lodevole... Beh, addio.}

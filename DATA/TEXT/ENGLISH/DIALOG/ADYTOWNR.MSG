@@ -18,4 +18,3 @@
 {117}{}{Ci hai reso la liberta'. Grazie.}
 {118}{}{E' un bene che i Regolatori siano spariti.}
 {119}{}{Benvenuto a Nuova Adytum.}
-{6100}{}{Vedi un'abitante di Adytum.}

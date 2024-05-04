@@ -6,4 +6,3 @@
 {105}{}{Ma che bel cagnolino.}
 {106}{}{Sono certo che Phil ti sarebbe grato se lo liberassi dal suo cane.}
 {107}{}{Grazie per aver liberato Phil da quel cane.}
-{6100}{}{Vedi una contadina.}

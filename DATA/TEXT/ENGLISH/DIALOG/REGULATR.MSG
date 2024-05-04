@@ -68,7 +68,3 @@
 {1113}{}{Noi proteggiamo Adytum.}
 {1114}{}{Vanno in giro in cerca di robe.}
 {1115}{}{Questo e' il Boneyard.}
-{6103}{}{Benvenuta ad Adytum, straniera. Comportati bene: ti teniamo d'occhio.}
-{6108}{}{Bentornata! Qui sarai sempre la benvenuta.}
-{6127}{}{Non temere: qui sarai sempre la benvenuta!}
-{6132}{}{Una ladra, eh? Ti mostro io quello che facciamo ai tipi come te!}

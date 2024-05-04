@@ -21,4 +21,3 @@
 {120}{}{Vattene. Sto cercando di concludere un lavoro.}
 {121}{}{Quella spia deve sparire. Muoversi!}
 {122}{}{Hai fatto un ottimo lavoro smascherando il doppio gioco di Heather. Avrei dovuto sospettare subito di lei: per qualche motivo, durante i raid spariva sempre nel nulla. Ecco, prendi la tua ricompensa. E... grazie.}
-{123}{}{Guadagni 500 punti esperienza per aver eliminato Heather, la spia della Cattedrale.}

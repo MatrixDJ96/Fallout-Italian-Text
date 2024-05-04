@@ -20,7 +20,7 @@
 {119}{}{Grazie mille. Torna quando vuoi.}
 {120}{}{Non hai abbastanza soldi. Ma io ho un metodo speciale per trattare con i debitori. Flash e Cougar, portate la nostra nuova fonte di guadagni al laboratorio per l'"operazione".}
 {121}{}{Ok, ho i risultati dei tuoi esami:}
-{122}{}{}
+{122}{}{Tu sei }
 {123}{}{Il costo totale e' di}
 {124}{}{$. Il denaro dev'essere versato prima dell'eventuale trattamento. Senza eccezioni. Sei pronto a pagare?}
 {125}{}{Si', paghero'.}

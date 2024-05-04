@@ -144,7 +144,6 @@
 {1063}{}{Esperimenti}
 {1064}{}{Polizia}
 {1065}{}{Mercanti}
-{1066}{}{Ragfox}
 {1100}{}{Non ho idea di cosa sia un water chip. Spiacente, amico.}
 {1101}{}{Ha avuto luogo qualche decina di anni fa. In pratica, ad una mezza dozzina di nazioni e' saltata la mosca al naso e tutto il mondo ha fatto BOOM!}
 {1102}{}{Un piccolo e pacifico villaggio. Probabilmente la comunita' piu' promettente delle lande.}
@@ -210,4 +209,3 @@
 {1163}{}{Spiacente, amico. Non ne so molto.}
 {1164}{}{Spiacente, amico. Non ne so molto.}
 {1165}{}{Alcuni mercanti dell'Hub si spingono fino a Junktown per commerciare. E' tutto quel che so.}
-{1166}{}{Una volta, mentre viaggiavo con una carovana, mi sono imbattuto in un villaggio di selvaggi. Da quel che ho capito, la tribu' venerava una divinita' animale che rispondeva a quel nome. Ma tu dove l'hai sentito?}

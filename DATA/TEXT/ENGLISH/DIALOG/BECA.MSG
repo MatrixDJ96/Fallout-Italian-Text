@@ -16,7 +16,3 @@
 {115}{}{Posso farmi una dormita?}
 {116}{}{No. I letti sono per i veri Blade, non per le mezze seghe.}
 {117}{}{Ehi! Come butta? Fermati pure qui da noi, se ti serve un posto sicuro dove stare.}
-{118}{}{E cosi' ti sei offerto di aiutarci. Meglio che niente, devo ammettere. Grazie. Lo diro' in giro.}
-{119}{}{Gia'. Cerchero' di fare il possibile.}
-{120}{}{Ehila'. Ho sentito che ci hai aiutato, alla fine. Devo dire che ti sei proprio meritato il nostro rispetto. Adesso siamo liberi. [Ora sei un membro della banda dei Blade.]}
-{121}{}{Ah, non saprei cosa dirti. Prova a chiedere a Razor.}

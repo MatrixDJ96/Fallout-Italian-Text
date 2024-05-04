@@ -119,7 +119,6 @@
 {982}{TAND_64}{Hm... no. Mai sentito nominare. }
 {1000}{}{Aradesh}
 {1001}{}{Tandi}
-{1002}{}{Razlo}
 {1002}{}{Seth}
 {1003}{}{Predoni}
 {1004}{}{Pozzo}
@@ -130,6 +129,7 @@
 {1009}{}{Citta'}
 {1010}{}{Radscorpioni}
 {1011}{}{Khan}
+{1012}{}{Razlo}
 {1100}{TAND_44}{Aradesh e' mio padre. E' un tipo a posto, per essere un genitore.}
 {1101}{TAND_45}{Sono io. Chi altri credevi che fosse?}
 {1102}{TAND_47}{Razlo e' il vecchio che abita nella zona sud del villaggio. E' un dottore piuttosto bravo, nonostante sia un fossile. }
@@ -143,3 +143,4 @@
 {1109}{TAND_55}{Non saprei, ma il tipo che me ne ha parlato era davvero spaventato. Diceva che le strade erano piene di non-morti! }
 {1110}{TAND_51}{Una volta ne ho visto uno, anche se da molto lontano. Sono creature terribili, con chele enormi e un grosso pungiglione. E il loro veleno puo' essere letale, se non lo si cura. Se vuoi saperne di piu', dovresti parlare con Aradesh, mio padre. }
 {1111}{TAND_49}{Un gruppo molto violento, da quanto mi hanno detto. Mio padre potra' dirti qualcosa di piu'. A me non racconta mai molto di quello che succede nel mondo esterno.}
+{1112}{TAND_46}{Razlo e' il vecchio nella parte est della citta'.  E' un bravo dottore, benche' sia un fossile. }

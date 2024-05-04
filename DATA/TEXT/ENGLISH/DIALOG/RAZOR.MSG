@@ -137,5 +137,5 @@
 {237}{}{Bentornato. Ho sentito che hai fatto polpette dei Regolatori. Vorrei ringraziarti per essertene sbarazzato. Adesso la mia gente potra' vivere in liberta' assieme agli abitanti di Adytum.}
 {238}{}{Mi occupero' dei Regolatori da solo.}
 {239}{}{Davvero? Beh, se hai bisogno di aiuto o se riesci nell'impresa, avvertimi immediatamente.}
-{240}{}{Che sfortuna... beh, ci vediamo.}
-{241}{}{I Gun Runner... giusto. Devo proprio decidermi a fare un salto da loro.}
+{240}{}{Bastardo!}
+{241}{}{Puttana!}

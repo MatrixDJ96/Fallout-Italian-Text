@@ -184,7 +184,7 @@
 {283}{Nic_71}{Scuse accettate. Come posso aiutarti?}
 {284}{}{Posso farti qualche altra domanda?}
 {285}{}{E' tutto, per adesso. Devo andare.}
-{286}{Nic_72}{Siamo occupati! Non hai nient'altro da fare?}
+{286}{}{Siamo occupati! Non hai nient'altro da fare?}
 {287}{Nic_74}{Cosa stai facendo? Metti giu'!}
 {288}{Nic_75}{Fermo!}
 {289}{Nic_76}{Basta!}

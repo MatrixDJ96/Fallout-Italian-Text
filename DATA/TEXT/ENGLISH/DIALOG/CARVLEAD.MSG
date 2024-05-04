@@ -54,3 +54,7 @@
 {201}{}{Hmm... mi piacerebbe saper leggere.}
 {300}{}{Fatti gli affari tuoi, ti dispiace?}
 {400}{}{Non sono pagato per parlare.}
+{501}{}{Dimmi, perche' hai abbandonato le maledette carovane? Non posso crederci! Sei fortunato, hanno finito senza il tuo culo! Vai fuori! Non dovrei pagarti nulla!}
+{502}{}{Non posso crederci! Abbiamo perso tutte le fottute carovane! Fuori di qui! Non dovrei darti neanche un tappo bucato!}
+{504}{}{Vai dal capo e comincia a pensare ad una storia credibile sul perche' hai abbandonato le carovane. Forse avrai la tua paga.}
+{505}{}{Non posso crederci! Abbiamo perso tutte le dannate carovane! Non penso dovrei pagarti. Vai a parlare con il capo.}

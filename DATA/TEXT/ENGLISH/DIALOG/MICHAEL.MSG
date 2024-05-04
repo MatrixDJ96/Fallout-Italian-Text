@@ -165,3 +165,5 @@
 {266}{}{Oh... beh, e' Kyle che mi manda. Potresti controllare il tuo terminale un'altra volta?}
 {267}{}{Ma e' Rhombus che mi manda!}
 {268}{}{Quel pezzo di ricambio non te lo do, fine della questione. Ti ho gia' detto quel che ti serve e non ho intenzione di ripetermi.}
+{500}{}{[altro]}
+{501}{}{[indietro]}

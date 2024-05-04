@@ -59,3 +59,5 @@
 {158}{}{ testoni che servono per far partire le prime carovane?}
 {159}{}{Ho cambiato idea. Non se ne fa nulla.}
 {160}{}{E allora che cosa vuoi?}
+{200}{}{... Cosa? ... Diavolo. Sei TU? Dopo che ho perso tutte le carovane? Vai all'inferno, non ti daremo nessun altro lavoro.}
+{201}{}{TU? Non dire una parola. Dannazione, li hai abbandonati! Non so perche' lo sto facendo, ma ti daro' un'altra possibilita'. Vai a parlare con il carovaniere.}

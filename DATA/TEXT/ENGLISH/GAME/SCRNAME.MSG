@@ -929,7 +929,6 @@
 {1029}{}{Scatola}
 {1030}{}{Scatola}
 {1031}{}{Emettitore di Campo di Forza}
-{1031}{}{Emettitore di Campo di Forza Danneggiato}
 {1032}{}{Porta}
 {1033}{}{Armadietto}
 {1034}{}{Ratto}
@@ -957,3 +956,9 @@
 {1056}{}{Prigioniero}
 {1057}{}{Discepoli}
 {1058}{}{Porta}
+{1059}{}{Emettitore di Campo di Forza Danneggiato}
+{1060}{}{Test}
+{1061}{}{Oggetto Trucchi}
+{1062}{}{Cliente Carovana}
+{1063}{}{Boxer}
+{1064}{}{}

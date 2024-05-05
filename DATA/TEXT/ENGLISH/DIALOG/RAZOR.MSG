@@ -23,7 +23,7 @@
 {122}{}{Siamo solo un gruppo di persone che cercano di sopravvivere. E' Adytum che ci ha messo in questa situazione. Ci opprimono e usano i nostri amici e familiari come fossero animali. Non siamo nemmeno in grado di difenderci.}
 {123}{}{Perche' non li combattete?}
 {124}{}{Difendervi da chi?}
-{125}{}{Beh, gli abitanti di Adytum sono piu' forti e piu' intelligenti di voi.  Sfruttare i piu' deboli e' un loro legittimo diritto.}
+{125}{}{Beh, gli abitanti di Adytum sono piu' forti e piu' intelligenti di voi. Sfruttare i piu' deboli e' un loro legittimo diritto.}
 {126}{}{Andro' a dare un'occhiata e cerchero' di scoprire qualcosa. Ci vediamo.}
 {127}{}{Magari fossimo una banda. Almeno avremmo delle armi decenti con cui difenderci.}
 {128}{}{Difendervi da chi?}

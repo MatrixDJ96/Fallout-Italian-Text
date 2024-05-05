@@ -40,7 +40,7 @@
 {139}{}{Hai ragione. Vorrei entrare nella Cerchia.}
 {140}{LOX_8}{Tutto qui? Di domande una manciata! Beh, o sei un prode sanza pari oppure un completo idiota. Domanda, domanda! ...e poi ti indirizzeremo alla porta, nevvero?}
 {141}{LOX_9}{Uno scherzo orsu' dev'esser questo! Credi dunque che potrei accettare un tale insulto! Sparisci, plebaglia!}
-{142}{LOX_10}{Oh, uno spirto ardente, invero!  Ma siamo amici tutti, qui, nevvero?}
+{142}{LOX_10}{Oh, uno spirto ardente, invero! Ma siamo amici tutti, qui, nevvero?}
 {143}{}{Non vedo perche'.}
 {144}{}{Hai ragione. Mi dispiace.}
 {145}{LOX_11}{Ohhh, ahime' lasso, il cor mi si spezza. L'occasion d'esser compagni e' perduta. [Sigh] Jasmine, conduci codesto pezzente all'uscio.}
@@ -57,7 +57,7 @@
 {156}{}{Okay, faro' tutto cio' che vorrai!}
 {157}{}{In cosa consiste il prossimo test?}
 {158}{}{Beh, dovevo soltanto farti qualche domanda.}
-{159}{LOX_18}{Ah, ah, ah.  Ooh, molto divertente, invero. Condurci nelle patrie galere? Tu? E in qual guisa, se posso, intenderesti procedere?}
+{159}{LOX_18}{Ah, ah, ah. Ooh, molto divertente, invero. Condurci nelle patrie galere? Tu? E in qual guisa, se posso, intenderesti procedere?}
 {160}{}{Seguitemi senza fare storie e nessuno si fara' del male.}
 {161}{}{Beh, per stavolta lasciamo perdere.}
 {162}{LOX_21}{Cosa importa a me? E' palese, invero. Dichiara il tuo nome, o io ti mostrero' l'uscio.}
@@ -82,7 +82,7 @@
 {181}{LOX_25}{Tu non mi garbi. La cagion m'e' ignota, e non mi cale.}
 {182}{}{Dammi una possibilita'!}
 {183}{}{Beh, allora sei proprio un idiota, eh?}
-{184}{LOX_26}{Un caloroso grazie per questo amabile momento.  Jasmine, conduci all'uscio il nostro ospite.}
+{184}{LOX_26}{Un caloroso grazie per questo amabile momento. Jasmine, conduci all'uscio il nostro ospite.}
 {185}{LOX_27}{Oh, qual letizia rivederti. Mi hai dunque portato qualcosa?}
 {186}{}{Si', le mie dimissioni. Ho deciso di rinunciare al tuo stupido test.}
 {187}{}{Non ancora.}
@@ -90,8 +90,8 @@
 {189}{LOX_29}{Ah! Ah! Ben fatto! Felicitazioni! Or sei un membro della celeberrima Cerchia dei Ladri. Facciamo intrar Jasmine, che' conduca seco un goccio per rinfrescar le gole nostre riarse, nevvero?}
 {190}{LOX_30}{Oh, quai lazzi. Deggio farti pero' saper che di tal frizzi a me cale poco. Bagattelle. Volevi prender per lo naso il buon veglio Loxley, nevvero? Una cosa ti diro'. Un'altra sola possibilita'. Conduci teco la collana.}
 {191}{LOX_31}{Sai tu che di una pigna in del cul peggio sei?}
-{192}{LOX_32}{Stolto! Oh. Piagne el cor mio all'udir questo.  Ah, orsu', la nostra piccola Cerchia dovra' tirare avanti, privata dell'argentina tua presenza. Ahi, lasso. Jasmine, l'uscio pe'l'ospite nostro. E niun ripensamento, nevvero?}
-{193}{LOX_33}{E allora cosa diavolo, diavolaccio ci fai qui?  Scio'!  Sloggia. La prossima volta porta teco la collana.}
+{192}{LOX_32}{Stolto! Oh. Piagne el cor mio all'udir questo. Ah, orsu', la nostra piccola Cerchia dovra' tirare avanti, privata dell'argentina tua presenza. Ahi, lasso. Jasmine, l'uscio pe'l'ospite nostro. E niun ripensamento, nevvero?}
+{193}{LOX_33}{E allora cosa diavolo, diavolaccio ci fai qui? Scio'! Sloggia. La prossima volta porta teco la collana.}
 {194}{}{Cosa succede di bello, da queste parti?}
 {195}{}{Parlami dell'Hub.}
 {196}{}{Hai sentito qualche voce interessante, ultimamente?}
@@ -122,7 +122,7 @@
 {221}{LOX_44}{La ragione non ti manca! E' tale la cagione che ci spinse a formar la Cerchia, nevvero? Questi ricchi parassiti, de le povere genti sfruttatori. E i meschini solo attendevano un eroe. Per l'aiuto che loro diamo, si prostrano in pratica a li calzari nostri.}
 {222}{}{Che male c'e' a voler fare soldi?}
 {223}{}{Proprio come Robin Hood!}
-{224}{LOX_47}{Il problema tu chiedi qual e'?! Brutto... ebbene, sbagliavo sul conto tuo, nevvero?  Jasmine, mostra l'uscio a codesto leccapiedi de' mercanti!}
+{224}{LOX_47}{Il problema tu chiedi qual e'?! Brutto... ebbene, sbagliavo sul conto tuo, nevvero? Jasmine, mostra l'uscio a codesto leccapiedi de' mercanti!}
 {225}{LOX_48}{T'e' nota la storia! Sapevo che in te c'era qualcosa di maraviglioso. Ah, mio nonno raccontavamela anni addietro. Ecce ladro! Ma basta ragionar di cio'. Altro tu vuo' dimandar?}
 {226}{LOX_51}{Oltre le carovane scomparse, null'altro. Oh, aspetta. Uno de' miei prodi e' tornato l'altro di', illuminato tutto, con un poco di radiazioni in corpo. Brutto affare. Troppo prossimo alla Bocca dell'Inferno dev'esser giunto.}
 {227}{LOX_53}{Rubiamo ai ricchi, semplice e palese. Doniamo, oh, dal dieci al venti percento a le povere genti, in la Citta' Vetusta. La Cerchia trattien lo venti, il restante termina in la sacca de li ladri. Un accordo che funziona, invero.}
@@ -130,7 +130,7 @@
 {229}{LOX_55A}{Dai mercanti puoi provare, ma lo tempo tuo sarebbe meglio speso se nottetempo tu li alleggerissi un po' de lor talenti. Fandonie ritengo siano, ma de l'Artiglio de la Morte potresti dimandar. O persin seguire tu stesso una carovana, se'l senno tuo hai smarrito.}
 {230}{LOX_55B}{Ebbene, come diavolo potrei saperlo? Un mercante ti sembro, forse?}
 {231}{LOX_56}{Un paio di regole. Uno, non farti acciuffare. Due, mai e giammai rubare alla Cerchia. Metti giu'.}
-{232}{LOX_57}{Il senso delle mie parole t'e' duro, nevvero?  Jasmine, l'uscio per il nostro folle amico e che non deggia piu' riveder lo volto suo.}
+{232}{LOX_57}{Il senso delle mie parole t'e' duro, nevvero? Jasmine, l'uscio per il nostro folle amico e che non deggia piu' riveder lo volto suo.}
 {233}{LOX_58}{Di capir tu proprio non hai voglia. Risparmiatelo per li mercanti, nevvero?}
 {234}{LOX_59}{Cosa diavolo ci fai qui tu? Sloggia!}
 {235}{LOX_60}{Vedi, com'io dissi...}
@@ -237,5 +237,5 @@
 {1130}{LOX_76}{Non c'e' da dir molto, invero. Al vespro, i pargoli si spaventano all'udir storie di una belva che nutresi delle carni de' giovani virgulti poco ubbidienti.}
 {1131}{LOX_76}{Non c'e' da dir molto, invero. Al vespro, i pargoli si spaventano all'udir storie di una belva che nutresi delle carni de' giovani virgulti poco ubbidienti.}
 {1132}{LOX_78}{Circa tre anni or sono, uno de' mercanti si mosse a meridione per cercare nuove citta'. Torno' con li capelli e la dentatura cadenti, biascicando parole che parlavan di immense radiazioni. Chissa'? Forse qualcosa di speciale cadde laggiu', durante la guerra.}
-{1133}{LOX_79}{Molti dei reietti che fatican per i mercanti han dimora laggiu', in dimore si' leggere che il sole le attraversa. Nel mentre, gl'opulenti bastardi stanno stravaccati nelle loro magioni, in su li Colli. Piangemi il cuor....}
-{1134}{LOX_79}{Molti dei reietti che lavorano per i mercanti han dimora laggiu', in dimore si' leggere che il sole le attraversa. Nel mentre, gl'opulenti bastardi stanno stravaccati nelle loro magioni, in su li Colli. Piangemi il cuor....}
+{1133}{LOX_79}{Molti dei reietti che fatican per i mercanti han dimora laggiu', in dimore si' leggere che il sole le attraversa. Nel mentre, gl'opulenti bastardi stanno stravaccati nelle loro magioni, in su li Colli. Piangemi il cuor...}
+{1134}{LOX_79}{Molti dei reietti che lavorano per i mercanti han dimora laggiu', in dimore si' leggere che il sole le attraversa. Nel mentre, gl'opulenti bastardi stanno stravaccati nelle loro magioni, in su li Colli. Piangemi il cuor...}

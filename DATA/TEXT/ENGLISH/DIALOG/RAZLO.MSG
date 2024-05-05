@@ -119,7 +119,7 @@
 {1101}{}{E' il capo dei Khan. Da quando ha messo gli occhi su Shady Sans non dormiamo piu' sonni tranquilli. Tutti i clan dei predoni lo seguono senza obiezioni.}
 {1102}{}{Si trova a circa una settimana da qui, verso sudovest. E' una citta' di mercanti, ma non sono tutti onesti... specialmente con i contadini come noi.}
 {1103}{}{Ci sei dentro.}
-{1104}{}{E' a sud di Junktown.  L'Hub e' la piu' grande citta' della zona. Il commercio, laggiu', e' molto florido.}
+{1104}{}{E' a sud di Junktown. L'Hub e' la piu' grande citta' della zona. Il commercio, laggiu', e' molto florido.}
 {1105}{}{Mi dispiace, ma non posso aiutarti.}
 {1106}{}{E' la figlia di Aradesh. Probabilmente un giorno prendera' le redini del villaggio. Spero che per allora riesca ad addolcire il suo caratteres.}
 {1107}{}{E' il capo della comunita' e l'eroe del villaggio. Ha tanto di quel lavoro da fare che raramente lascia la sala comune.}

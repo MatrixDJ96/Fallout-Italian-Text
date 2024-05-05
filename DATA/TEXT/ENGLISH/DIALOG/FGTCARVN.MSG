@@ -5,7 +5,7 @@
 {104}{}{E la paga com'e'?}
 {105}{}{Um.}
 {106}{}{Per te ci sono 400 testoni. Potra' non sembrarti molto, ma facciamo molti viaggi e cerchiamo di evitare le rotte piu' pericolose. In piu', la paga copre solo una parte del viaggio, ovvero l'andata. Non sei obbligato a tornare con noi, ma ti becchi un totale di 800 testoni se decidi di seguirci di nuovo fino all'Hub. }
-{107}{}{ Partiamo oggi.  Ti interessa?}
+{107}{}{ Partiamo oggi. Ti interessa?}
 {108}{}{ Partiamo }
 {109}{}{Empty}
 {110}{}{}

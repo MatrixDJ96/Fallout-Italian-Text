@@ -108,7 +108,7 @@
 {208}{}{E chi allora?}
 {209}{}{Coglione? Hai la minima idea di chi sia io? Per il tuo bene spero di no. Io non "comando", qui, ma sono quello che manda avanti il Falcone Maltese. Prima che perda la pazienza... cosa vuoi?}
 {210}{}{So bene chi sei e, credimi, *sei* un coglione.}
-{211}{}{Oh, mi dispiace.  Chi e' il proprietario?}
+{211}{}{Oh, mi dispiace. Chi e' il proprietario?}
 {212}{}{La vedremo. "Buona" giornata.}
 {213}{}{Se non lo sai, non dovresti chiederlo. Potrebbe esser dannoso per la tua salute.}
 {214}{}{A proposito di cosa?}
@@ -138,7 +138,7 @@
 {238}{}{Davvero? Sono pronti ad accettare la nostra proposta di protezione? Sei uno di loro?}
 {239}{}{Non so di cosa tu stia parlando. Mi ha soltanto detto che Decker potrebbe avere del lavoro per me.}
 {240}{}{Io? Lavorare per quei ladri? Mai. Preferisco guardarmi le spalle piuttosto che tener d'occhio i miei soldi.}
-{241}{}{Voi proteggere noi?  MAI!}
+{241}{}{Voi proteggere noi? MAI!}
 {242}{}{Senti, amico... io sto soltanto cercando un bel lavoro, onesto e pulito.}
 {243}{}{Ah si'? Beh, sei venuto nel posto sbagliato, allora: di onesto, nell'Hub, non c'e' un bel niente di niente. Tornatene nel buco dal quale sei uscito. La' sarai piu' felice.}
 {244}{}{Hai ragione. Benissimo, allora... seguimi e vedremo quanto potrai esserci utile. Ricorda solo che farai meglio a tenere per te tutto quello che ti verra' detto tra poco.}
@@ -359,6 +359,6 @@
 {460}{}{Huh?}
 {461}{}{[Kane abbassa la voce] Hai mandato a puttane la missione, coglione! Dovevi uccidere entrambi gli Hightower, non ferirli, per Dio! Appena hai lasciato i Colli i due sono scappati insieme alle loro guardie. Credimi, non si sono fermati a preparare i bagagli. Dio solo sa dove sono adesso!}
 {462}{}{Beh, cosa posso dire? Mi dispiace.}
-{463}{}{Ug.  SCusA.}
+{463}{}{Ug. SCusA.}
 {464}{}{Le tue scuse non bastano. Stai esponendo Decker ad un rischio inaccettabile. D'ora in poi puoi considerarti un nemico della Malavita. Non voglio piu' rivedere la tua brutta faccia qui dentro.}
 {465}{}{Non puoi entrare finche' Kane e' qui.}

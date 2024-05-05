@@ -1,4 +1,4 @@
-{100}{}{Questa è una scrivania molto usurata con un computer polveroso e crepato posizionato precariamente sopra.}
+{100}{}{Questa e' una scrivania molto usurata con un computer polveroso e crepato posizionato precariamente sopra.}
 {101}{}{Ricolleghi un chip scollegato e, sorprendentemente, il monitor si illumina.}
 {102}{}{Molti circuiti sono bruciati a causa di un impulso EMP.}
 {103}{}{Non funziona.}
@@ -22,5 +22,5 @@
                             1,384,432 byte in 3 file 1,384,482 byte allocati}
 {116}{}{[altro]}
 {117}{}{ }
-{118}{}{Hmm. Questo è un grande gioco!}
+{118}{}{Hmm. Questo e' un grande gioco!}
 {119}{}{Guadagni 100 punti esperienza giocando a Fallout.}

@@ -86,7 +86,7 @@
 {185}{}{Posso ucciderlo piu' in fretta di quanto tu riesca a sputare.}
 {186}{gizmo_26}{Beh, come posso fidarmi di te?}
 {187}{}{Mi trovo qui. E tu hai bisogno di qualcuno da fuori che faccia il tuo lavoro sporco. Giusto?}
-{188}{}{Non puoi.., cioe', puoi... cioe'....}
+{188}{}{Non puoi.., cioe', puoi... cioe'...}
 {189}{}{Perche' ho girato per il mondo. E ho gia' ucciso parecchia altra gente.}
 {190}{gizmo_27}{Hmm... d'accordo. Possiamo metterci d'accordo. Ma se lavori per me, farai meglio a sapere che nessuno fa il doppio gioco con Gizmo e poi vive abbastanza per raccontarlo. Hai capito?}
 {191}{}{Oh, ma come? Non ti piacciono i doppiogiochisti? Eppure mi sembra che tu abbia la passione per tutto cio' che e' doppio: doppie porzioni, doppio mento...}

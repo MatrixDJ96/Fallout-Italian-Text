@@ -102,4 +102,4 @@
 {201}{}{(Non hai abbastanza soldi.)}
 {202}{}{Al momento hai }
 {203}{}{ testoni. Quanto vuoi puntare?}
-{204}{}{  Vuoi giocare ancora?}
+{204}{}{ Vuoi giocare ancora?}

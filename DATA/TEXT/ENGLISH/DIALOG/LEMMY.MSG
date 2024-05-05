@@ -50,7 +50,7 @@
 {149}{}{Beh, di solito non mi faccio problemi a vendere delle informazioni, ma dal vecchio Lemmy non riuscirai a scucire nemmeno una parola riguardo a Mr. Decker.}
 {150}{}{Ok. Allora posso farti qualche altra domanda?}
 {151}{}{Grazie.}
-{152}{}{Le carovane scomparse, eh? Beh, dovrei sapere un paio di cosette.  Ti costera' 300 testoni, pero'.}
+{152}{}{Le carovane scomparse, eh? Beh, dovrei sapere un paio di cosette. Ti costera' 300 testoni, pero'.}
 {153}{}{D'accordo. Cosa sai?}
 {154}{}{Te ne daro' 240.}
 {155}{}{Credo che tu abbia un bisogno urgente di dirmelo... e senza un dannato testone!}

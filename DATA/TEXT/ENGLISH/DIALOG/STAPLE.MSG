@@ -16,12 +16,12 @@
 {115}{}{Ohibo'! Ma questo olodisco e' uno dei piu' rovinati che abbia mai visto! Ti daro' 500 testoni.}
 {116}{}{E se invece io portassi qui dentro un lanciafiamme? Eh, signora?!}
 {117}{}{Mi spiace, non ho tutti quei soldi.}
-{118}{}{Mi dispiace, ma questo olodisco posso venderlo soltanto al prezzo che le ho detto.  Ritorni quando avra' abbastanza soldi.}
+{118}{}{Mi dispiace, ma questo olodisco posso venderlo soltanto al prezzo che le ho detto. Ritorni quando avra' abbastanza soldi.}
 {119}{}{Mi dispiace, ma dovra' tenere per se' le sue smanie da piromane. Le chiedo gentilmente di uscire.}
 {120}{}{[Mrs. Stapleton prende i tuoi soldi.]}
-{121}{}{Ha ragione, questo disco ha visto giorni migliori. Visto e considerato il suo stato, mi accontenterò di 500 monete. [Mrs Stapleton prende i tuoi soldi.]}
+{121}{}{Ha ragione, questo disco ha visto giorni migliori. Visto e considerato il suo stato, mi accontentero' di 500 monete. [Mrs Stapleton prende i tuoi soldi.]}
 {122}{}{Di solito non cederei a tali ricatti, ma la mia biblioteca e' troppo importante. D'accordo, le daro' il disco. In cambio le chiedo di non farsi rivedere mai piu' qui dentro.}
-{123}{}{Come mi pare di averle spiegato, dovra' prima usare il disco e poi consultare le informazioni che contiene tramite il suo PIP Boy.  [Mrs. Stapleton ti da' l'olodisco]}
+{123}{}{Come mi pare di averle spiegato, dovra' prima usare il disco e poi consultare le informazioni che contiene tramite il suo PIP Boy. [Mrs. Stapleton ti da' l'olodisco]}
 {124}{}{Deve scusarmi, ma ho delle ricerche da fare.}
 {125}{}{Ruk?}
 {126}{}{Scusami, ma non ti capisco. Da qualche parte dovrei avere un olodisco per imparare l'italiano, se ti interessa.}
@@ -29,6 +29,6 @@
 {128}{}{Grazie.}
 {129}{}{Ug.}
 {130}{}{Hai delle riviste di chimica? Miles di Adytum mi ha detto che qui avrei potuto trovarne qualcuna.}
-{131}{}{Si', Miles me l'ha detto e ho proprio quello che lei sta cercando.  Le costeranno 750 monete.}
+{131}{}{Si', Miles me l'ha detto e ho proprio quello che lei sta cercando. Le costeranno 750 monete.}
 {132}{}{Ecco a lei. Saluti Miles da parte mia.}
 {133}{}{Mi dispiace, ma non ha abbastanza soldi. Torni quando avra' di che pagare.}

@@ -6,7 +6,7 @@
 {105}{}{Uk?}
 {106}{}{Uh, ma? Come? (sigh) Okay, fallo rapidamente, ti prego. Odio il dolore.}
 {107}{}{Non farmi male!}
-{108}{}{Okay.  (Ti da' 20 testoni.) Posso andare, adesso?}
+{108}{}{Okay. (Ti da' 20 testoni.) Posso andare, adesso?}
 {109}{}{Si'.}
 {110}{}{No.}
 {111}{}{Uh, perche'?}

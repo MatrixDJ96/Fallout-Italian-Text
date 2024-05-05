@@ -19,10 +19,10 @@
 {200}{}{L'uso, la cura e la conoscenza generale di piccole armi da fuoco - pistole, mitragliette e fucili.}
 {201}{}{L'utilizzo e la manutenzione di grosse armi - mitragliatrici, lanciarazzi, lanciafiamme e affini.}
 {202}{}{La cura e l'alimentazione di armi a energia. Come caricare e usare armi che utilizzano la tecnologia laser o al plasma.}
-{203}{}{Una combinazione di arti marziali, pugilato e altre tecniche di combattimento a mani nude.  Combattimento con pugni e calci.}
+{203}{}{Una combinazione di arti marziali, pugilato e altre tecniche di combattimento a mani nude. Combattimento con pugni e calci.}
 {204}{}{L'utilizzo di armi da mischia in un combattimento corpo a corpo - coltelli, martelli da guerra, lance, bastoni e cosi' via.}
 {205}{}{L'abilita' di utilizzare armi da distanza a "propellente muscolare", come coltelli da lancio, lance e granate.}
-{206}{}{Abilita' generica di cura.  Usata per curare piccoli tagli, abrasioni e altri lievi malanni. In termini di gioco, l'uso del pronto soccorso puo' curare, nel tempo, piu' Punti Vita rispetto al semplice riposo.}
+{206}{}{Abilita' generica di cura. Usata per curare piccoli tagli, abrasioni e altri lievi malanni. In termini di gioco, l'uso del pronto soccorso puo' curare, nel tempo, piu' Punti Vita rispetto al semplice riposo.}
 {207}{}{La cura di ferite gravi e arti menomati. Senza questa abilita', ci vorra' molto piu' tempo per recuperare l'uso di arti feriti.}
 {208}{}{Movimento silenzioso e abilita' di passare inosservati. Se effettuato con successo, sara' molto piu' difficile localizzarti. Non si puo' correre e usare Movimento Furtivo allo stesso tempo.}
 {209}{}{L'abilita' di aprire serrature senza l'apposita chiave. L'uso di un set da scassinatore o di un grimaldello elettronico migliorera' di molto questa abilita'.}

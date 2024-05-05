@@ -39,7 +39,7 @@
 {138}{}{Parliamo di affari.}
 {139}{}{Ok, che cos'hai?}
 {140}{}{Credo che ci pensero' un attimo.}
-{141}{}{Non sei il benvenuto, qui.  Adesso vattene!}
+{141}{}{Non sei il benvenuto, qui. Adesso vattene!}
 {142}{}{Sto per spedirti all'inferno dove tutti quelli come te dovrebbero andare.}
 {143}{}{Scusa.}
 {144}{}{Ehi, calmati. C'e' stato un fraintendimento. Parliamone.}

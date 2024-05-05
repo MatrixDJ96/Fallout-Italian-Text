@@ -97,7 +97,7 @@
 {196}{}{Bene. Fa' come vuoi. Ma faresti meglio ad andartene, prima che la situazione si faccia troppo pericolosa... per te.}
 {197}{}{Brutto pezzo di merda rompicoglioni! Sei peggio di quei rifiuti umani di Junktown, codardo che non sei altro. Sparisci immediatamente.}
 {198}{}{Cos'altro c'e' da sapere? Posso mangiar bene, dormire in pace e uccidere un po' di quelli che mi trattavano a pesci in faccia. Cosa si puo' volere di piu' dalla vita?}
-{199}{}{Chi lo sa? Ma soprattutto: chi se ne frega? Posso mangiar bene, dormire in pace e uccidere un po' di  quelli che mi trattavano a pesci in faccia. Cosa si puo' volere di piu' dalla vita?}
+{199}{}{Chi lo sa? Ma soprattutto: chi se ne frega? Posso mangiar bene, dormire in pace e uccidere un po' di quelli che mi trattavano a pesci in faccia. Cosa si puo' volere di piu' dalla vita?}
 {200}{}{Hmmm, Ton non ci aveva mai pensato. Ma se mi danno troppo fastidio, spacchero' loro il muso. Cosi' la smetteranno di dare fastidio a Ton. Che cosa vuoi?}
 {201}{}{Convertire? Beh, buona fortuna. Ti servira'.}
 {202}{}{Perche' dovrebbe servirmi?}

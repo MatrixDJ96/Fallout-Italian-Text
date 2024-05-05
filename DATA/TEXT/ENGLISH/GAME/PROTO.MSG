@@ -75,7 +75,7 @@
 {476}{}{Il numero totale di Cani che hai spedito nel Grande Canile Celeste.}
 {477}{}{Questa riga mostra il numero totale di Mantidi, grandi insetti mantidiformi mutanti, che hai schiacciato sin qui.}
 {478}{}{Questa riga dimostra che hai ucciso il Deathclaw, e altri esemplari della sua specie.}
-{479}{}{Not Displayed.  Error!}
+{479}{}{Not Displayed. Error!}
 {480}{}{Vedi: %s.}
 {485}{}{Cerchi in: %s.}
 {486}{}{Chiudi: %s.}

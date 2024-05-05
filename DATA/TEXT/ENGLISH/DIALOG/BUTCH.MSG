@@ -107,7 +107,7 @@
 {206}{butch35a}{Puhh. Forse per te! Se ti piacciono 'ste cose, parecchio a sud di qui c'e' il Glow. E' un pozzo radioattivo.}
 {207}{}{Potrebbe fare miracoli per la mia abbronzatura.}
 {208}{BUTCH36}{Solo un po' di posti. Vatteli a trovare da solo!}
-{209}{}{Beh, molto utile direi....}
+{209}{}{Beh, molto utile direi...}
 {210}{}{Grazie.}
 {211}{BUTCH37}{Beh, cos'hai da dirmi?}
 {212}{}{Beh, ho trovato chi ruba le carovane.}

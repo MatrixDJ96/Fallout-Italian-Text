@@ -20,7 +20,7 @@
 {119}{}{Senti, tutto quel che volevo erano un po' di provviste e qualche informazione, ma saro' ben felice di andarle a cercare da un'altra parte.}
 {120}{}{Non sono obbligato a risponderti.}
 {121}{Ara_4}{Si', hmmm, si', si'. si'. Voglio crederti... per il momento. Ma non ci fidiamo facilmente, soprattutto di chi potrebbe essere pericoloso. Sappi che Seth ed io vigileremo su di te.}
-{122}{Ara_5}{Questo e' il mio villaggio, viandante. Devi rispondere alle mie domande oppure andartene. Non ci sono altre possibilità.}
+{122}{Ara_5}{Questo e' il mio villaggio, viandante. Devi rispondere alle mie domande oppure andartene. Non ci sono altre possibilita'.}
 {123}{}{Non puoi obbligarmi a rispondere.}
 {124}{}{Non voglio farvi alcun male. Davvero!}
 {125}{}{Non temere, me ne vado.}

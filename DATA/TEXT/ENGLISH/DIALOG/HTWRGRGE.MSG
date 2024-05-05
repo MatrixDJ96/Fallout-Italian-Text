@@ -16,6 +16,6 @@
 {115}{}{Se non vuoi guai, faresti meglio ad andartene immediatamente.}
 {116}{}{Smamma!}
 {117}{}{Ti assicuro che non metterai neanche un piede oltre questa soglia.}
-{118}{}{Credevi forse di poter passare inosservato?!?  Guardie!!!}
+{118}{}{Credevi forse di poter passare inosservato?!? Guardie!!!}
 {119}{}{Sta' lontano da quella porta! Nessuno puo' entrare senza prima aver parlato con me!}
-{120}{}{Hai un bel fegato a farti vedere da queste parti!  Guardie!!}
+{120}{}{Hai un bel fegato a farti vedere da queste parti! Guardie!!}

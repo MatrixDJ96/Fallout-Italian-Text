@@ -1927,7 +1927,7 @@
 {4300}{}{Devo trovare una posizione migliore...}
 {4301}{}{Copertura insufficiente... e sono messa male...}
 {4302}{}{Non e' finita!}
-{4303}{}{Sara' meglio serrare le fila....}
+{4303}{}{Sara' meglio serrare le fila...}
 {4304}{}{Ripiegare!}
 {4305}{}{La forza bruta non serve per vincere questa battaglia}
 {4306}{}{Posso occuparmene io}
@@ -2280,7 +2280,7 @@
 {4843}{}{Argh!}
 {4844}{}{Ouch!}
 {4845}{}{Oof!}
-{4846}{}{Ho... bisogno.... d'aria...}
+{4846}{}{Ho... bisogno... d'aria...}
 {4847}{}{Colpo fortunato!}
 {4848}{}{Merda, proprio il ginocchio...}
 {4849}{}{Non mi metterai in ginocchio, stronzo.}
@@ -3218,7 +3218,7 @@
 {6351}{}{}
 {6352}{}{Oh, il mio ginocchio}
 {6353}{}{Argh!}
-{6354}{}{Gli occhi.... tutto ma non gli occhi...}
+{6354}{}{Gli occhi... tutto ma non gli occhi...}
 {6355}{}{Che colpo da codardi!}
 {6356}{}{Oooooo, l'inguine!}
 {6357}{}{}
@@ -3280,7 +3280,7 @@
 {6451}{}{Nessuno puo' permettersi di azzopparmi!}
 {6452}{}{Oh, il mio ginocchio}
 {6453}{}{Argh! Gli occhi!}
-{6454}{}{Gli occhi.... non gli occhi...}
+{6454}{}{Gli occhi... non gli occhi...}
 {6455}{}{}
 {6456}{}{Oooooo, l'inguine!}
 {6457}{}{}
@@ -3342,7 +3342,7 @@
 {6551}{}{Riesco... a malapena... a stare in piedi...}
 {6552}{}{Oh, il mio ginocchio}
 {6553}{}{Uggh! Noooo!}
-{6554}{}{Gli occhi.... Non gli occhi...}
+{6554}{}{Gli occhi... Non gli occhi...}
 {6555}{}{}
 {6556}{}{Oooooo, l'inguine!}
 {6557}{}{Ooo! Non male, stronzetto}
@@ -3866,7 +3866,7 @@
 {7417}{}{Il tuo dolore non mi da' gioia, figliolo.}
 {7418}{}{Confessa i tuoi peccati! Confessa i tuoi peccati!}
 {7419}{}{Sei malvagio e blasfemo. Ammettilo!}
-{7420}{}{La tua resistenza rende piu' gravi i tuoi peccati.  Sottomettiti!}
+{7420}{}{La tua resistenza rende piu' gravi i tuoi peccati. Sottomettiti!}
 {7421}{}{Sottomettiti all'autorita' divina, e guarirai!}
 {7422}{}{Le tue azioni tradiscono una mente malata e perversa}
 {7423}{}{La tua resistenza mi fa stare male, ma resistero'}
@@ -4024,7 +4024,7 @@
 {7651}{}{La pagherai cara per questo!}
 {7652}{}{Oh, il mio ginocchio}
 {7653}{}{Argh! La mia retina!}
-{7654}{}{Gli occhi.... Non gli occhi...}
+{7654}{}{Gli occhi... Non gli occhi...}
 {7655}{}{Che colpo da codardi!}
 {7656}{}{Oooooo, l'inguine!}
 {7657}{}{Ooo! Devo imparare quella mossa...}
@@ -4142,13 +4142,13 @@
 {7845}{}{Oof! Me lo ricordero'...}
 {7846}{}{Gasp! Sono... senza... fiato...}
 {7847}{}{Ow, la gamba}
-{7848}{}{Ooo.... Brutto stronzo!}
+{7848}{}{Ooo... Brutto stronzo!}
 {7849}{}{Oh, il mio ginocchio!}
 {7850}{}{Ow, la gamba}
-{7851}{}{Ooo.... Brutto stronzo!}
+{7851}{}{Ooo... Brutto stronzo!}
 {7852}{}{Oh, il mio ginocchio}
 {7853}{}{Sangue. Tutto questo sangue...}
-{7854}{}{Gli occhi.... Non gli occhi...}
+{7854}{}{Gli occhi... Non gli occhi...}
 {7855}{}{Che colpo da codardi!}
 {7856}{}{Oooooo, l'inguine!}
 {7857}{}{Ooo! Non male, stronzetto}
@@ -4204,13 +4204,13 @@
 {7945}{}{Ah, merda...}
 {7946}{}{Argh! Credo che tu mi abbia rotto una costola!}
 {7947}{}{Ow, la gamba}
-{7948}{}{Oooo....}
+{7948}{}{Oooo...}
 {7949}{}{Oh, il mio ginocchio!}
 {7950}{}{Ow, la gamba}
-{7951}{}{Oooo....}
+{7951}{}{Oooo...}
 {7952}{}{Oh, il mio ginocchio}
 {7953}{}{Sangue. Tutto questo sangue...}
-{7954}{}{Gli occhi....}
+{7954}{}{Gli occhi...}
 {7955}{}{Che colpo da codardi!}
 {7956}{}{Oooooo, l'inguine!}
 {7957}{}{Ooo! Ti restituiro' il favore}

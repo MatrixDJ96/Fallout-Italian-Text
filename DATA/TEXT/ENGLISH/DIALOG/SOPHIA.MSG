@@ -47,7 +47,7 @@
 {319}{}{Mi piacerebbe conoscere la storia della Confraternita.}
 {320}{}{Mi sei proprio di grande aiuto!}
 {321}{}{OK, grazie dell'aiuto.}
-{322}{}{Dovrai parlarne con Vree, il capo Scriba.  Io ho cose piu' importanti da fare.}
+{322}{}{Dovrai parlarne con Vree, il capo Scriba. Io ho cose piu' importanti da fare.}
 {323}{}{Chiedero' a Vree, allora.}
 {324}{}{Cose piu' importanti da fare? Tipo?}
 {325}{}{Non ritieni importante l'arsenale della Confraternita?}

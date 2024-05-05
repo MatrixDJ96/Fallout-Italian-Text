@@ -76,9 +76,9 @@
 {303}{}{Hng!}
 {304}{}{Basta! Smettila!}
 {305}{}{E questo posto? Non e' casa tua?}
-{306}{}{Concordo con te. Assolutamente e completamente. Hai ragione... [si ferma per un attimo] Cos'hai detto?  Oh, lasciamo perdere.}
+{306}{}{Concordo con te. Assolutamente e completamente. Hai ragione... [si ferma per un attimo] Cos'hai detto? Oh, lasciamo perdere.}
 {307}{}{[ti guarda intensamente] Ti ammazzero' per questo! Il tuo sangue scorrera' a fiumi. Aspetta un attimo. Forse sarebbe meglio un bel laghetto, con una vela all'orizzonte, no? Non riesco a decidermi. Hmmm. Ci devo pensare un po'. Vattene!}
-{308}{}{La mia casa e', ehm, gia'. Qui. Si', e' qui. Questa e' casa mia! [salta su e giu'] Che felicita'! Non  sai quanto felice io sia adesso. Credo che andro' a prendere a pugni il muro per un po'.}
+{308}{}{La mia casa e', ehm, gia'. Qui. Si', e' qui. Questa e' casa mia! [salta su e giu'] Che felicita'! Non sai quanto felice io sia adesso. Credo che andro' a prendere a pugni il muro per un po'.}
 {309}{}{Sono occupata. Sono quasi riuscita a trovare la soluzione ai problemi ambientali che stanno mandando in malora il mondo, ma non riesco a smettere di pensare ai dinosauri viola. E' un problema?}
 {310}{}{Smettila di disturbarmi, sto pensando...}
 {400}{}{Vedi Wiggum, un totale sfigato. Indossa una corona.}

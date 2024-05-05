@@ -14,8 +14,8 @@
 {113}{}{Mi scusi, signore, ma non dovrebbe cercare di portare a termine il suo incarico?}
 {114}{}{Mi scusi, miss, ma non dovrebbe cercare di portare a termine il suo incarico?}
 {117}{}{Bentornato. Se ha recuperato il medaglione, deve consegnarlo a Mr. Loxley. Solo allora potro' darle la sua ricompensa.}
-{118}{}{Ben fatto, signore. Ecco la sua ricompensa.  [Jasmine ti da' 3000 verdoni]}
-{119}{}{Ben fatto, miss. Ecco la sua ricompensa.  [Jasmine ti da' 3000 verdoni]}
+{118}{}{Ben fatto, signore. Ecco la sua ricompensa. [Jasmine ti da' 3000 verdoni]}
+{119}{}{Ben fatto, miss. Ecco la sua ricompensa. [Jasmine ti da' 3000 verdoni]}
 {121}{}{A proposito... ecco un piccolo extra che le servira' per i suoi prossimi affari poco leciti.}
 {122}{}{Bentornato.}
 {123}{}{Beh, e' stato il nostro benefattore in diverse occasioni. Se lei lo uccide, qualcuno piu' sveglio di lui potrebbe prendere il suo posto. E per noi sarebbe un problema.}

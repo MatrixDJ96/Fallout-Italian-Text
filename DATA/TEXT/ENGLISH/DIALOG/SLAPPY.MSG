@@ -6,8 +6,8 @@
 {105}{}{Da... Da... Da...}
 {106}{}{La Luna e' la' fuori.}
 {107}{}{Gimme' the Sugar, Baby.}
-{108}{}{Oooh, bella, bella roba.  Perche' la luna?}
-{109}{}{Ehm, ho parlato con Harold. Il Deathclaw sembra piuttosto cattivo.  Cosa puoi dirmi a proposito?}
+{108}{}{Oooh, bella, bella roba. Perche' la luna?}
+{109}{}{Ehm, ho parlato con Harold. Il Deathclaw sembra piuttosto cattivo. Cosa puoi dirmi a proposito?}
 {110}{}{Beth mi ha detto di parlare con te del Deathclaw.}
 {111}{}{Che cosa fai qui?}
 {112}{}{Che problema hai?}
@@ -23,7 +23,7 @@
 {122}{}{Sei uno svitato.}
 {123}{}{I problemi sono come piatti da minestra, grandi ma poco profondi.}
 {124}{}{Una descrizione che si adatta benissimo al tuo cervello.}
-{125}{}{Deathclaw spaventoso, davvero spaventoso. E' grazioso, pero'.  Vuoi vederlo?}
+{125}{}{Deathclaw spaventoso, davvero spaventoso. E' grazioso, pero'. Vuoi vederlo?}
 {126}{}{Puoi portarmi dal Deathclaw?}
 {127}{}{Diavolo, no!}
 {128}{}{Si', Deathclaw, Deathclaw, andiamo a vedere il Deathclaw.}

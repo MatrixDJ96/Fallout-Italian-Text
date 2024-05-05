@@ -19,7 +19,7 @@
 {118}{}{Diamo loro la cosa piu' importante al mondo. Diamo alle loro squallide vite un po' di emozione.}
 {119}{}{Non credo che vogliano le emozioni che voi offrite.}
 {120}{}{Credo che rendero' di nuovo noiose le loro vite. E comincero' con te!}
-{121}{}{Eh, certo. Credo proprio di dover andare....}
+{121}{}{Eh, certo. Credo proprio di dover andare...}
 {122}{}{Non l'ho chiesto io. Ma siccome e' chiaro che non hai la piu' pallida idea di come ci si diverta, credo che mettero' fine alla tua esistenza.}
 {123}{}{Prenderti gioco di me non ti portera' nulla di buono. Ti consiglio di sparire dalla mia vista.}
 {124}{}{Certo che e' giusto, perdiana. Adesso sparisci.}

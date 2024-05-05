@@ -143,4 +143,4 @@
 {1109}{TAND_55}{Non saprei, ma il tipo che me ne ha parlato era davvero spaventato. Diceva che le strade erano piene di non-morti! }
 {1110}{TAND_51}{Una volta ne ho visto uno, anche se da molto lontano. Sono creature terribili, con chele enormi e un grosso pungiglione. E il loro veleno puo' essere letale, se non lo si cura. Se vuoi saperne di piu', dovresti parlare con Aradesh, mio padre. }
 {1111}{TAND_49}{Un gruppo molto violento, da quanto mi hanno detto. Mio padre potra' dirti qualcosa di piu'. A me non racconta mai molto di quello che succede nel mondo esterno.}
-{1112}{TAND_46}{Razlo e' il vecchio nella parte est della citta'.  E' un bravo dottore, benche' sia un fossile. }
+{1112}{TAND_46}{Razlo e' il vecchio nella parte est della citta'. E' un bravo dottore, benche' sia un fossile. }

@@ -5,7 +5,7 @@
 {104}{}{Non hai il permesso di stare qui.}
 {105}{}{Vattene, o te ne pentirai.}
 {106}{}{I tipi come te non sono ammessi qui dentro.}
-{107}{}{Che ca… Prendetelo!}
+{107}{}{Che ca... Prendetelo!}
 {108}{}{Hai fatto un madornale errore, entrando qui dentro!}
 {109}{}{Che cosa ci fai qui? Prega il tuo dio, prima di morire.}
 {110}{}{Mmmm, che acquolina.}

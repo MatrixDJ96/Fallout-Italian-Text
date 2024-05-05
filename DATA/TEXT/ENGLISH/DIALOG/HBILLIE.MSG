@@ -35,7 +35,7 @@
 {134}{}{E allora a cosa ti serve la lancia?}
 {135}{}{Okay, grazie.}
 {136}{}{Oh, a volte possono essere davvero testardi, soprattutto quando cerco di fargli fare qualcosa. Allora per farli muovere li pungo con la mia lancia... poi preferisco non avvicinarmi troppo; talvolta scalciano.}
-{137}{}{Non parlarmi. Dan si arrabbiera' di nuovo con me.  Si incaz - cioe' - arrabbia molto quando non mi concentro su quello che sto facendo.}
+{137}{}{Non parlarmi. Dan si arrabbiera' di nuovo con me. Si incaz - cioe' - arrabbia molto quando non mi concentro su quello che sto facendo.}
 {138}{}{Sta solo cercando di darti una mano. Tu lavora sodo e sono sicuro che sara' piu' gentile con te.}
 {139}{}{Ecco ragazzo, prendi 50 testoni e di' addio a quello stronzo. }
 {140}{}{Okay.}

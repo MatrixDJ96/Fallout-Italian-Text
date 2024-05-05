@@ -8,9 +8,9 @@
 {107}{}{Dammi uno spiedino d'iguana.}
 {108}{}{Mi spiace, ma ho deciso di non pagarti piu'. Fa' di me cio' che vuoi.}
 {109}{}{Bob, credevo fossimo amici! Stavo appunto pensando di darti un posto di rilievo nella mia organizzazione. E tu invece mi tradisci. Sono davvero deluso...}
-{110}{}{Bob, perche' mai dovrei accettare un "no" come risposta?  E soprattutto perche' dovrei accettarlo da un sacco di merda come te?}
+{110}{}{Bob, perche' mai dovrei accettare un "no" come risposta? E soprattutto perche' dovrei accettarlo da un sacco di merda come te?}
 {111}{}{Mi fa piacere vedere che hai ancora le palle di difenderti.}
-{112}{}{Scordati la tua reputazione, Bob.  Scor-da-te-la!}
+{112}{}{Scordati la tua reputazione, Bob. Scor-da-te-la!}
 {113}{}{Bene, piu' tardi decidero' sul da farsi.}
 {114}{}{Beh, e' stato bello conoscerti, Bob. Porta i miei saluti a Satana.}
 {115}{}{Perche' diavolo sei tornato cosi' presto? Non e' ancora il giorno fissato per il pagamento.}
@@ -44,7 +44,7 @@
 {143}{}{Prendo l'iguana intera.}
 {144}{}{Prendo lo spiedino.}
 {145}{}{Sai, mi hanno detto che i tuoi spiedini sanno di pollo. Ti piace mangiare i babbei?}
-{146}{}{No porzioni da femmina! Me vuola iguana intera!  Ugh!}
+{146}{}{No porzioni da femmina! Me vuola iguana intera! Ugh!}
 {147}{}{HHmm, odorino! 'piedino fare fame!}
 {148}{}{Mai visto uno. Ai Mercanti d'Acqua non servono.}
 {149}{}{Mercanti d'Acqua?}
@@ -101,8 +101,8 @@
 {200}{}{Prendo l'iguana intera.}
 {201}{}{Prendo lo spiedino.}
 {202}{}{Sai, mi hanno detto che i tuoi spiedini sanno di pollo. Ti piace mangiare i babbei?}
-{203}{}{No porzioni da femmina! Me vuola iguana intera!  Ugh!}
-{204}{}{Hmm, odorino!  Me vuole 'piedini!}
+{203}{}{No porzioni da femmina! Me vuola iguana intera! Ugh!}
+{204}{}{Hmm, odorino! Me vuole 'piedini!}
 {205}{}{Come diavolo pensi che possa pagarti se mi mangi tutta la merce? Bene! Prenditi un'altra iguana! E strozzati!}
 {206}{}{Non mi piace il tuo tono.}
 {207}{}{Uh, ciao.}
@@ -136,7 +136,7 @@
 {235}{}{Sai qualcosa a proposito delle carovane scomparse?}
 {236}{}{Cosa? Io guai? Ti do forse questa impressione?}
 {237}{}{Che succede di bello, qui all'Hub?}
-{238}{}{Me afamatto!  Grrrrr!}
+{238}{}{Me afamatto! Grrrrr!}
 {239}{}{Che cosa terribile. Quella povera gente. Oh, quella povera gente. Perdere la vita in un modo cosi' spaventoso! C'e' altro che posso fare per te? Come darti qualcosa da mangiare, magari?}
 {240}{}{Niente, grazie. Ci vediamo.}
 {241}{}{Me va.}

@@ -4,7 +4,7 @@
 {103}{}{Cos'e' successo alle persone che stavano qui prima di voi?}
 {104}{}{Uhn.}
 {105}{}{Sta bene, figliolo. Ti visiteremo subito.}
-{106}{}{Beati sono i deboli di pensiero. Non c'e' nulla di sbagliato in te, figliolo.  Corri felice e gioca.}
+{106}{}{Beati sono i deboli di pensiero. Non c'e' nulla di sbagliato in te, figliolo. Corri felice e gioca.}
 {107}{}{Sei stato guarito. Presta maggior attenzione, in futuro.}
 {108}{}{Sei ferito.}
 {109}{}{Sei stato avvelenato.}

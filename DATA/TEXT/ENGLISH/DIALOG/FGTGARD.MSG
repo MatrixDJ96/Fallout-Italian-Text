@@ -6,7 +6,7 @@
 {105}{}{Quelli delle Carovane Scarlatte sono una manica di idioti e di pazzi.}
 {106}{}{Hmm, ho una gran voglia di un iguana allo spiedo.}
 {107}{}{Chi diavolo sara' che assalta le nostre carovane?}
-{108}{}{Mio fratello era sull'ultima carovana che e' scomparsa....}
+{108}{}{Mio fratello era sull'ultima carovana che e' scomparsa...}
 {109}{}{Tutta colpa di quegli spilorci dei Mercanti d'Acqua. Ne sono certo.}
 {110}{}{Mi hanno detto che sono stati i mutanti a prendere le carovane. Che cosa terribile.}
 {111}{}{Mi hanno detto che hai incontrato dei mutanti. Spero che tu gliel'abbia fatta pagare.}

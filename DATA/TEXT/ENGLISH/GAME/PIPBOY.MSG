@@ -123,7 +123,7 @@
 {806}{}{Salva Jason Zimmerman.}
 {807}{}{Ferma gli attacchi delle bande contro Adytum.}
 {810}{}{Cattedrale}
-{1000}{}{• Data - 21 Marzo 2075}
+{1000}{}{* Data - 21 Marzo 2075}
 {1001}{}{Il Magg. Barnett ha ordinato esperimenti sul ceppo}
 {1002}{}{10-011 del virione panimmune, che e' stato nominato}
 {1003}{}{FEV, o Virus per l'Evoluzione Forzata. Gli studi}
@@ -139,7 +139,7 @@
 {1013}{}{Ulteriori esperimenti su cellule vegetali sono }
 {1014}{}{interrotti per ordine del Maggiore Barnett.}
 {1015}{}{**END-PAR**}
-{1016}{}{• Data - 9 Maggio 2075}
+{1016}{}{* Data - 9 Maggio 2075}
 {1017}{}{Abbiamo infettato varie specie di platelminti }
 {1018}{}{con il FEV. In poche ore le loro dimensioni sono}
 {1019}{}{aumentate del 28%, e 39 campioni hanno resistito}
@@ -151,7 +151,7 @@
 {1025}{}{dato risultati peggiori. Il Magg. Barnett ha }
 {1026}{}{rinviato questi esperimenti a data da destinarsi.}
 {1027}{}{**END-PAR**}
-{1028}{}{• Data - 30 Giugno 2075}
+{1028}{}{* Data - 30 Giugno 2075}
 {1029}{}{Abbiamo infettato con il FEV diversi gruppi di topi}
 {1030}{}{bianchi. Anche qui, le dimensioni sono aumentate in}
 {1031}{}{poche ore, per stabilizzarsi su un +31% dopo 9 gg.}
@@ -164,20 +164,20 @@
 {1038}{}{Saranno necessarie ulteriori indagini per }
 {1039}{}{confermare la scoperta.}
 {1040}{}{**END-PAR**}
-{1041}{}{• Data - 9 Novembre 2075}
+{1041}{}{* Data - 9 Novembre 2075}
 {1042}{}{Abbiamo infettato 218 ratti con il FEV. In 109 }
 {1043}{}{soggetti sono stati impiantati degli elettrodi }
 {1044}{}{per monitorare l'attivita' EEG prima e dopo }
 {1045}{}{l'infezione. Un aumento dell'attivita' cerebrale }
 {1046}{}{si e' verificata dopo 3,2 sec. (in media) dalla}
 {1047}{}{inoculazione. Ancora una volta si nota l'aumento }
-{1048}{}{di dimensioni. Tuttavia, si osserva anche una  }
+{1048}{}{di dimensioni. Tuttavia, si osserva anche una }
 {1049}{}{aumentata aggressivita'. La lettura delle onde }
 {1050}{}{cerebrali indica propensione al sacrificio, mentre}
 {1051}{}{il sistema limbico e la corteccia frontale mostrano}
 {1052}{}{un notevole aumento delle connessioni dendritiche.}
 {1053}{}{**END-PAR**}
-{1054}{}{• Data - 12 Gennaio 2076}
+{1054}{}{* Data - 12 Gennaio 2076}
 {1055}{}{Con il ceppo 11-011 l'efficienza del ciclo mitotico}
 {1056}{}{e' aumentata del 43%. Abbiamo infettato 53 procioni}
 {1057}{}{per ottenere dati sul nuovo ceppo. In aggiunta al}
@@ -189,7 +189,7 @@
 {1063}{}{Anche gli altri sono stati soppressi per ordine del}
 {1064}{}{Magg. Barnett. Ma due coppie mancano all'appello.}
 {1065}{}{**END-PAR**}
-{1066}{}{• Data - 13 Maggio, 2076}
+{1066}{}{* Data - 13 Maggio, 2076}
 {1067}{}{Abbiamo inserito nel FEV nuove sequenze geniche, }
 {1068}{}{forniteci dal team del Maggiore Barnett. Con il }
 {1069}{}{ceppo 11-101a abbiamo infettato 23 cani (di razza}
@@ -200,7 +200,7 @@
 {1074}{}{un crossover di 92pa con il ceppo 11-011. Tutti i}
 {1075}{}{soggetti sono stati soppressi dopo 14 settimane.}
 {1076}{}{**END-PAR**}
-{1077}{}{• Data - 4 Ottobre, 2076}
+{1077}{}{* Data - 4 Ottobre, 2076}
 {1078}{}{Il crossover e' stato completato e il ceppo 11-111}
 {1079}{}{e' stato iniettato a 15 scimpanze'. I livelli di}
 {1080}{}{crescita e resistenza superano le previsioni. Vari}
@@ -210,7 +210,7 @@
 {1084}{}{Due cavie hanno subito attacchi epilettici e sono }
 {1085}{}{morte. Gli altri soggetti sono stati soppressi.}
 {1086}{}{**END-PAR**}
-{1087}{}{• Data - 7 Gennaio, 2077}
+{1087}{}{* Data - 7 Gennaio, 2077}
 {1088}{}{Il Magg. Barnett ha ordinato che le ricerche sul}
 {1089}{}{FEV siano trasferite alla base di Mariposa.}
 {1090}{}{Si prevede di continuare gli esperimenti su }
@@ -321,7 +321,7 @@
 {5007}{}{richiesta per un simile compito non esiste ancora.}
 {5008}{}{Un altro team si sta occupando di questo aspetto.}
 {5009}{}{**END-DISK**}
-{6000}{}{• Osservazioni Iniziali}
+{6000}{}{* Osservazioni Iniziali}
 {6001}{}{**END-PAR**}
 {6002}{}{E' davvero incredibile. Alcuni Cavalieri di pattuglia}
 {6003}{}{si sono imbattuti in una strana creatura. La creatura}
@@ -334,7 +334,7 @@
 {6010}{}{Prima che inizi a decomporsi, ho deciso di registrare}
 {6011}{}{le caratteristiche del soggetto.}
 {6012}{}{**END-PAR**}
-{6013}{}{• Caratteristiche del Soggetto A:}
+{6013}{}{* Caratteristiche del Soggetto A:}
 {6014}{}{**END-PAR**}
 {6015}{}{Altezza: 3,2 metri}
 {6016}{}{Peso:    363,21 kg}
@@ -366,7 +366,7 @@
 {6042}{}{ mostrano chiari segni di manipolazione e consentono}
 {6043}{}{ una maggiore espressione genetica.}
 {6044}{}{**END-PAR**}
-{6045}{}{• Ipotesi Iniziale}
+{6045}{}{* Ipotesi Iniziale}
 {6046}{}{**END-PAR**}
 {6047}{}{Date le dimensioni delle sinapsi e la concentrazione}
 {6048}{}{dei neurotrasmettitori, sono portata a ritenere che}
@@ -377,7 +377,7 @@
 {6053}{}{il soggetto sia sopravvissuto cosi' a lungo. Eseguiro'}
 {6054}{}{degli esami per determinare le cause della morte.}
 {6055}{}{**END-PAR**}
-{6056}{}{• Risultati dei test condotti sul Soggetto A:}
+{6056}{}{* Risultati dei test condotti sul Soggetto A:}
 {6057}{}{**END-PAR**}
 {6058}{}{Esame Obiettivo:}
 {6059}{}{ Bruciature di polvere nera nella zona occipitale, }
@@ -397,7 +397,7 @@
 {6073}{}{  Virus Gamma Ciclotronico:       Negativo}
 {6074}{}{  Virus Sconosciuto (mutante?):   Esposizione Massiva}
 {6075}{}{**END-PAR**}
-{6076}{}{• Ipotesi}
+{6076}{}{* Ipotesi}
 {6077}{}{**END-PAR**}
 {6078}{}{Dalle mie osservazioni sarei portata ad ipotizzare che }
 {6079}{}{il soggetto sia stato ucciso in seguito ad una dura }
@@ -423,7 +423,7 @@
 {6099}{}{pigmenti dell'epidermide. L'aspettativa di vita e'}
 {6100}{}{aumentata del 10%. L'intelligenza diminuita del 30%.}
 {6101}{}{**END-PAR**}
-{6102}{}{• Conclusioni}
+{6102}{}{* Conclusioni}
 {6103}{}{**END-PAR**}
 {6104}{}{Essendo incapaci di riprodursi, potrei concludere che}
 {6105}{}{questi mutanti dovrebbero estinguersi naturalmente}
@@ -494,7 +494,7 @@
 {8025}{}{rapporto. Se possibile, cercate di catturarlo. Il}
 {8026}{}{Master ne sarebbe felice. Passo.}
 {8027}{}{**END-DISK**}
-{9000}{}{• 10 Ott, 2077}
+{9000}{}{* 10 Ott, 2077}
 {9001}{}{Io, Roger Maxson, Capitano, numero di matricola 072389}
 {9002}{}{ho cominciato a scrivere questo diario perche' le cose}
 {9003}{}{si stanno mettendo male per noi, e vorrei che la gente}
@@ -508,7 +508,7 @@
 {9011}{}{io non so cosa fare. Qualcuno deve fare qualcosa, prima}
 {9012}{}{che questo posto si trasformi in un mattatoio.}
 {9013}{}{**END-PAR**}
-{9014}{}{• 12 Ott, 2077}
+{9014}{}{* 12 Ott, 2077}
 {9015}{}{Ogni volta che riceviamo un rapporto dai superiori, le}
 {9016}{}{cose qui peggiorano. La guerra sta prendendo una pessima }
 {9017}{}{piega e questo posto e' a un passo dall'anarchia, con}
@@ -516,7 +516,7 @@
 {9019}{}{soldati di giustiziare uno scienziato. Ho ordinato di}
 {9020}{}{interrogarlo per conoscere i suoi ordini.}
 {9021}{}{**END-PAR**}
-{9022}{}{• 13 Ott, 2077 }
+{9022}{}{* 13 Ott, 2077 }
 {9023}{}{Oggi ho ucciso un uomo. Stavo interrogando lo Scienziato}
 {9024}{}{Capo Anderson e mi stava dando una descrizione completa}
 {9025}{}{dei loro esperimenti disumani. Mi aveva detto che gli}
@@ -526,14 +526,14 @@
 {9029}{}{e cosi' l'ho ucciso. Mi son detto che l'avevo fatto per}
 {9030}{}{evitare che montasse la rivolta, ma non ne sono sicuro.}
 {9031}{}{**END-PAR**}
-{9032}{}{• 15 Ott, 2077}
+{9032}{}{* 15 Ott, 2077}
 {9033}{}{Ho nuovamente provato a parlare con il Colonnello, }
 {9034}{}{ma sembra aver perso completamente il contatto con la}
 {9035}{}{realta'. Ho fatto irruzione nel suo ufficio giusto in}
 {9036}{}{tempo per vederlo mentre si faceva saltare la testa. }
 {9037}{}{Un attimo prima di sparare ha detto "Mi dispiace".}
 {9038}{}{**END-PAR**}
-{9039}{}{• 18 Ott, 2077}
+{9039}{}{* 18 Ott, 2077}
 {9040}{}{Uccidendo il testa d'uovo, pare che io abbia rafforzato }
 {9041}{}{la mia posizione di leader. Adesso gli uomini mi seguono }
 {9042}{}{senza obiezioni. Gli interrogatori finiscono sempre per}
@@ -544,7 +544,7 @@
 {9047}{}{finire. Ormai non mento nemmeno piu' a me stesso sulle}
 {9048}{}{ragioni che ci portano a uccidere gli scienziati.}
 {9049}{}{**END-PAR**}
-{9050}{}{• 20 Ott, 2077}
+{9050}{}{* 20 Ott, 2077}
 {9051}{}{Ho finalmente risposto ai messaggi via radio del comando}
 {9052}{}{centrale. Non so perche' non abbiano inviato qualcuno}
 {9053}{}{per sapere per quale motivo non rispondevamo alle loro}
@@ -552,13 +552,13 @@
 {9055}{}{stanno arrivando. Ho comunicato la nostra secessione}
 {9056}{}{dall'Unione. Jefferson Davis, mangiati pure il fegato.}
 {9057}{}{**END-PAR**}
-{9058}{}{• 22 Ott, 2077}
+{9058}{}{* 22 Ott, 2077}
 {9059}{}{Che diavolo succede? Noi dichiariamo di non riconoscere}
 {9060}{}{piu' l'autorita' del Governo diventando dei disertori}
 {9061}{}{a tutti gli effetti... e cosa succede? Nulla. Ma temo}
 {9062}{}{che qualcosa di brutto ci stia per cadere in testa.}
 {9063}{}{**END-PAR**}
-{9064}{}{• 23 Ott, 2077}
+{9064}{}{* 23 Ott, 2077}
 {9065}{}{Non riesco a credere che quei bastardi l'abbiano fatto}
 {9066}{}{per davvero. Che vadano all'inferno! Hanno lanciato le }
 {9067}{}{bombe. Stavamo proprio per strappare la verita' a }
@@ -571,7 +571,7 @@
 {9074}{}{alloggi esterni alla base. Non sappiamo ancora se }
 {9075}{}{il fallout abbia raggiunto o meno questa zona.}
 {9076}{}{**END-PAR**}
-{9077}{}{• 25 Ott, 2077}
+{9077}{}{* 25 Ott, 2077}
 {9078}{}{Il Sergente Platner si e' offerto volontario per }
 {9079}{}{uscire in superficie e raccogliere dati precisi sulle }
 {9080}{}{condizioni dell'atmosfera. Pare che le radiazioni non }
@@ -580,15 +580,15 @@
 {9083}{}{contaminazione. Se fosse successo, l'avremmo esiliato. }
 {9084}{}{Non abbiamo gli strumenti per la decontaminazione.}
 {9085}{}{**END-PAR**}
-{9086}{}{• 26 Ott, 2077}
+{9086}{}{* 26 Ott, 2077}
 {9087}{}{Ho convinto gli altri a seppellire gli scienziati. }
 {9088}{}{Non so perche'... forse per alleviare il peso che ho}
 {9089}{}{sulla coscienza. Ho cominciato a credere alle loro }
-{9090}{}{storie solo quando l'ultimo di loro stava morendo.  }
+{9090}{}{storie solo quando l'ultimo di loro stava morendo. }
 {9091}{}{**END-PAR**}
 {9092}{}{Mio Dio, che cosa sono diventato? }
 {9093}{}{**END-PAR**}
-{9094}{}{• 27 Ott, 2077}
+{9094}{}{* 27 Ott, 2077}
 {9095}{}{Oggi abbandoneremo questo posto dimenticato da Dio. }
 {9096}{}{Guidero' l'esodo verso il vecchio bunker del governo a }
 {9097}{}{Lost Hills. Lascio il mio diario qui, sperando che sia}
@@ -666,7 +666,7 @@
 {11027}{}{sia il personale militare, sia il personale civile }
 {11028}{}{impegnato in operazioni congiunte con quello militare.}
 {11029}{}{**END-PAR**}
-{11030}{}{Punto 5: Finche' non sara' possibile stabilire una  }
+{11030}{}{Punto 5: Finche' non sara' possibile stabilire una }
 {11031}{}{comunicazione certa con il Dipartimento di Guerra,}
 {11032}{}{questi ordini avranno la precedenza su qualsiasi}
 {11033}{}{direttiva precedentemente in vigore.}
@@ -791,7 +791,7 @@
 {12114}{}{a crescere e a cibarci finche' non avremo portato pace}
 {12115}{}{e Unita' al mondo intero.}
 {12116}{}{**END-DISK**}
-{13000}{}{• 10 Ott 2077}
+{13000}{}{* 10 Ott 2077}
 {13001}{}{Io, Roger Maxson, Capitano, numero di matricola 072389}
 {13002}{}{ho cominciato a scrivere questo diario perche' le cose}
 {13003}{}{si stanno mettendo male per noi, e vorrei che la gente}
@@ -804,7 +804,7 @@
 {13010}{}{qualcosa, prima che questo posto affoghi nel sangue e}
 {13011}{}{nell'anarchia.}
 {13012}{}{**END-PAR**}
-{13013}{}{• 12 Ott 2077}
+{13013}{}{* 12 Ott 2077}
 {13014}{}{Ogni volta che riceviamo un rapporto dai superiori, le}
 {13015}{}{cose qui peggiorano. La guerra sta prendendo una pessima}
 {13016}{}{piega e questo posto e' sull'orlo dell'anarchia, con}
@@ -812,7 +812,7 @@
 {13018}{}{dei soldati di giustiziare uno scienziato, e ho chiesto}
 {13019}{}{che venisse interrogato per conoscere i suoi ordini.}
 {13020}{}{**END-PAR**}
-{13021}{}{• 13 Ott 2077}
+{13021}{}{* 13 Ott 2077}
 {13022}{}{Oggi ho ucciso un uomo. Stavo interrogando Anderson, lo}
 {13023}{}{Scienziato Capo, e lui mi stava dando tutti di dettagli}
 {13024}{}{dei loro esperimenti disumani. Diceva che i suoi ordini}
@@ -821,14 +821,14 @@
 {13027}{}{essere un soldato fedele; e cosi' l'ho ucciso. Forse}
 {13028}{}{l'ho fatto per evitare una rivolta, ma non sono sicuro.}
 {13029}{}{**END-PAR**}
-{13030}{}{• 15 Ott 2077}
+{13030}{}{* 15 Ott 2077}
 {13031}{}{Oggi di nuovo provato a parlare con il Colonnello, ma}
 {13032}{}{sembrava aver perso ogni contatto con la realta'. Ho}
 {13033}{}{fatto irruzione nel suo ufficio con diversi uomini,}
 {13034}{}{giusto in tempo per vederlo mentre si faceva saltare}
 {13035}{}{il cervello. Prima di sparare ha detto "Mi dispiace".}
 {13036}{}{**END-PAR**}
-{13037}{}{• 18 Ott 2077}
+{13037}{}{* 18 Ott 2077}
 {13038}{}{Uccidendo il testa d'uovo, pare che io abbia rafforzato}
 {13039}{}{la mia posizione di leader. Adesso mi seguono senza}
 {13040}{}{discutere. Gli interrogatori finiscono sempre per essere}
@@ -839,7 +839,7 @@
 {13045}{}{finira'. Ormai non mento nemmeno piu' a me stesso sulle}
 {13046}{}{ragioni che mi spingono a giustiziare gli scienziati.}
 {13047}{}{**END-PAR**}
-{13048}{}{• 20 Ott 2077}
+{13048}{}{* 20 Ott 2077}
 {13049}{}{Ho finalmente risposto ai messaggi radio del comando}
 {13050}{}{centrale. Non so perche' non abbiano inviato una}
 {13051}{}{squadra per verificare il motivo dell'interruzione}
@@ -848,13 +848,13 @@
 {13054}{}{dall'Unione. Tutti ricordano Jefferson Davis. Cosa}
 {13055}{}{dira' di me, la Storia?}
 {13056}{}{**END-PAR**}
-{13057}{}{• 22 Ott 2077}
+{13057}{}{* 22 Ott 2077}
 {13058}{}{Cosa diavolo sta succedendo? Ci siamo dichiarati}
 {13059}{}{disertori e indipendenti dal Governo degli Stati}
 {13060}{}{Uniti... e cosa succede? Un accidenti di niente.}
 {13061}{}{Ci sta per cadere in testa qualcosa di brutto.}
 {13062}{}{**END-PAR**}
-{13063}{}{• 23 Ott 2077}
+{13063}{}{* 23 Ott 2077}
 {13064}{}{Non riesco a crederci: quei bastardi l'hanno fatto per}
 {13065}{}{davvero. Che vadano tutti all'inferno. Alla fine hanno}
 {13066}{}{lanciato le bombe-A. Eravamo ad un passo dall'estorcere}
@@ -867,7 +867,7 @@
 {13073}{}{all'interno della base. Non sappiamo ancora se il}
 {13074}{}{fallout abbia raggiunto o meno questa zona.}
 {13075}{}{**END-PAR**}
-{13076}{}{• 25 Ott 2077}
+{13076}{}{* 25 Ott 2077}
 {13077}{}{Il Serg. Platner si e' offerto per andare all'esterno}
 {13078}{}{a raccogliere dati precisi sui livelli di radiazioni.}
 {13079}{}{Pare che le scorie non siano giunte sin qui. Dato che}
@@ -876,13 +876,13 @@
 {13082}{}{costretti ad esiliarlo. All'interno della base non}
 {13083}{}{abbiamo gli strumenti adatti per la decontaminazione.}
 {13084}{}{**END-PAR**}
-{13085}{}{• 26 Ott 2077}
+{13085}{}{* 26 Ott 2077}
 {13086}{}{Ho convinto gli uomini a seppellire gli scienziati.}
 {13087}{}{Non so perche'... forse per placare la mia coscienza.}
 {13088}{}{Ho cominciato a credere alle loro storie solo quando}
 {13089}{}{l'ultimo stava morendo. Mio Dio, cosa sono diventato?}
 {13090}{}{**END-PAR**}
-{13091}{}{• 27 Ott 2077}
+{13091}{}{* 27 Ott 2077}
 {13092}{}{Oggi abbandoneremo questo luogo dimenticato da Dio. Io}
 {13093}{}{stesso guidero' l'esodo verso il vecchio bunker di Lost}
 {13094}{}{Hills. Questo diario rimarra' qui, perche' il prossimo}

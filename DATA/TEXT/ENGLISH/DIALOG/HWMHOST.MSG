@@ -2,7 +2,7 @@
 {101}{}{Posso aiutarti?}
 {102}{}{Si'. Potresti dirmi dove mi trovo?}
 {103}{}{Arrivederci.}
-{104}{}{Uhhhhhhh.  Huh huh.  Uhhhhh.  Huh.}
+{104}{}{Uhhhhhhh. Huh huh. Uhhhhh. Huh.}
 {105}{}{Cavoli, sei piu' stupido di un sacco di patate. Vedi di sparire.}
 {106}{}{Ti trovi nella zona sud dell'Hub. Se ti guardi attorno troverai i Mercanti d'Acqua e un piccolo ospedale.}
 {107}{}{Chi sono i Mercanti d'Acqua?}

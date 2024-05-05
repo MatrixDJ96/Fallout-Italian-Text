@@ -9,6 +9,6 @@
 {108}{}{Sta... stavamo cercando degli umani... venivamo da... da nordovest.}
 {109}{}{Chi vi mandava?}
 {110}{}{Padre... dove sei, Padre?... Si', Master... [Il mutante esala il suo ultimo respiro e muore]}
-{111}{}{Uhhhh....  Arrgghh....}
-{112}{}{Master....}
+{111}{}{Uhhhh... Arrgghh...}
+{112}{}{Master...}
 {113}{}{Fratelli... dove...?}

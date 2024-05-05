@@ -1,2 +1,2 @@
 {100}{}{Vedi un Paziente.}
-{101}{}{Ohhhh… Pieta'… Sacra Fiamma…}
+{101}{}{Ohhhh... Pieta'... Sacra Fiamma...}

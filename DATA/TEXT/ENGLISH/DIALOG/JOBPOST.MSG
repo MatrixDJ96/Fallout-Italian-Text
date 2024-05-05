@@ -1,6 +1,6 @@
 {100}{}{Vedi una bacheca per gli annunci di lavoro.}
 {101}{}{LAVORO OFFRESI! Ti serve lavoro? Ti servono soldi? GUARDA QUI! }
-{102}{}{Siete pregati di non affiggere messaggi doppi.  -Sceriffo Greene.}
+{102}{}{Siete pregati di non affiggere messaggi doppi. -Sceriffo Greene.}
 {103}{}{1       Carovane Scomparse! Ricompensa!}
 {104}{}{2       Cercansi Guardie per Carovane.}
 {105}{}{8a}

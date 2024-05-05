@@ -181,7 +181,7 @@
 {282}{}{Mi dispiace, ma non ho alcuna intenzione di aiutarti finche' terrai in mano quell'arma. Questo e' un negozio, non un campo di battaglia.}
 {283}{}{Uhh... beh, certo... umm... Io... desideri... desideri qualcos'altro?}
 {284}{}{Non si puo' mai sapere com'e' fatta una persona che sta dietro ad una porta chiusa. Bisogna fare attenzione quando si scelgono le proprie amicizie. Ti serve altro?}
-{285}{}{Sei un...?  Cioe'... Io non volevo... Umm... Oggi e' davvero una splendida giornata. Non credi? Allora, cos'altro posso fare per te?}
+{285}{}{Sei un...? Cioe'... Io non volevo... Umm... Oggi e' davvero una splendida giornata. Non credi? Allora, cos'altro posso fare per te?}
 {286}{}{Un'altra domanda sulle carovane scomparse...}
 {287}{}{Grazie. Adesso torniamo ai mercanti...}
 {288}{}{No, e' tutto. Ci vediamo.}

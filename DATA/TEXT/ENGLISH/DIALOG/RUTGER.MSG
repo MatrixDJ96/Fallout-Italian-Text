@@ -189,7 +189,7 @@
 {289}{}{Beh, si', perdiamo molte carovane, ma e' comunque una percentuale piuttosto ridotta del nostro giro d'affari. Le probabilita' che tu ti unisca ad una carovana che verra' attaccata da chi le sta saccheggiando e distruggendo e' molto bassa. Chi o cosa lo sta facendo deve far parte di un gruppo o molto ampio, o altamente letale.}
 {290}{}{Oh, okay. Credo che faro' qualche altra domanda in giro. }
 {291}{}{Beh, ho bisogno di soldi.}
-{292}{}{Bentornata.  Come posso farti... cioe', cosa posso fare per te?}
+{292}{}{Bentornata. Come posso farti... cioe', cosa posso fare per te?}
 {293}{}{E' un piacere rivederti.}
 {294}{}{Mi stavo chiedendo... trasportate anche acqua?}
 {295}{}{Sono qui per quell'annuncio di lavoro.}

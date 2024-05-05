@@ -66,7 +66,7 @@
 {165}{}{Era un nanetto verde.}
 {166}{}{Era piu' o meno della tua altezza e indossava una giacca di cuoio... Cosa indossi sotto a quella veste?}
 {167}{}{Era uguale a te: un idiota patentato!}
-{168}{}{Um... Io... Io... non crederai davvero che si tratti di m... me?  E' ridicolo! Assurdo!}
+{168}{}{Um... Io... Io... non crederai davvero che si tratti di m... me? E' ridicolo! Assurdo!}
 {169}{}{Ok. Me ne vado, allora. Ma avvertimi subito se vedi qualcosa...}
 {170}{}{Si'! Credo proprio sia tu! Faccia a terra e mani dietro la nuca!}
 {171}{}{No, non credo che si tratti di te, ma posso farti delle domande?}

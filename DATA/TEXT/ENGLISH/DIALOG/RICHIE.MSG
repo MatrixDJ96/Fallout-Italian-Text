@@ -7,7 +7,7 @@
 {106}{}{E chi l'ha detto?! Amico, attaccandomi faresti il piu' grande errore della tua vita!}
 {107}{}{Ehi, ragazzo! Cosa c'e' in quella cassaforte?}
 {108}{}{Troppo tardi, stronzo. Sei morto.}
-{109}{}{Uh… yeah… runk…}
+{109}{}{Uh... yeah... runk...}
 {110}{}{Non dovrei nemmeno parlarci, con te! Sparisci!}
 {111}{}{Era ora! Fa un caldo boia, qui dentro! Ed e' pure noioso! Se non avessi bisogno di questo lavoro per sfamare la mia famiglia, direi a Lorenzo di andare a quel paese. Ci vediamo domani.}
 {112}{}{Non ho il permesso di andarmene e tu non hai il permesso di stare qui. Sparisci!}
@@ -17,10 +17,10 @@
 {116}{}{Oh, circa diecimila testoni dell'Hub. Spero che tu non abbia intenzione di rubarli. In quel caso dovrei ucciderti. Ho quasi ucciso un tizio, una volta, quindi vedi di non fare il furbo con me!}
 {117}{}{Cavoli, ma sei proprio un idiota. Oh, scusa, non volevo offenderti. Riproviamoci. "Si'" significa che ti faccio saltare la testa. "No" significa che porti le tue chiappe fuori di qui. Quale scegli?}
 {118}{}{Ah... si'...}
-{119}{}{Uh… no…}
+{119}{}{Uh... no...}
 {120}{}{Runk! Runk!}
 {121}{}{Cavoli, non posso proprio farlo! Sarebbe come sparare ad uno stupido animale. Sparisci e basta, okay?}
-{122}{}{Cosi' va bene. Sparisci, forza. Magari trovi qualcuno che ti da' qualcosa da mangiare…}
+{122}{}{Cosi' va bene. Sparisci, forza. Magari trovi qualcuno che ti da' qualcosa da mangiare...}
 {123}{}{Forse un runk significa "si'" e due runk "no". Okay, "runk" significa che io ti uccido. "Runk, runk" significa che te ne vai. Okay?}
 {124}{}{Runk}
 {125}{}{Runk, runk.}

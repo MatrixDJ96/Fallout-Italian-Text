@@ -54,7 +54,7 @@ E, francamente, credo che tu sia la nostra unica speranza. Dovrai andare a cerca
 {140}{}{Certo. Potreste alzare le vostre chiappe e venirmi a dare una mano.}
 {141}{Over_23}{Fa' del tuo meglio. Ricorda: contiamo tutti su di te.}
 {142}{Over_24}{Ecco, prendi le nostre ultime munizioni e gli ultimi medicinali. Siamo nei guai. Sbrigati!}
-{143}{Over_25}{Fare cosa? E con chi? Chiunque altro sarebbe meno qualificato di te e non potremmo nemmeno fornirgli  provviste sufficienti. Sarebbe un suicidio.}
+{143}{Over_25}{Fare cosa? E con chi? Chiunque altro sarebbe meno qualificato di te e non potremmo nemmeno fornirgli provviste sufficienti. Sarebbe un suicidio.}
 {144}{}{Fa' come vuoi. Io faro' del mio meglio, ma non so se bastera'.}
 {145}{}{Capisco.}
 {146}{Over_26}{Dovra' esserlo. Se fallirai, il Vault morira'.}
@@ -134,7 +134,7 @@ E, francamente, credo che tu sia la nostra unica speranza. Dovrai andare a cerca
 {220}{Over_64}{Che ne e' del leader dei mutanti? Cosa mi dici di questo cosiddetto Master?}
 {221}{}{Per quel che ne so, e' ancora vivo.}
 {222}{}{Uh-nuh-nuh.}
-{223}{Over_66}{Deve essere fermato. Altrimenti potrebbe ricostituire il suo impero di mutanti e a quel punto  vorrebbe sicuramente vendicarsi di noi. Il Vault non sara' al sicuro finche' il Master non sara' morto.}
+{223}{Over_66}{Deve essere fermato. Altrimenti potrebbe ricostituire il suo impero di mutanti e a quel punto vorrebbe sicuramente vendicarsi di noi. Il Vault non sara' al sicuro finche' il Master non sara' morto.}
 {224}{Over_68}{Ti sei occupato... del leader dei mutanti?}
 {225}{}{No.}
 {226}{}{Lo faro'... presto.}

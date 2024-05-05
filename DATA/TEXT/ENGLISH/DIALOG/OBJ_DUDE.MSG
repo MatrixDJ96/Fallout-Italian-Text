@@ -13,8 +13,8 @@
 {2805}{}{Sala}
 {2900}{}{Non e' per caso un pezzo grosso?}
 {2901}{}{Non saprei, ma forse nell'acquedotto ce n'e' uno.}
-{2902}{}{Ci sei dentro.  O in quel che ne rimane, almeno. Questo posto sta morendo... lentamente, forse, ma sta morendo.}
-{2903}{}{Oh, lui mi piace, certo.  Lo puoi trovare nella Sala.}
+{2902}{}{Ci sei dentro. O in quel che ne rimane, almeno. Questo posto sta morendo... lentamente, forse, ma sta morendo.}
+{2903}{}{Oh, lui mi piace, certo. Lo puoi trovare nella Sala.}
 {2904}{}{Si trova a nord di qui. Occhio alle guardie. Il loro lavoro lo prendono dannatamente sul serio, quelli.}
 {2905}{}{La Sala dei Morti. E' dove Set dirige i suoi affari.}
 {3400}{}{Master}
@@ -25,8 +25,8 @@
 {3405}{}{Sala}
 {3500}{}{Non e' per caso un pezzo grosso?}
 {3501}{}{Non saprei, ma forse nell'acquedotto ce n'e' uno.}
-{3502}{}{Ci sei dentro.  O in quel che ne rimane, almeno. Questo posto sta morendo... lentamente, forse, ma sta morendo.}
-{3503}{}{Oh, lui mi piace, certo.  Lo puoi trovare nella Sala.}
+{3502}{}{Ci sei dentro. O in quel che ne rimane, almeno. Questo posto sta morendo... lentamente, forse, ma sta morendo.}
+{3503}{}{Oh, lui mi piace, certo. Lo puoi trovare nella Sala.}
 {3504}{}{Si trova a nord di qui. Occhio alle guardie. Il loro lavoro lo prendono dannatamente sul serio, quelli.}
 {3505}{}{La Sala dei Morti. E' dove Set dirige i suoi affari. E' giusto nel centro di Necropolis.}
 {4000}{}{Master}
@@ -37,8 +37,8 @@
 {4005}{}{Sala}
 {4100}{}{Non e' per caso un pezzo grosso?}
 {4101}{}{Non saprei, ma forse nell'acquedotto ce n'e' uno.}
-{4102}{}{Ci sei dentro.  O in quel che ne rimane, almeno. Questo posto sta morendo... lentamente, forse, ma sta morendo.}
-{4103}{}{Oh, lui mi piace, certo.  Lo puoi trovare nella Sala.}
+{4102}{}{Ci sei dentro. O in quel che ne rimane, almeno. Questo posto sta morendo... lentamente, forse, ma sta morendo.}
+{4103}{}{Oh, lui mi piace, certo. Lo puoi trovare nella Sala.}
 {4104}{}{Occhio alle guardie. Il loro lavoro lo prendono dannatamente sul serio, quelli..}
 {4105}{}{La Sala dei Morti. E' dove Set dirige i suoi affari. E' giusto nel centro di Necropolis.}
 {4600}{}{Vault}

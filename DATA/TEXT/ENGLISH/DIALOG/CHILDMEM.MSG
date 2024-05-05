@@ -4,7 +4,7 @@
 {103}{}{Chi siete, esattamente?}
 {104}{}{Uhn.}
 {105}{}{Sta bene. Ti visiteremo subito.}
-{106}{}{Beati sono i deboli di pensiero. Non c'e' nulla di sbagliato in te.  Corri felice e gioca.}
+{106}{}{Beati sono i deboli di pensiero. Non c'e' nulla di sbagliato in te. Corri felice e gioca.}
 {107}{}{Sei stato guarito. Presta maggior attenzione, in futuro.}
 {108}{}{Sei ferito.}
 {109}{}{Non sei ferito. Cio' e' bene.}

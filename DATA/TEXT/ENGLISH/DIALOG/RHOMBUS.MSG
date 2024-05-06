@@ -51,7 +51,7 @@
 {150}{}{Si direbbe una cosa molto noiosa.}
 {151}{}{Tutto qui? E' questa la tua vita?}
 {152}{}{Cavoli. Posso farti qualche altra domanda?}
-{153}{Rhom18}{Ah ah ah! Vediamo un po'. }
+{153}{Rhom18}{Ah ah ah! Vediamo un po'.}
 {154}{Rhom19}{Gli Scriba vergano i progetti per le armi, e i Cavalieri le forgiano. I Paladini proteggono la Confraternita dagli invasori.}
 {155}{}{Che tipo di invasori?}
 {156}{}{Dio, che roba noiosa.}

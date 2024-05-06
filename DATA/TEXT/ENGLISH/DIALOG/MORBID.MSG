@@ -9,7 +9,7 @@
 {108}{}{Beh, se non e' adesso, forse lo sara' nel prossimo futuro.}
 {109}{}{Spero proprio di no. Addio.}
 {110}{}{Oh, questo poi e' tutto da vedere. Ma io ne dubito.}
-{111}{}{Hmm, fammi dare un'occhiata. }
+{111}{}{Hmm, fammi dare un'occhiata.}
 {112}{}{Hai praticamente una salute di ferro. Per la visita sono 10$.}
 {113}{}{Dieci tappi per dirmi una cosa del genere? Stai scherzando, vero?}
 {114}{}{Ecco i tuoi soldi.}

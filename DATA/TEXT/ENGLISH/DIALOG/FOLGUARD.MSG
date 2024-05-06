@@ -60,7 +60,7 @@
 {159}{}{Pensala come vuoi, ma la tua opinione non era richiesta. Addio.}
 {160}{}{Un cinico tra le nostre fila... Sicuramente avrai le tue ragioni. Tuttavia, sono certo che in qualche modo riusciremo a capirci.}
 {161}{}{In bocca al lupo, allora. Addio.}
-{162}{}{Ho sentito che la Cattedrale e' entrata in possesso di alcuni dei nostri segreti. Mi domando come sia stato possibile... }
+{162}{}{Ho sentito che la Cattedrale e' entrata in possesso di alcuni dei nostri segreti. Mi domando come sia stato possibile...}
 {163}{}{Credo che ci sia una spia.}
 {164}{}{Io lo so. Sono stato io a venderli...}
 {165}{}{Probabilmente lavori un po' troppo di fantasia. Non pensi che se ci fosse una spia, la Cattedrale saprebbe tutto di voi?}

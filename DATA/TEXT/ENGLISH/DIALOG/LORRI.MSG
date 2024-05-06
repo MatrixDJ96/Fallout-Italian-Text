@@ -26,8 +26,8 @@
 {125}{}{Oh, una mezza dozzina. Sammael e' stato il primo. Ed e' ancora il migliore.}
 {126}{}{Posso chiederti qualcos'altro?}
 {127}{}{Interessante. Grazie.}
-{128}{}{Mantengono la pace e controllano tutti i soldi che entrano ed escono dalla citta'. Quasi tutti qui lavorano per i Regolatori, in pratica, e non e' certo una cosa gratificante. Molti non hanno mai oltrepassato le recinzioni che circondano Adytum. }
-{129}{}{ Ma chissa' cosa aveva in mente Julianna...}
+{128}{}{Mantengono la pace e controllano tutti i soldi che entrano ed escono dalla citta'. Quasi tutti qui lavorano per i Regolatori, in pratica, e non e' certo una cosa gratificante. Molti non hanno mai oltrepassato le recinzioni che circondano Adytum.}
+{129}{}{Ma chissa' cosa aveva in mente Julianna...}
 {130}{}{Julianna?}
 {131}{}{Terribile. Posso farti qualche altra domanda?}
 {132}{}{Grazie dell'avvertimento.}

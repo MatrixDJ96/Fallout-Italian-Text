@@ -25,8 +25,8 @@
 {124}{}{Avete qualche prova?}
 {125}{}{Beh, se scopro qualcosa vi faccio sapere.}
 {126}{}{"Noi" questo e "noi" quello. Cerchi forse di mettere le tue parole nella bocca di tutti gli altri?}
-{127}{Nic_8}{Forse, ma e' l'unica cosa che ci ha fatto sopravvivere fino ad ora. }
-{128}{Nic_8a}{Noi siamo uniti. Se non lo fossimo, verremmo schiacciati. E scusami se questo ti da' fastidio. }
+{127}{Nic_8}{Forse, ma e' l'unica cosa che ci ha fatto sopravvivere fino ad ora.}
+{128}{Nic_8a}{Noi siamo uniti. Se non lo fossimo, verremmo schiacciati. E scusami se questo ti da' fastidio.}
 {129}{Nic_8b}{C'e' qualcos'altro che vuoi sapere?}
 {130}{}{Si'.}
 {131}{}{No, grazie. Adesso devo andare.}
@@ -165,7 +165,7 @@
 {264}{Nic_61a}{Chiaramente hai preso la tua decisione. Questo potrebbe aiutarti: raggiungi la Cattedrale e cerca una ragazza di nome Laura. Dille la frase "Red Rider". E, ti prego... torna sano e salvo.}
 {265}{Nic_63}{Hai uno strano senso dell'umorismo. Perche' non torni quando avrai qualcosa di serio da dire?}
 {266}{}{Mi dispiace, era solo uno scherzo. Ha a che fare con i Nightkin.}
-{267}{Nic_65a}{E cosi' sei un mercenario... Bene, ti daro' 100 tappi. }
+{267}{Nic_65a}{E cosi' sei un mercenario... Bene, ti daro' 100 tappi.}
 {268}{Nic_66b}{Cos'hai da dirmi?}
 {269}{}{So che qualcuno stava cercando di spillarti dei quattrini. E pare che ci sia riuscito, grazie.}
 {270}{}{Morpheus non e' il vero leader della Cattedrale. E' solo una marionetta nelle mani del Master.}

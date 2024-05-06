@@ -25,15 +25,15 @@
 {124}{}{Cioe', il capo non ha nemmeno mandato uno dei suoi scagnozzi per salvarmi. Pensavo che, con tutti i soldi che ho fatto guadagnare a quello stronzo, almeno avrebbe rispettato l'accordo.}
 {125}{}{Chi e' il tuo capo?}
 {126}{}{Che accordo?}
-{127}{}{Gizmo, naturalmente. E' lui che controlla tutti i peccati della citta'. Di certo Killian non si metterebbe con me o con gente simile. E se non fosse per il fatto che il vecchio Giz fa un fracasso di soldi grazie a me, sarei costretta a fargli altre "cose". }
-{128}{}{ E, dolcezza, il solo pensarci non mi fa bene allo stomaco.}
+{127}{}{Gizmo, naturalmente. E' lui che controlla tutti i peccati della citta'. Di certo Killian non si metterebbe con me o con gente simile. E se non fosse per il fatto che il vecchio Giz fa un fracasso di soldi grazie a me, sarei costretta a fargli altre "cose".}
+{128}{}{E, dolcezza, il solo pensarci non mi fa bene allo stomaco.}
 {129}{}{Cos'altro controlla Gizmo?}
 {130}{}{Dovresti mandarlo al diavolo e vivere la tua vita.}
 {131}{}{Ma non mi dire... E cos'altro dovrei fare? A volte mi pare che la mia vita sia stata decisa da qualcun altro... quasi programmata. Oh, pazienza. Una ragazza deve pur guadagnarsi da vivere, in qualche modo.}
-{132}{}{ Ma, zucchero, questa volta offro io.}
-{133}{}{ Grazie ancora, dolcezza. Noi donne dobbiamo sostenerci a vicenda.}
+{132}{}{Ma, zucchero, questa volta offro io.}
+{133}{}{Grazie ancora, dolcezza. Noi donne dobbiamo sostenerci a vicenda.}
 {134}{}{Praticamente tutto cio' di male che una persona potrebbe fare in questa citta'. E' il padrone del Casino'. Ed e' il padrone mio e di altre ragazze... persino di alcune ragazzine. Ho sentito che sta cercando di impossessarsi del bar.}
-{135}{}{ Sta' lontano da lui, okay? Dammi retta: non e' il tipo di persona che vorrebbe farti credere. Stagli alla larga.}
+{135}{}{Sta' lontano da lui, okay? Dammi retta: non e' il tipo di persona che vorrebbe farti credere. Stagli alla larga.}
 {136}{}{Giz vorrebbe prendersi cura di Killian... se capisci quello che intendo.}
 {137}{}{Beh, dolcezza, io mi prendo cura degli uomini e lui, in cambio, si prende cura di me. Gizmo prende il 25% e io, in teoria, dovrei ricevere la sua protezione. Ma hai visto anche tu com'e' andata, no?}
 {138}{}{Cos'altro controlla Gizmo?}

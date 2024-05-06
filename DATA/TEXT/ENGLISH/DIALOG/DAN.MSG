@@ -37,7 +37,7 @@
 {138}{}{Addio. E sta' lontano dai miei brahmin, brutto stronzo bastardo.}
 {139}{}{Addio. E sta' lontana dai miei brahmin, brutta puttana.}
 {141}{}{Guardie! Polizia! C'e' un pazzo che vuole uccidermi!}
-{142}{}{Beh, io non ho posti vacanti, ma potresti provare con uno dei Tre Grandi. Nella Piazza dei Mercanti c'e' una bacheca di annunci di lavoro. Forse la' troverai qualcosa. E' il mezzo piu' usato dai mercanti per reclutare uomini. }
+{142}{}{Beh, io non ho posti vacanti, ma potresti provare con uno dei Tre Grandi. Nella Piazza dei Mercanti c'e' una bacheca di annunci di lavoro. Forse la' troverai qualcosa. E' il mezzo piu' usato dai mercanti per reclutare uomini.}
 {143}{}{Ah... e anche donne, naturalmente.}
 {144}{}{Non hai posti liberi? Anche tu sei un mercante?}
 {145}{}{Da che parte e' la Piazza dei Mercanti?}

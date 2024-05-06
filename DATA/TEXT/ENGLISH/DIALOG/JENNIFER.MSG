@@ -10,11 +10,11 @@
 {109}{}{Chi e' che comanda, in questo buco?}
 {110}{}{Dov'e' 'sto tizio, il Sommo Anziano?}
 {111}{}{Gruk!}
-{112}{}{Maxson, il Sommo Anziano, si trova al quarto livello. Se prendi l'ascensore, lo dovresti trovare nella Sala del Consiglio, oppure nelle sale degli Anziani. }
+{112}{}{Maxson, il Sommo Anziano, si trova al quarto livello. Se prendi l'ascensore, lo dovresti trovare nella Sala del Consiglio, oppure nelle sale degli Anziani.}
 {113}{}{Puoi chiedere ad una delle guardie di quel piano. Loro dovrebbero sapere dove si trova al momento.}
 {114}{}{Grazie.}
 {115}{}{Dove potrei trovare delle armi migliori?}
-{116}{}{Puoi provare a rivolgerti a Talus. Lui dovrebbe poterti aiutare, o almeno dovrebbe poterti dire con chi devi parlare. }
+{116}{}{Puoi provare a rivolgerti a Talus. Lui dovrebbe poterti aiutare, o almeno dovrebbe poterti dire con chi devi parlare.}
 {117}{}{Durante il giorno, Talus supervisiona le lezioni che si tengono nella sala d'addestramento. Sai dove si trova?}
 {118}{}{Si', grazie.}
 {119}{}{No.}
@@ -28,8 +28,8 @@
 {127}{}{Scusa? C'e' qualcosa che non va?}
 {128}{}{Muk lug?}
 {129}{}{Mi dispiace, ma non credo di poterti aiutare. Dovresti andare a farti vedere dal dottore. Si trova al secondo piano.}
-{130}{}{Ma certo che ci sono. Due dei nostri cinque Anziani sono donne, il nostro Capo Scriba e' una donna, e ci sono molte altre donne, di ogni grado. }
-{131}{}{Anche le donne della Confraternita si chiamano Fratelli. Le donne non vengono chiamate Sorelle. Questa e' la Confraternita d'Acciaio, dopotutto. Non la Confraternita e Sorellanza d'Acciaio. }
+{130}{}{Ma certo che ci sono. Due dei nostri cinque Anziani sono donne, il nostro Capo Scriba e' una donna, e ci sono molte altre donne, di ogni grado.}
+{131}{}{Anche le donne della Confraternita si chiamano Fratelli. Le donne non vengono chiamate Sorelle. Questa e' la Confraternita d'Acciaio, dopotutto. Non la Confraternita e Sorellanza d'Acciaio.}
 {132}{}{Non ti suona strano che si chiami Confraternita, come se tutti i suoi membri fossero necessariamente di sesso maschile?}
 {133}{}{Ma allora perche' si chiama Confraternita?}
 {134}{}{Beh, mi sembrava strano, ecco tutto.}
@@ -43,10 +43,10 @@
 {142}{}{Si'. Dove posso trovare il Sommo Anziano?}
 {143}{}{Dove posso trovare delle armi migliori?}
 {144}{}{No, e' tutto. Ci vediamo.}
-{145}{}{No. Siamo molto rigorosi quando si tratta della nostra tradizione. Credo che il nome non cambiera' mai. Non mi da' alcun fastidio essere chiamata Fratello. E' giusto un po' insolito. }
+{145}{}{No. Siamo molto rigorosi quando si tratta della nostra tradizione. Credo che il nome non cambiera' mai. Non mi da' alcun fastidio essere chiamata Fratello. E' giusto un po' insolito.}
 {146}{}{Credo che dovresti parlare con Vree. Lei potrebbe dirti qualcosa di piu' sul motivo per cui i nostri antenati hanno deciso di dare all'Ordine il nome di Confraternita d'Acciaio.}
 {147}{}{Chi e' Vree? Una degli Anziani?}
-{148}{}{Vree e' il nostro Capo Scriba. E' a lei che devi rivolgerti se hai delle domande di natura tecnica. Cerca solo di non disturbarla durante le sue meditazioni notturne. }
+{148}{}{Vree e' il nostro Capo Scriba. E' a lei che devi rivolgerti se hai delle domande di natura tecnica. Cerca solo di non disturbarla durante le sue meditazioni notturne.}
 {149}{}{Sta quasi sempre nella sua stanza, che si trova al terzo piano e che e' pure occupata dal mainframe.}
 {150}{}{Buco? Come osi parlare cosi' della Confraternita? Sei un membro del nostro Ordine, adesso, e dovresti essere fiero di far parte della Confraternita d'Acciaio.}
 {151}{}{Fiero? Perche'? Siete soltanto una manica di drogati della tecnologia, che si nascondono dal mondo reale. Non c'e' nulla di cui essere fieri.}
@@ -82,8 +82,8 @@
 {181}{}{Beh, si', sei un membro della Confraternita, ma gli Anziani hanno interrotto l'addestramento dei nuovi Iniziati.}
 {182}{}{Perche'?}
 {183}{}{Oh, davvero MERAVIGLIOSO! Perche' diavolo mi sono unito a questo fottuto gruppo? Dov'e' l'uscita?!}
-{184}{}{Ci sono voci che parlano dell'esistenza di una specie di esercito. Credo che gli Anziani vogliano concentrare tutte le risorse sui membri che hanno gia' affrontato l'addestramento di base. Un esercito d'elite ha piu' possibilita' di vincere in una battaglia campale. }
-{185}{}{Siamo fermamente convinti che addestrare in maniera specifica un gruppo ristretto di soldati sia piu' produttivo che fornire un addestramento di basso livello ad un gruppo di novellini. La sopravvivenza dei nostri soldati e' uno dei nostri obiettivi primari. }
+{184}{}{Ci sono voci che parlano dell'esistenza di una specie di esercito. Credo che gli Anziani vogliano concentrare tutte le risorse sui membri che hanno gia' affrontato l'addestramento di base. Un esercito d'elite ha piu' possibilita' di vincere in una battaglia campale.}
+{185}{}{Siamo fermamente convinti che addestrare in maniera specifica un gruppo ristretto di soldati sia piu' produttivo che fornire un addestramento di basso livello ad un gruppo di novellini. La sopravvivenza dei nostri soldati e' uno dei nostri obiettivi primari.}
 {186}{}{Comunque, potresti imparare qualcosa assistendo agli addestramenti. Fratello Thomas e' il miglior addestratore che la Confraternita abbia mai avuto.}
 {187}{}{Beh, il mio compito sara' quello di agire all'esterno della Confraternita, giusto? Quello la' fuori e' un mondo ostile e mi ritrovero' a rischiare la vita in ogni momento. Non credi che dovrei ricevere anch'io un addestramento, se lo desidero, o se penso che mi possa servire? Oppure devo pensare che "salvare le vite dei nostri soldati" siano soltanto vuote parole?}
 {188}{}{Grazie per il suggerimento. Andro' a dare un'occhiata.}

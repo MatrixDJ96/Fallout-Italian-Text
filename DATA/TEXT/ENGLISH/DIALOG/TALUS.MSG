@@ -20,8 +20,8 @@
 {120}{}{Capisco, ma ho davvero pochissimo tempo e ho un bisogno disperato di un arsenale migliore.}
 {121}{}{Ottimo! E adesso cosa devo fare? Scalare la montagna piu' alta?}
 {122}{}{Ottima idea. Perche' non cominci subito?}
-{123}{}{Beh, forse posso fare un'eccezione, per questa volta. Mi pare evidente che tu sia ben addestrato. Altrimenti non saresti mai sopravvissuto a quella folle missione che il Sommo Anziano ti ha assegnato. }
-{124}{}{A volte non capisco se lo faccia per avere un valido aiuto dall'esterno, oppure per uccidere gli stupidi che ci danno noia. Senza offesa. Ti dico una cosa. Sono piuttosto sulle spine dal momento che gli esploratori che ho mandato in missione qualche giorno fa non sono ancora tornati. }
+{123}{}{Beh, forse posso fare un'eccezione, per questa volta. Mi pare evidente che tu sia ben addestrato. Altrimenti non saresti mai sopravvissuto a quella folle missione che il Sommo Anziano ti ha assegnato.}
+{124}{}{A volte non capisco se lo faccia per avere un valido aiuto dall'esterno, oppure per uccidere gli stupidi che ci danno noia. Senza offesa. Ti dico una cosa. Sono piuttosto sulle spine dal momento che gli esploratori che ho mandato in missione qualche giorno fa non sono ancora tornati.}
 {125}{}{E' stata una mia idea, e probabilmente mi tocchera' una bella lavata di capo. Se tu riuscissi a scoprire cos'e' successo ai miei uomini, ti assicuro che sapro' ripagarti in maniera adeguata.}
 {126}{}{Ci devo pensare.}
 {127}{}{Iniziato, sei pregato di non impugnare la tua arma nelle sale della Confraternita. Mettila via, a meno che tu non sia intenzionato ad usarla.}
@@ -38,18 +38,18 @@
 {138}{}{Se vuoi rifornire il tuo equipaggiamento, va' da Michael.}
 {139}{}{Cosa mi dici di quell'armatura d'acciaio che indossi?}
 {140}{}{Grazie. Ma cosa ne diresti di passarmi qualche arma ipertecnologica?}
-{141}{}{Beh, siamo tutti importanti, ma ho capito a chi ti riferisci. }
+{141}{}{Beh, siamo tutti importanti, ma ho capito a chi ti riferisci.}
 {142}{}{Non c'e' problema. Imparerai presto a conoscere bene i tuoi Fratelli. Lo so: siamo in tanti e per qualcuno puo' essere difficile ricordarsi di tutti.}
 {143}{}{C'e' Rhombus. E' il nostro Paladino Capo, conosciuto anche come il Primo Cavaliere. Poi c'e' Vree; lei e' il Capo Scriba. E naturalmente non possiamo dimenticare il nostro distinto Sommo Anziano, Maxson.}
 {144}{}{Parlami di Rhombus.}
 {145}{}{Parlami di Vree.}
 {146}{}{Parlami di Maxson.}
-{147}{}{Rhombus e' il mio migliore amico, il mio mentore e una figura paterna allo stesso tempo. E' un po' severo, ma deve esserlo, vista la posizione che occupa. }
+{147}{}{Rhombus e' il mio migliore amico, il mio mentore e una figura paterna allo stesso tempo. E' un po' severo, ma deve esserlo, vista la posizione che occupa.}
 {148}{}{Se mai ti dovesse capitare di dover parlare con lui, lo puoi trovare nel suo ufficio... cioe', stanza. Si trova dall'altra parte di questo piano, davanti alla stanza delle guardie.}
 {149}{}{Ma certo che l'abbiamo. Si trova al secondo piano, vicino alla sala d'apprendimento.}
 {150}{}{Grazie, ci vediamo.}
 {151}{}{Grazie. E' tutto quel che mi serviva sapere.}
-{152}{}{Vree e' una delle persone piu' intelligenti che abbia mai conosciuto. Credo sia nata con una predisposizione naturale allo studio della fisica e della chimica. }
+{152}{}{Vree e' una delle persone piu' intelligenti che abbia mai conosciuto. Credo sia nata con una predisposizione naturale allo studio della fisica e della chimica.}
 {153}{}{Passa ogni momento utile facendo delle ricerche, oppure analizzando e rianalizzando tutto cio' che le capita tra le mani. Se mai ti dovesse capitare di dover parlare con lei, la puoi trovare nella sua stanza, al terzo piano.}
 {154}{}{Si trova al secondo piano. Ti basta scendere qui sotto e poi girare a sinistra. Il suo studio si trova subito dopo la sala d'apprendimento. Adesso devo tornare al mio lavoro. Se hai altre domande, chiedi pure.}
 {155}{}{Come ti ho gia' detto, si trova al secondo piano. Non puoi sbagliare. E' l'unica stanza grande del secondo piano a parte la sala d'apprendimento.}
@@ -104,10 +104,10 @@
 {204}{}{Decker paghera' per quello che ha fatto, ci puoi contare.}
 {205}{}{Non c'e' di che.}
 {206}{}{Lup?}
-{207}{}{Salve, straniero! Ho sentito che sei tu la persona che dobbiamo ringraziare per la liberazione del nostro Iniziato scomparso. }
+{207}{}{Salve, straniero! Ho sentito che sei tu la persona che dobbiamo ringraziare per la liberazione del nostro Iniziato scomparso.}
 {208}{}{Ho saputo anche che Decker e' morto. Hai reso davvero un grande servizio alla nostra Confraternita.}
 {209}{}{Qui dentro non tolleriamo chi fa uso di droghe. Ti suggerisco di passare dal dottore per farti dare una ripulita.}
-{210}{}{Come ricompensa, ti permetto di scegliere un'arma tra queste: }
+{210}{}{Come ricompensa, ti permetto di scegliere un'arma tra queste:}
 {211}{}{Allora, quale preferisci?}
 {212}{}{Lanciarazzi.}
 {213}{}{Pistola Laser.}

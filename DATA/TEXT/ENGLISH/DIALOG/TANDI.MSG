@@ -15,7 +15,7 @@
 {114}{}{Diavolo, si'. Qui non c'e' niente da fare se non guardare i brahmin che si accoppiano.}
 {115}{}{Non mi pare un posto malvagio.}
 {116}{}{Beh, si'. E' un po' noioso.}
-{117}{TAND_3}{Si'... credo. Non sono mai uscita dal villaggio, quindi non so che aiuto potrei darti. Allora, cosa ti serve?}
+{117}{TAND_3}{ Si'... credo. Non sono mai uscita dal villaggio, quindi non so che aiuto potrei darti. Allora, cosa ti serve?}
 {118}{TAND_4}{Gia'... Beh, tu non vivi qui. Non c'e' niente di interessante da fare e credimi: spiare i brahmin diventa subito noioso.}
 {119}{}{Se sei cosi' stufa, perche' non te ne vai?}
 {120}{}{Dai, forse stai esagerando.}
@@ -32,7 +32,7 @@
 {131}{}{Se sei cosi' stufa, perche' non te ne vai?}
 {132}{}{Beh, dai... forse stai esagerando.}
 {133}{}{A me sembra un posticino tranquillo e sicuro.}
-{134}{TAND_15}{Junktown sta a sudovest, ma non so quanto sia distante. Piu' sotto c'e' uno strano posto chiamato la Citta' dei Morti. Hm, ah si'... c'e' anche un altro posto... Oh, capperi, come si chiamava? Ah, si': l'Hub. }
+{134}{TAND_15}{Junktown sta a sudovest, ma non so quanto sia distante. Piu' sotto c'e' uno strano posto chiamato la Citta' dei Morti. Hm, ah si'... c'e' anche un altro posto... Oh, capperi, come si chiamava? Ah, si': l'Hub.}
 {135}{tand_15a}{Ci saranno una mezza dozzina di citta', a sud. Ma siccome sei un cosi' grande viaggiatore, sono certa che le conoscerai gia'.}
 {136}{}{Grazie.}
 {137}{TAND_16}{Non c'e' di che. Altro?}

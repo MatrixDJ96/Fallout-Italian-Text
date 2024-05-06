@@ -26,7 +26,7 @@
 {125}{}{Chi organizza questi incontri?}
 {126}{}{Uhm, lasciamo perdere.}
 {127}{}{Mi spiace, ma non ho tempo. Magari un'altra volta.}
-{128}{}{Saul, il pugno piu' rapido di Junktown! E' una meraviglia ricoperta di muscoli! Un picchiatore ricolmo d'energia! }
+{128}{}{Saul, il pugno piu' rapido di Junktown! E' una meraviglia ricoperta di muscoli! Un picchiatore ricolmo d'energia!}
 {129}{}{E ha un aspetto niente male.}
 {130}{}{Um, certo. E chi organizza questi incontri?}
 {131}{}{Grazie. Ci si vede.}

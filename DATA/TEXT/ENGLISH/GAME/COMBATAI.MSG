@@ -1258,7 +1258,7 @@
 {3202}{}{Qualcuno mi aiuti!}
 {3203}{}{Prima o poi ti porteremo di fronte alla giustizia!}
 {3204}{}{Un giorno avrai cio' che ti meriti!}
-{3205}{}{Non voglio morire cosi'!}
+{3205}{}{ Non voglio morire cosi'!}
 {3206}{}{}
 {3207}{}{}
 {3208}{}{}
@@ -2797,7 +2797,7 @@
 {5702}{}{Qualcuno mi aiuti!}
 {5703}{}{Moriremo tutti!}
 {5704}{}{Un giorno avrai cio' che ti meriti!}
-{5705}{}{Non voglio morire cosi'!}
+{5705}{}{ Non voglio morire cosi'!}
 {5706}{}{E' troppo tardi per scappare}
 {5707}{}{Chi ti ha permesso di entrare nell'Hub?}
 {5708}{}{Ehi, tu!}

@@ -33,7 +33,7 @@
 {132}{}{Non molto tempo fa, i Gun Runner si sono trasferiti in una grande fabbrica a nordest di qui. Non ho molto da raccontare, dal momento che hanno scavato un fossato e l'hanno riempito di scorie radioattive. Inoltre, per arrivare alla loro base, bisogna attraversare il territorio dei deathclaw.}
 {133}{}{I Discepoli predicano la pace e la tolleranza. Bell'idea, ma poco pratica. Vivono in una grande biblioteca a nordovest di qui.}
 {134}{}{I Figli della Cattedrale sono stanziati in una grande chiesa che si trova parecchio a sud di qui. Accadono strane cose, da quelle parti. Da quella chiesa ho visto uscire ed entrare creature che di umano avevano ben poco.}
-{135}{}{ E se le storie che si sentono in giro non sono frottole, la chiesa e' stata costruita sopra un vecchio Vault, quello dove vivevano i progenitori degli abitanti di Adytum.}
+{135}{}{E se le storie che si sentono in giro non sono frottole, la chiesa e' stata costruita sopra un vecchio Vault, quello dove vivevano i progenitori degli abitanti di Adytum.}
 {136}{}{Ehila'. Ci incontriamo di nuovo. Che ti serve?}
 {137}{}{Di cosa hai detto che ti occupavi?}
 {138}{}{Niente, grazie.}

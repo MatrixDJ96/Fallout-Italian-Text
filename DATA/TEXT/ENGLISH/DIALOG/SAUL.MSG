@@ -68,7 +68,7 @@
 {167}{}{Grazie della dritta. Staro' in guardia.}
 {168}{}{Capisco. Puoi dirmi altro?}
 {169}{}{Beh, vedi di tenere a bada le mani, eh?}
-{170}{}{Lei e' molto importante per me. }
+{170}{}{Lei e' molto importante per me.}
 {171}{}{ [Saul si acciglia.] Ma non le piace che io faccia il pugile. Sembra non capisca che e' questo che mi piace fare.}
 {172}{}{E' soltanto preoccupata per la tua salute. Probabilmente non riesce a sopportare il fatto che tu ti faccia picchiare e che rischi la tua vita per Gizmo. Se non trovi un compromesso, potresti anche perderla.}
 {173}{}{Credo sia preoccupata per te.}

@@ -55,7 +55,7 @@
 {154}{}{Okay.}
 {155}{}{Mi dispiace, ma non posso aspettare.}
 {156}{}{Non so bene cosa sia successo, ma abbiamo perso l'intera carovana. Non e' buffo? Succede una cosa del genere e l'unico sopravvissuto sei tu... Le cose non vanno cosi', di solito. Per questo, non credo di potermi permettere di assumerti ancora. Sono certo che capirai il motivo.}
-{157}{}{Junktown }
+{157}{}{Junktown}
 {158}{}{Boneyard }
 {159}{}{Um, non adesso. Magari un'altra volta.}
 {160}{}{Benissimo. Chiamo subito il resto del gruppo.}

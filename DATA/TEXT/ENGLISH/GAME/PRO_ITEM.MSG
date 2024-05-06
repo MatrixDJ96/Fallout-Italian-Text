@@ -77,7 +77,7 @@
 {3900}{}{Cella a Micro-Fusione}
 {3901}{}{Un'unita' di produzione d'energia di medie dimensioni. Centrale a fusione autonoma.}
 {4000}{}{Stimpak}
-{4001}{}{Un farmaco curativo. Quando iniettato, il farmaco assicura l'immediata guarigione di piccole ferite. }
+{4001}{}{Un farmaco curativo. Quando iniettato, il farmaco assicura l'immediata guarigione di piccole ferite.}
 {4100}{}{Tappi di bottiglia}
 {4101}{}{Un sacchetto pieno di tappi, la moneta corrente delle lande.}
 {4200}{}{Frigo}

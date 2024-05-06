@@ -360,7 +360,7 @@
 {1586}{}{al guscio}
 {1587}{}{al guscio}
 {1588}{}{uncalled}
-{5000}{}{. Fa veramente male}
+{5000}{}{ . Fa veramente male}
 {5001}{}{. Una grave ferita e' stata inflitta}
 {5002}{}{ in un punto non protetto dall'armatura}
 {5003}{}{. Il violento colpo lo fa cadere senza sensi al suolo}
@@ -376,29 +376,29 @@
 {5013}{}{. Quel braccio sembra ormai un moncone insanguinato}
 {5014}{}{. Il braccio destro e' ormai inservibile}
 {5015}{}{. Il suo braccio destro e' stato polverizzato dal potente colpo}
-{5016}{}{. Un colpo davvero potente}
-{5017}{}{; il colpo ha attraversato le sue difese}
+{5016}{}{ . Un colpo davvero potente}
+{5017}{}{ ; il colpo ha attraversato le sue difese}
 {5018}{}{. Il colpo e' stato talmente potente da infliggergli un po' di danno extra}
 {5019}{}{ in un punto non protetto dall'armatura. Il combattente e' stato scaraventato al tappeto}
-{5020}{}{. Il colpo gli ha mozzato il fiato, facendolo crollare al tappeto: e' fuori gioco}
+{5020}{}{ . Il colpo gli ha mozzato il fiato, facendolo crollare al tappeto: e' fuori gioco}
 {5021}{}{. Per sua sfortuna, ora la sua spina dorsale e' visibile dal davanti}
-{5022}{}{. La gamba destra gli fa un male cane}
+{5022}{}{ . La gamba destra gli fa un male cane}
 {5023}{}{. Il colpo lo fa cadere come un birillo di bowling durante una gara di lega}
 {5024}{}{. Il colpo lo fa cadere e gli manda in pezzi la gamba}
 {5025}{}{. Il colpo gli fa volare il ginocchio fino al paese piu' vicino. Ei cadde}
 {5026}{}{. L'intenso dolore dato dall'amputazione della gamba lo fa svenire}
-{5027}{}{. Il colpo gli infligge un po' di dolore extra}
-{5028}{}{. Il colpo l'ha accecato, sfortunatamente... per lui}
+{5027}{}{ . Il colpo gli infligge un po' di dolore extra}
+{5028}{}{ . Il colpo l'ha accecato, sfortunatamente... per lui}
 {5029}{}{. Il colpo ha raggiunto un punto non protetto, provocandogli un intenso dolore}
 {5030}{}{, e rimane accecato da questo colpo micidiale}
 {5031}{}{. La perdita di un occhio e' troppo per lui. Il dolore lo fa svenire}
 {5032}{}{; in questo momento e' troppo impegnato a sentire le correnti d'aria che passano nel suo cervello per notare la morte che si avvicina}
 {5033}{}{. Ouch! Questo deve far male}
 {5034}{}{. E non stava nemmeno indossando la conchiglia}
-{5035}{}{. La mancanza di un'adeguata protezione lo fa cadere a terra in agonia}
+{5035}{}{ . La mancanza di un'adeguata protezione lo fa cadere a terra in agonia}
 {5036}{}{. Il dolore e' troppo forte e lo fa crollare a terra come un sacco}
 {5037}{}{. Mormora "mamma" mentre i suoi occhi si girano all'indietro}
-{5100}{}{. Fa veramente male}
+{5100}{}{ . Fa veramente male}
 {5101}{}{. Una grave ferita e' stata inflitta}
 {5102}{}{ in un punto non protetto dall'armatura}
 {5103}{}{. Il violento colpo la fa cadere senza sensi al suolo}
@@ -414,19 +414,19 @@
 {5113}{}{. Quel braccio sembra ormai un moncone insanguinato}
 {5114}{}{. Il colpo le ha spappolato il braccio destro}
 {5115}{}{. Il potente colpo le ha ridotto in poltiglia il braccio destro}
-{5116}{}{. Che colpo potente}
-{5117}{}{; il colpo ha attraversato le sue difese }
+{5116}{}{ . Che colpo potente}
+{5117}{}{ ; il colpo ha attraversato le sue difese}
 {5118}{}{. La potenza del colpo le ha causato qualche danno in piu' del normale}
 {5119}{}{ in un punto non protetto dall'armatura. La combattente vola al tappeto}
-{5120}{}{; il colpo le ha mozzato il fiato - crolla al tappeto}
+{5120}{}{ ; il colpo le ha mozzato il fiato - crolla al tappeto}
 {5121}{}{. Adesso i suoi organi interni sono ben in vista}
-{5122}{}{. Il colpo le causa un gran dolore alla gamba}
+{5122}{}{ . Il colpo le causa un gran dolore alla gamba}
 {5123}{}{. Adesso sta male come dopo un appuntamento al buio andato storto}
 {5124}{}{. Il colpo la fa cadere e le ferisce irreparabilmente la gamba}
 {5125}{}{. Il colpo le fa volare il ginocchio fino al paese piu' vicino. E la combattente scende a terra piu' veloce di un ascensore}
 {5126}{}{. La donna urla di dolore: la gamba si e' spezzata in due}
-{5127}{}{. La violenza del colpo le causa un po' di dolore extra}
-{5128}{}{. Il colpo l'ha accecata. La donna contorce il viso in una smorfia di dolore}
+{5127}{}{ . La violenza del colpo le causa un po' di dolore extra}
+{5128}{}{ . Il colpo l'ha accecata. La donna contorce il viso in una smorfia di dolore}
 {5129}{}{. Il colpo ha raggiunto un punto non protetto, provocandole un intenso dolore}
 {5130}{}{. La ferita causa una grave forma di cecita'... come se ce ne fossero altre, di forme}
 {5131}{}{. La donna sviene a causa del colpo che l'ha accecata}
@@ -445,7 +445,7 @@
 {5208}{}{. Il colpo gli ha spezzato quel braccio come fosse un pezzo di torrone morbido}
 {5209}{}{. Il braccio destro inizia a gonfiarsi, come un palloncino}
 {5210}{}{. L'infante inizia a piangere}
-{5211}{}{. Il punto colpito era molto sensibile}
+{5211}{}{ . Il punto colpito era molto sensibile}
 {5212}{}{. L'attacco ad un organo vitale fa crollare a terra il bambino}
 {5213}{}{; il colpo fa rotolare a terra il bambino come fosse un giocattolo}
 {5214}{}{. Adesso questo bambino non potra' piu' scoprire la vita}
@@ -457,7 +457,7 @@
 {5220}{}{. Il colpo fa rientrare nel cranio il giovane naso}
 {5221}{}{. Un taglio appare sopra gli occhi e il sangue inizia a sgorgare copioso}
 {5222}{}{. Il colpo gli spreme un occhio come un acino schiacciato. Il bambino sembra confuso}
-{5223}{}{. Il colpo acceca il bambino, che cade a terra}
+{5223}{}{ . Il colpo acceca il bambino, che cade a terra}
 {5224}{}{; il colpo arriva fino al giovane cervello}
 {5225}{}{. Il bambino sembra confuso e sconvolto}
 {5226}{}{; il colpo fa crollare a terra il giovane bersaglio}
@@ -548,11 +548,11 @@
 {5809}{}{; il colpo colpisce una zona sensibile}
 {5810}{}{. La creatura e' chiaramente sconvolta}
 {5900}{}{. Strapazzato come un vecchio straccio, il centauro crolla a terra e sviene}
-{5901}{}{. Il colpo ha raggiunto un punto vitale}
+{5901}{}{ . Il colpo ha raggiunto un punto vitale}
 {5902}{}{. Il colpo causa uno shock intenso ai centri nervosi}
 {5903}{}{. La violenza del colpo stordisce l'immondo centauro}
 {5904}{}{. La potenza del colpo gli tronca il braccio}
-{5905}{}{. Il colpo centra un punto critico e trancia il braccio}
+{5905}{}{ . Il colpo centra un punto critico e trancia il braccio}
 {5906}{}{. La violenza del colpo fa cadere a terra la creatura e le mozza il braccio}
 {5907}{}{. La violenza del colpo stordisce il centauro mentre crolla a terra con una gamba maciullata}
 {5908}{}{. Una delle teste rimane accecata}
@@ -567,7 +567,7 @@
 {6004}{}{. Il robot cerca di compensare}
 {6005}{}{. Il robot si sforza di compensare}
 {6006}{}{. Il colpo ha centrato alcuni componenti chiave causando danni ingenti}
-{6007}{}{ che si vanno ad aggiungere ai gravi danni strutturali}
+{6007}{}{che si vanno ad aggiungere ai gravi danni strutturali}
 {6008}{}{. Il colpo ha centrato un componente critico e ha causato gravi danni}
 {6009}{}{. Il robot ondeggia a causa di questo duro attacco}
 {6010}{}{. Il colpo ha praticamente smantellato il robot}

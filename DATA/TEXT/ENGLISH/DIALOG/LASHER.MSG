@@ -114,7 +114,7 @@
 {213}{}{La Cattedrale insegna cose che una mente indisciplinata non e' in grado di comprendere. Adesso ho altre cose di cui occuparmi. Sparisci!}
 {214}{}{Lo stesso vale per me. Pare che noi due si abbia parecchie cose in comune, ma, sfortunatamente, la tua presenza mi irrita oltre le mie capacita' di tolleranza. Fuori di qui. Adesso.}
 {215}{}{Non e' mio compito giudicare. Dovrai convincere i Nightkin. Buona fortuna. Ne avrai bisogno.}
-{216}{}{La Cattedrale e' un rifugio per la razza umana. Quando l'apocalisse si abbatte' su questa citta' marcia, la Cattedrale fu risparmiata e cio' permise la nascita del Master. E cosi', da una terribile luce, emerse un'oscurita' rigeneratrice. }
+{216}{}{La Cattedrale e' un rifugio per la razza umana. Quando l'apocalisse si abbatte' su questa citta' marcia, la Cattedrale fu risparmiata e cio' permise la nascita del Master. E cosi', da una terribile luce, emerse un'oscurita' rigeneratrice.}
 {217}{}{ Quando giunsi qui, vidi che questo luogo mancava di un centro di moralita' e quindi feci voto di distribuire l'istruttivo dolore in un posto un tempo consumato da vani piaceri. E' tutto cio' che ti serve sapere.}
 {218}{}{E' scritto che il Master risiede nel profondo, nell'Oscurita', poiche' la Luce della superficie ha tradito e quasi distrutto il Genere Umano. Ma molti benedicono la luce, perche' dicono che da essa e' originato il Master.}
 {219}{}{ Non conosco queste cose con certezza e non ho mai avuto il privilegio di vederlo. Ora, se vuoi scusarmi, ho del lavoro da fare.}

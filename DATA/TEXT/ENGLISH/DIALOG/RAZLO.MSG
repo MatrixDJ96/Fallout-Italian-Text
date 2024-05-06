@@ -51,7 +51,7 @@
 {150}{}{Si', proprio come pensavo. Un attimo che prendo il necessario...}
 {151}{}{Adesso mi sembri a posto. La prossima volta fa' piu' attenzione.}
 {152}{}{Ripassa quando vuoi, ma cerca di curare la salute.}
-{153}{}{Non molto. Sembrano essere delle versioni extra-large dello Scorpione Imperatore del Nord-America. In contraddizione con tutte le mie nozioni mediche, il loro veleno risulta essere piu' potente e non diluito come mi sarei aspettato. Seth e le sue guardie li cacciano, il che mi e' discretamente utile per i miei esperimenti. }
+{153}{}{Non molto. Sembrano essere delle versioni extra-large dello Scorpione Imperatore del Nord-America. In contraddizione con tutte le mie nozioni mediche, il loro veleno risulta essere piu' potente e non diluito come mi sarei aspettato. Seth e le sue guardie li cacciano, il che mi e' discretamente utile per i miei esperimenti.}
 {154}{}{E non riesco a capacitarmi delle dimensioni di queste creature, siano esse il risultato di una evoluzione naturale o di una mutazione indotta dalle radiazioni.}
 {155}{}{Grazie.}
 {156}{}{Sembri molto colto. Di cosa ti occupi?}

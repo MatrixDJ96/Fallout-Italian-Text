@@ -5,7 +5,7 @@
 {104}{}{Perche' la vostra banda di predoni ha attaccato Shady Sands?}
 {105}{}{No, grazie.}
 {106}{}{Hooroo!}
-{107}{}{Se e' una delle donne di Shady Sands, forse dovresti cercarla laggiu'. Adesso vattene, devo finire di affilare i miei coltelli.}
+{107}{}{Se e' una delle donne di Shady Sands, forse dovresti cercarla laggiu'. Adesso vattene, devo finire di affilare i miei coltelli. }
 {108}{}{Bacia questo!}
 {109}{}{Noi non attacchiamo quelli di Shady Sands. Noi viviamo nella stessa zona. E' piu' che giusto che dividano le loro cose con noi!}
 {110}{}{Ma voi rubate il loro bestiame e terrificate gli abitanti.}

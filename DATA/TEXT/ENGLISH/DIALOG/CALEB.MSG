@@ -2,7 +2,7 @@
 {101}{}{Vedi un uomo di circa trent'anni, dall'aspetto severo.}
 {102}{}{Dovresti sapere che non amiamo gli stranieri, da queste parti. Che vuoi?}
 {103}{}{Buongiorno. Posso esserti utile?}
-{104}{}{Sono }
+{104}{}{Sono}
 {105}{}{Dall'aspetto sembreresti una persona importante.}
 {106}{}{Potresti parlarmi un po' di Adytum?}
 {107}{}{Puoi dirmi come vanno le cose nel Boneyard?}
@@ -17,8 +17,8 @@
 {116}{}{Sta' lontano dai guai, chiaro? Io sono Caleb e vedi di ricordarti bene questo nome, perche' saro' io che ti verro' a cercare se farai qualche casino.}
 {117}{}{Sono Caleb. Addestro e coordino i Regolatori.}
 {118}{}{Si', almeno credo. A nordovest ci sono i Blade, una mandria di persone piuttosto patetiche; un po' a nord e ad est ci sono i Gun Runner, ma per raggiungerli bisogna passare per il territorio dei Deathclaw.}
-{119}{}{ Inoltre, giu' a sud ci sono i Figli della Cattedrale, che gestiscono un ospedale ed una grossa chiesa. Un po' a nord e ad ovest ci sono quegli svitati dei Discepoli dell'Apocalisse, un gruppo di pacifisti.}
-{120}{}{ Sta' lontano dai guai.}
+{119}{}{Inoltre, giu' a sud ci sono i Figli della Cattedrale, che gestiscono un ospedale ed una grossa chiesa. Un po' a nord e ad ovest ci sono quegli svitati dei Discepoli dell'Apocalisse, un gruppo di pacifisti.}
+{120}{}{Sta' lontano dai guai.}
 {121}{}{Buona giornata anche a te.}
 {122}{}{Ancora qui?}
 {123}{}{Come posso aiutarti, ragazzo?}

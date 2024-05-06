@@ -78,19 +78,19 @@
 {228}{}{Leon VonFelden -- Capo Ricerca FEV -- Livello di Sicurezza: Blu -- Assegnato a: Base Militare di Mariposa}
 {229}{}{Scaricare dati nel PIPBoy}
 {230}{}{INDIETRO}
-{231}{}{Power Armor - Caratteristiche: L'Armatura Motorizzata T-51b (Power Armor) nasce da un progetto basato sulle ultime ricerche riguardanti la difesa passiva in ambiti civili e militari.}
-{232}{}{FEV - Cronologia: 2073. Visto l'aumento significativo dell'uso di armi chimiche da parte della Cina, il Governo degli Stati Uniti ritenne necessario prendere provvedimenti. Il Progetto "Virione di Panimmunita'" (PVP) fu varato ufficialmente il 15 settembre 2073.}
-{233}{}{ 2075. Fu presto chiaro come il modo migliore per combattere le piu' recenti armi biologiche fosse quello di modificare il DNA sano per renderlo immune contro le infezioni virali standard.}
-{234}{}{ 2076. Nei primi mesi del 2076 si registrarono i primi effetti imprevisti. Le cavie animali cominciarono a mostrare un tasso di crescita anomalo, accompagnato dall'aumento dell'attivita' cerebrale. }
-{235}{}{ Il governo USA prese nota di queste scoperte e, nell'interesse della sicurezza nazionale, pose una guarnigione a guardia del progetto, rinominato Progetto FEV (Virus per l'Evoluzione Forzata).}
-{236}{}{ 2077. Il FEV e' prossimo al completamento. I test sulle cavie hanno successo in quasi il 100% dei casi. I muscoli aumentano, per dimensioni e densita', di circa il 60%; l'aumento dell'intelligenza e' stimabile al 200%.}
-{237}{}{ Non si conoscono ancora gli effetti sugli esseri umani, sebbene siano teoricamente promettenti.}
-{238}{}{ L'esercito, per permettere altri test, costruisce una grande struttura nella base militare di Mariposa, nella California Centrale. In questo nuovo laboratorio, i test sul FEV continuano su volontari dell'esercito.}
+{231}{}{Power Armor - Caratteristiche: L'Armatura Motorizzata T-51b (Power Armor) nasce da un progetto basato sulle ultime ricerche riguardanti la difesa passiva in ambiti civili e militari. }
+{232}{}{FEV - Cronologia: 2073. Visto l'aumento significativo dell'uso di armi chimiche da parte della Cina, il Governo degli Stati Uniti ritenne necessario prendere provvedimenti. Il Progetto "Virione di Panimmunita'" (PVP) fu varato ufficialmente il 15 settembre 2073. }
+{233}{}{2075. Fu presto chiaro come il modo migliore per combattere le piu' recenti armi biologiche fosse quello di modificare il DNA sano per renderlo immune contro le infezioni virali standard.}
+{234}{}{2076. Nei primi mesi del 2076 si registrarono i primi effetti imprevisti. Le cavie animali cominciarono a mostrare un tasso di crescita anomalo, accompagnato dall'aumento dell'attivita' cerebrale. }
+{235}{}{Il governo USA prese nota di queste scoperte e, nell'interesse della sicurezza nazionale, pose una guarnigione a guardia del progetto, rinominato Progetto FEV (Virus per l'Evoluzione Forzata).}
+{236}{}{2077. Il FEV e' prossimo al completamento. I test sulle cavie hanno successo in quasi il 100% dei casi. I muscoli aumentano, per dimensioni e densita', di circa il 60%; l'aumento dell'intelligenza e' stimabile al 200%. }
+{237}{}{Non si conoscono ancora gli effetti sugli esseri umani, sebbene siano teoricamente promettenti. }
+{238}{}{L'esercito, per permettere altri test, costruisce una grande struttura nella base militare di Mariposa, nella California Centrale. In questo nuovo laboratorio, i test sul FEV continuano su volontari dell'esercito.}
 {239}{}{Comando Ricevuto. . . . . . . Comando Eseguito}
 {240}{}{Accesso negato}
 {241}{}{ Nel 2069, la West Tech diventa il piu' grande fornitore del governo degli Stati Uniti; il suo prodotto di punta e' l'Armatura Motorizzata Modello T-51b. }
-{242}{}{ Alla luce dei significativi progressi nella creazione di un Virione di Panimmunita' ottenuti nel 2076 dalla NBC, il Dipartimento della Difesa degli Stati Uniti, temendo lo spionaggio internazionale,}
+{242}{}{Alla luce dei significativi progressi nella creazione di un Virione di Panimmunita' ottenuti nel 2076 dalla NBC, il Dipartimento della Difesa degli Stati Uniti, temendo lo spionaggio internazionale,}
 {243}{}{ assegna al complesso una divisione armata per garantire e supervisionare la buona riuscita del progetto, rinominato Progetto FEV (Virus per l'Evoluzione Forzata).}
-{250}{}{ Il Generatore TX-28 a MicroFusione, montato sulla schiena, invia 60Kw al sistema idraulico HiFlo incluso nell'armatura.}
-{251}{}{ Costruita con i piu' moderni composti di polilaminato, la corazza della T-51b e' leggera e in grado di assorbire piu' di 2500 Joule di impatto cinetico.}
-{252}{}{ Il rivestimento esterno d'argento da 10 micron puo' riflettere laser e radiazioni senza danni per la corazza sottostante.}
+{250}{}{Il Generatore TX-28 a MicroFusione, montato sulla schiena, invia 60Kw al sistema idraulico HiFlo incluso nell'armatura. }
+{251}{}{Costruita con i piu' moderni composti di polilaminato, la corazza della T-51b e' leggera e in grado di assorbire piu' di 2500 Joule di impatto cinetico. }
+{252}{}{Il rivestimento esterno d'argento da 10 micron puo' riflettere laser e radiazioni senza danni per la corazza sottostante.}

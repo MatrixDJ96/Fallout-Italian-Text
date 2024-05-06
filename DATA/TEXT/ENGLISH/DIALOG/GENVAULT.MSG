@@ -34,7 +34,7 @@
 {133}{}{Anche la sezione idroponica e' stata chiusa. Cio' significa che presto finiremo anche il cibo.}
 {134}{}{Hmm. Mi sembri ancora un essere umano. La vita la' fuori non dev'essere poi cosi' dura.}
 {135}{}{Ciao }
-{136}{}{. }
+{136}{}{.}
 {137}{}{Spero che la tua missione proceda per il meglio.}
 {138}{}{Ci vediamo.}
 {139}{}{Hai parlato con il Supervisore, ultimamente?}

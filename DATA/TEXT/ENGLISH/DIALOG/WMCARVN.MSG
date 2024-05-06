@@ -9,7 +9,7 @@
 {108}{}{Partiamo il }
 {109}{}{Vuoto}
 {110}{}{}
-{111}{}{ del mese. Ti interessa?}
+{111}{}{del mese. Ti interessa?}
 {112}{}{Posso ancora darti un lavoro, sebbene... no, lascia stare. Ti interessa?}
 {113}{}{Certo. }
 {114}{}{No.}
@@ -19,7 +19,7 @@
 {118}{}{Oh, okay. Non c'e' problema. Se cambi idea, fammelo sapere.}
 {119}{}{Preferirei che decidessi alla svelta.}
 {120}{}{Beh, se decidi di lavorare per noi, fa' un salto qui. Si parte il primo, il 5 e cosi' via. A presto.}
-{121}{}{Mi dispiace, ma se non sei in grado di comunicare con il resto del team non possiamo assumerti. }
+{121}{}{Mi dispiace, ma se non sei in grado di comunicare con il resto del team non possiamo assumerti.}
 {122}{}{Torna pure quando ti sentirai meglio.}
 {123}{}{Uh, tutto a posto? Forse hai bisogno di mangiare qualcosa... ma non andare da Bob.}
 {124}{}{Ti ho detto di smammare!}
@@ -101,7 +101,7 @@
 {200}{}{15}
 {201}{}{20}
 {202}{}{25}
-{203}{}{ del mese. Torna per quel giorno, se vuoi il lavoro. }
+{203}{}{del mese. Torna per quel giorno, se vuoi il lavoro. }
 {204}{}{Gennaio }
 {205}{}{Febbraio }
 {206}{}{Marzo }

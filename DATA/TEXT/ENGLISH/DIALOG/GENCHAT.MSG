@@ -58,7 +58,7 @@
 {157}{}{La tua Intelligenza aumenta di }
 {158}{}{La tua Agilita' aumenta di }
 {159}{}{La tua Fortuna aumenta di }
-{160}{}{ punti.}
+{160}{}{punti.}
 {161}{}{La tua Forza aumenta di un punto.}
 {162}{}{La tua Percezione aumenta di un punto.}
 {163}{}{La tua Resistenza aumenta di un punto.}

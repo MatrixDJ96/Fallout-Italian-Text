@@ -9,12 +9,12 @@
 {108}{}{Sei ferito.}
 {109}{}{Sei stato avvelenato.}
 {110}{}{Hmm, intossicazione da radiazioni. Sfortunatamente, qui non possiamo curarti.}
-{111}{}{Devi fare una donazione di }
-{112}{}{$ prima che possiamo curarti. Sta bene?}
+{111}{}{Devi fare una donazione di}
+{112}{}{ $ prima che possiamo curarti. Sta bene?}
 {113}{}{Si'.}
 {114}{}{No.}
 {115}{}{Ma io non ho tutti quei soldi!}
-{116}{}{Vi andrebbero bene }
+{116}{}{Vi andrebbero bene}
 {117}{}{$?}
 {118}{}{I Figli della Cattedrale non contrattano. Accetti il nostro prezzo, o no?}
 {119}{}{Si', certo.}

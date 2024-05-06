@@ -54,7 +54,7 @@
 {153}{}{Hm, se ti piacciono i bastardi psicotici, senza scrupoli e freddi come il ghiaccio, beh... hai trovato la persona giusta.}
 {154}{}{Il mio socio. E' il tipo che fa la guardia a Jain.}
 {155}{}{Adesso no. Dipende da quanto sei pronto a rischiare. La mia vita e' stata piuttosto movimentata, ultimamente, quindi sono venuto qui per rimanere un po' tranquillo. Ma se ti piace l'azione, e' un'ottima occasione. Vedi solo di non fare casini o sei morto.}
-{156}{}{Ho sentito dire che i Mercanti d'Acqua hanno sempre la roba migliore. Ma la gente ne racconta di cose, sui Mercanti d'Acqua. Di certo non ne troverai tra questa gente, poco ma sicuro. }
+{156}{}{Ho sentito dire che i Mercanti d'Acqua hanno sempre la roba migliore. Ma la gente ne racconta di cose, sui Mercanti d'Acqua. Di certo non ne troverai tra questa gente, poco ma sicuro.}
 {157}{}{Ho osservato questi tizi per settimane. All'inizio credevo che fossero solamente dei pazzi, ma adesso non ne sono piu' tanto sicuro. Sono organizzati... e hanno un piano. Lo sento!}
 {158}{}{Decker potrebbe fare al caso tuo, ma, amico, e' un lavoro di merda e se fai qualche casino, considerati pure morto.}
 {159}{}{Un chip per la purificazione dell'acqua? Non usate i pozzi? Cristo Santo! Mi hanno parlato di un Vault vicino Shady Sands; forse la' potresti trovarne uno, ma pare che sia crollato tutto. Non credo di poterti aiutare.}

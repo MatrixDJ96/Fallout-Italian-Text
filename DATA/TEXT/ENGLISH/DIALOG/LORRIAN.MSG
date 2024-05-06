@@ -55,7 +55,7 @@
 {154}{}{Questa era una grande citta', chiamata Los Angeles. Ma le bombe hanno colpito davvero duro. Ora e' soltanto l'Angel's Boneyard, il Cimitero degli Angeli. Noi di Adytum cerchiamo di sopravvivere tra queste rovine.}
 {155}{}{Puoi dirmi qualcosa di piu' su Los Angeles?}
 {156}{}{Capisco. Grazie.}
-{157}{}{Ci vivevano un sacco di persone, che si occupavano di cose importanti come la creazione di giochi per computer. Da quel che ho sentito, i sopravvissuti si nascosero in un grande edificio chiamato Vault e ne uscirono vari anni piu' tardi. Alcuni di loro fondarono Adytum, ma gli }
+{157}{}{Ci vivevano un sacco di persone, che si occupavano di cose importanti come la creazione di giochi per computer. Da quel che ho sentito, i sopravvissuti si nascosero in un grande edificio chiamato Vault e ne uscirono vari anni piu' tardi. Alcuni di loro fondarono Adytum, ma gli}
 {158}{}{altri formarono le bande: i Blade e i Ripper. I Gun Runner non sono originari di queste parti.}
 {159}{}{Dove si trova questo Vault?}
 {160}{}{Parlami delle bande.}

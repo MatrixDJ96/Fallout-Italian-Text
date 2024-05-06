@@ -171,7 +171,7 @@
 {271}{}{Non e' un lavoro per sbandati. Dovrai farlo rapidamente e senza lasciare traccia. Il capo ti dara' i dettagli. Ti posso dire che potrai farci piu' soldi di quanti ne faresti in un mese di lavoro con le carovane. Sono certo che non ci deluderai.}
 {272}{}{Interessante. Fammi strada.}
 {273}{}{Hm, posso pensarci su? Ho un sacco di cose in ballo, al momento.}
-{274}{}{No, non credo che mi interessi.}
+{274}{}{ No, non credo che mi interessi.}
 {275}{}{Certo, ma fammi sapere appena puoi. Prima sara' fatto questo lavoro e meglio sara'.}
 {276}{}{Beh, fammi sapere se cambi idea. Mi dispiacerebbe se un simile talento andasse sprecato come guardia delle carovane.}
 {277}{}{Ottimo, credo che tutto andra' per il meglio. Tieni solo a mente che tutto quel che sentirai non dovra' mai uscire da qui. Okay, andiamo.}
@@ -204,7 +204,7 @@
 {304}{}{Avevi fretta di andartene? Non hai preso nemmeno i soldi che ti spettavano. Eccoli qua. Dato che non hai preso l'anticipo, ti do l'intera cifra che ti spetta per il tuo primo incarico. (Kane ti da' 3000 testoni)}
 {305}{}{Ehi, ottimo lavoro! Hai dimenticato di prendere l'anticipo, quindi adesso ti daro' l'intera cifra. Ti sei dimostrato molto utile. }
 {306}{}{ (Kane ti da' 5000 testoni)}
-{307}{}{ E questo e' tutto quel che avrai. E adesso vola, se non vuoi pentirtene.}
+{307}{}{E questo e' tutto quel che avrai. E adesso vola, se non vuoi pentirtene.}
 {308}{}{Ecco la prima parte della paga. (Kane ti da' 1000 testoni) Probabilmente lo saprai gia', comunque i Figli della Cattedrale si trovano a sud di qui e subito a nord dei Mercanti d'Acqua. Anche questa volta, nessun testimone "vivo".}
 {309}{}{Cazzo, sono davvero un mucchio di soldi. Decker non vedeva proprio l'ora di liberarsi di quella puttana... Ecco la tua paga. (Kane ti da' 4000 testoni) Ti sei dimostrato molto utile.}
 {310}{}{Cosa diavolo vuoi? Pensavo non volessi incontrare Decker.}
@@ -281,7 +281,7 @@
 {382}{}{Mi pare che l'argomento ti renda nervoso. Vuoi confidarti con me?}
 {383}{}{Beh, dovresti. Sono degli ottimi schiavi.}
 {384}{}{Mary non la pensa cosi'.}
-{385}{}{Davvero? E' strano... MOLTO strano...}
+{385}{}{ Davvero? E' strano... MOLTO strano...}
 {386}{}{COSA? TU... IO... NO! NON voglio parlarne. Chi diavolo ti credi di essere? Sparisci subito dalla mia vista.}
 {387}{}{HO DETTO che *non* voglio parlarne.}
 {388}{}{Ah, si'. Certo, amico. E' come dici tu.}
@@ -326,9 +326,9 @@
 {427}{}{Okay! Faro' quel dannato lavoro. Ma farai meglio ad avere i soldi pronti per quando avro' finito.}
 {428}{}{Grazie.}
 {429}{}{Oh, li avro'. Non temere.}
-{430}{}{Siamo ancora vivi, vedo! Beh, non credo che tu ti sia fatto molti amici, ultimamente. Spero che tu non ti faccia cogliere di sorpresa. }
-{431}{}{ (Kane appare piuttosto compiaciuto. Sul suo viso non puoi non notare un ghigno malefico.) }
-{432}{}{ BENE! Sono molto sorpreso di vederti vivo. Sei sopravvissuto... davvero incredibile. Penso proprio che ti lascero' vivere: te lo meriti. Adesso tornatene per la tua strada.}
+{430}{}{Siamo ancora vivi, vedo! Beh, non credo che tu ti sia fatto molti amici, ultimamente. Spero che tu non ti faccia cogliere di sorpresa.}
+{431}{}{(Kane appare piuttosto compiaciuto. Sul suo viso non puoi non notare un ghigno malefico.)}
+{432}{}{BENE! Sono molto sorpreso di vederti vivo. Sei sopravvissuto... davvero incredibile. Penso proprio che ti lascero' vivere: te lo meriti. Adesso tornatene per la tua strada.}
 {433}{}{Non pensarci nemmeno.}
 {434}{}{Io non sbaglio mai.}
 {435}{}{Ti ho risparmiato la vita. Dovresti essermi grato.}

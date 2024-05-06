@@ -160,10 +160,10 @@
 {259}{}{Certo. Beh, credo che dovrai trovarti qualcun altro per il tuo sporco lavoro.}
 {260}{}{Capisco. Mi impegnero' di piu' per trovare il chip.}
 {261}{Over_81a}{Ce l'hai fatta! E'... meraviglioso! Incredibile! Sono cosi' fiero di te, per quello che sei riuscito a fare e per quanto hai dovuto sopportare.}
-{262}{Over_81b}{Gli abitanti del Vault non saranno mai in grado di ringraziarti abbastanza per quello che hai fatto. Hai salvato le vite di tutti noi. Chissa', potresti persino aver salvato la razza umana... [Il Supervisore sospira.] Questo rende il resto ancora piu' difficile. }
-{263}{Over_81c}{Tutti vorranno parlare con te. Ogni giovane ti prendera' come modello. E vorra' emularti. E poi cosa accadra'? }
-{264}{Over_81d}{Vorranno andarsene. Che cosa accadrebbe al Vault, se dovesse perdere il meglio di una generazione? E se questo fosse l'unico posto sicuro al mondo? Ci hai appena riconsegnato tutte queste vite... non posso rischiare di perderle. }
-{265}{Over_81e}{Ho preso molte decisioni difficili da quando occupo questa posizione. Ma nessuna e' stata piu' difficile di questa. Ci hai salvati, ma finirai con l'ucciderci. Mi dispiace. Sei un eroe... e devi andartene. }
+{262}{Over_81b}{Gli abitanti del Vault non saranno mai in grado di ringraziarti abbastanza per quello che hai fatto. Hai salvato le vite di tutti noi. Chissa', potresti persino aver salvato la razza umana... [Il Supervisore sospira.] Questo rende il resto ancora piu' difficile.}
+{263}{Over_81c}{Tutti vorranno parlare con te. Ogni giovane ti prendera' come modello. E vorra' emularti. E poi cosa accadra'?}
+{264}{Over_81d}{Vorranno andarsene. Che cosa accadrebbe al Vault, se dovesse perdere il meglio di una generazione? E se questo fosse l'unico posto sicuro al mondo? Ci hai appena riconsegnato tutte queste vite... non posso rischiare di perderle.}
+{265}{Over_81e}{Ho preso molte decisioni difficili da quando occupo questa posizione. Ma nessuna e' stata piu' difficile di questa. Ci hai salvati, ma finirai con l'ucciderci. Mi dispiace. Sei un eroe... e devi andartene.}
 {980}{Over_100}{Non ne so nulla.}
 {1000}{}{Water}
 {1001}{}{Vault}

@@ -29,7 +29,7 @@
 {129}{}{Qual e' la diagnosi, doc?}
 {130}{}{Non sono una biblioteca! Vattene fuori se cerchi risposte! Sparisci!}
 {131}{}{Ma bene! E' sempre un "mettimi a posto, doc", "rattoppami, doc"! Coglione!}
-{132}{}{Ho sentito pessime cose sul tuo conto... }
+{132}{}{Ho sentito pessime cose sul tuo conto...}
 {133}{}{I nemici del Master farebbero di tutto pur di screditare i Fedeli.}
 {134}{}{Hai dimenticato il Giuramento d'Ippocrate, doc? Fa' il tuo lavoro.}
 {135}{}{Scordatelo. Non posso fidarmi di te.}

@@ -20,11 +20,11 @@
 {119}{}{Beh, di solito non mi piace spettegolare, ma qualcuno ha ucciso Jain, la Gran Sacerdotessa dei Figli della Cattedrale. A me non interessa, ma non so cos'abbia fatto per meritarsi una fine simile.}
 {121}{}{Beh, io non do ascolto ai pettegolezzi, ma un mio amico mercante ha visto un gruppo di mutanti nel deserto a nordovest, oltre la base della Confraternita d'Acciaio.}
 {122}{}{Sai, non mi piace farmi gli affari degli altri, ma i Figli della Cattedrale stanno chiedendo in giro informazioni su di te. Io starei in guardia. Sono dei tipi strani.}
-{123}{}{Beh, io non sono una pettegola, ma pare che la morte di Decker sia legata in qualche modo all'assassinio di Jain. }
-{124}{}{ C'e' dell'altro. Conosco qualcuno che conosce qualcuno che dice di aver visto tre enormi figuri incappucciati che entravano nel Falcone Maltese subito prima della strage. }
-{125}{}{ C'e' dell'altro. Qualcuno ha ucciso Jain, la Gran Sacerdotessa dei Figli della Cattedrale. A me non interessa, ma non so cos'abbia fatto per meritarsi una fine simile. }
-{126}{}{ C'e' dell'altro. Un mio amico mercante ha visto un gruppo di mutanti nel deserto a nordovest, oltre la base della Confraternita d'Acciaio. }
-{127}{}{ C'e' dell'altro. I Figli della Cattedrale stanno chiedendo in giro informazioni su di te. Io starei in guardia. Sono dei tipi strani. }
+{123}{}{Beh, io non sono una pettegola, ma pare che la morte di Decker sia legata in qualche modo all'assassinio di Jain.}
+{124}{}{C'e' dell'altro. Conosco qualcuno che conosce qualcuno che dice di aver visto tre enormi figuri incappucciati che entravano nel Falcone Maltese subito prima della strage.}
+{125}{}{C'e' dell'altro. Qualcuno ha ucciso Jain, la Gran Sacerdotessa dei Figli della Cattedrale. A me non interessa, ma non so cos'abbia fatto per meritarsi una fine simile.}
+{126}{}{C'e' dell'altro. Un mio amico mercante ha visto un gruppo di mutanti nel deserto a nordovest, oltre la base della Confraternita d'Acciaio.}
+{127}{}{C'e' dell'altro. I Figli della Cattedrale stanno chiedendo in giro informazioni su di te. Io starei in guardia. Sono dei tipi strani.}
 {128}{}{Altro?}
 {129}{}{Grazie, posso farti qualche altra domanda?}
 {130}{}{Okay, grazie.}
@@ -106,7 +106,7 @@
 {207}{}{Per come la vedo io, non credo. Penso che sia stato il Deathclaw, o forse la Confraternita d'Acciaio.}
 {208}{}{Perche' non credi che siano stati i Mercanti d'Acqua?}
 {209}{}{Cos'e' esattamente un Deathclaw?}
-{210}{}{Potresti parlarmi di nuovo del Deathclaw?}
+{210}{}{Potresti parlarmi di nuovo del Deathclaw? }
 {211}{}{Cos'e' la Confraternita?}
 {212}{}{Perche' pensi che sia stata la Confraternita d'Acciaio?}
 {213}{}{Grazie. Torniamo ai mercanti, adesso...}

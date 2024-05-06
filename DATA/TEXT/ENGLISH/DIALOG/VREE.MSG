@@ -14,7 +14,7 @@
 {113}{}{Uhh...}
 {114}{Vree03}{Io raccolgo la conoscenza dei nostri antenati per le generazioni future.}
 {115}{}{Interessante. Devi conoscere un mucchio di roba.}
-{116}{Vree03a}{Si'. Immagino si possa dire che io conosco della "roba". }
+{116}{Vree03a}{Si'. Immagino si possa dire che io conosco della "roba".}
 {117}{Vree17}{Come posso aiutarvi?}
 {118}{Vree17a}{Prego.}
 {119}{}{Ho bisogno di far riparare un water chip. Puoi aiutarmi?}
@@ -25,7 +25,7 @@
 {124}{Vree18}{Parlate con i Cavalieri. Chiedete loro di mostrarvi una delle ultime pistole laser che ho progettato.}
 {125}{}{Grazie!}
 {126}{}{Avrei un'altra domanda...}
-{127}{Vree19}{Non siete ancora in grado di usare con perizia la sacra Conoscenza. }
+{127}{Vree19}{Non siete ancora in grado di usare con perizia la sacra Conoscenza.}
 {128}{Vree21}{Usate il vostro Pip-Boy 2000 per leggere i dischi. Inseritene uno dentro il lettore. Se siete in possesso delle dovute conoscenze informatiche, riuscirete ad accedere alle informazioni.}
 {129}{}{Dove posso imparare ad usare i computer?}
 {130}{}{Grazie.}

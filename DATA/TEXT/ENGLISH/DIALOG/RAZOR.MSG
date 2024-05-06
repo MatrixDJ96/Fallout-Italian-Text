@@ -85,7 +85,7 @@
 {184}{}{Non credo che funzionerebbe, senza un arsenale decente. Quello che ci serve davvero sono un po' delle armi dei Gun Runner.}
 {185}{}{Beh, e dove si trovano questi Gun Runner? Perche' non avete ancora preso le armi da loro?}
 {186}{}{Oh, beh, io il mio consiglio ve l'ho dato. Addio.}
-{187}{}{C'e' un nido di Deathclaw tra noi e la loro base. Non siamo mai riusciti nemmeno a parlarci, con i Gun Runner...}
+{187}{}{C'e' un nido di Deathclaw tra noi e la loro base. Non siamo mai riusciti nemmeno a parlarci, con i Gun Runner... }
 {188}{}{Okay, dammi l'olodisco e io andro' a parlare con i Gun Runner, prima di andare da Zimmerman.}
 {189}{}{Spero che tu riesca a trovare il modo per aiutarci. A presto.}
 {190}{}{Cosa c'e' che non va?}

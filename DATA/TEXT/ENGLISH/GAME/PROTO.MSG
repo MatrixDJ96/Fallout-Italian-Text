@@ -93,9 +93,9 @@
 {519}{}{%s %s }
 {520}{}{Vedi: %s.}
 {521}{}{%s %s.}
-{522}{}{E': }
-{523}{}{E': }
-{524}{}{E': }
+{522}{}{E':}
+{523}{}{E':}
+{524}{}{E':}
 {525}{}{%s ha %d/%d PV.}
 {526}{}{Ha %d/%d munizioni %s.}
 {530}{}{e ha menomazioni agli arti.}
@@ -126,11 +126,11 @@
 {590}{}{Il timer sta gia' ticchettando!}
 {620}{}{Guadagni %d punti esperienza per aver ucciso: %s.}
 {621}{}{%s guadagni %d punti esperienza.}
-{622}{}{Per aver sconfitto i tuoi nemici,}
-{623}{}{Per aver massacrato i tuoi nemici,}
-{624}{}{Hai vinto il combattimento,}
-{625}{}{Per aver schiacciato i tuoi nemici,}
-{626}{}{Per aver distrutto i tuoi nemici senza farti un graffio,}
+{622}{}{Per aver sconfitto i tuoi nemici, }
+{623}{}{Per aver massacrato i tuoi nemici, }
+{624}{}{Hai vinto il combattimento, }
+{625}{}{Per aver schiacciato i tuoi nemici, }
+{626}{}{Per aver distrutto i tuoi nemici senza farti un graffio, }
 {650}{}{[Ok]}
 {651}{}{[Avanti]}
 {652}{}{Avanti}

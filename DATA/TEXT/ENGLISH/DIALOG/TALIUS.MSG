@@ -61,22 +61,22 @@
 {160}{}{Perche' sei andato a Necropolis?}
 {161}{}{Come si chiamava questo Vault?}
 {162}{}{Una bella storia. Ma adesso devo scappare.}
-{163}{}{Sfortunatamente no. Ho sentito che altri sono stati inviati a trovare una soluzione, dopo me. }
+{163}{}{Sfortunatamente no. Ho sentito che altri sono stati inviati a trovare una soluzione, dopo me.}
 {164}{}{Non ho saputo altro di loro.}
 {165}{}{Perche' sei andato a Necropolis?}
 {166}{}{Come si chiamava questo Vault?}
 {167}{}{Una bella storia. Ma adesso devo scappare.}
-{168}{}{Da altri viandanti seppi che Necropolis aveva trovato il modo per produrre il prezioso liquido senza troppi affanni. }
+{168}{}{Da altri viandanti seppi che Necropolis aveva trovato il modo per produrre il prezioso liquido senza troppi affanni.}
 {169}{}{Quindi mi recai laggiu' per scoprire di cosa si trattasse.}
 {170}{}{E cosa hai scoperto?}
 {171}{}{Li hai uccisi tutti?}
 {172}{}{Ti senti a casa, qui?}
-{173}{}{Ivi trovai un gran numero di cotali Mutanti. Furono loro a costringermi in cattivita' e a mutarmi nella mia foggia attuale. }
+{173}{}{Ivi trovai un gran numero di cotali Mutanti. Furono loro a costringermi in cattivita' e a mutarmi nella mia foggia attuale.}
 {174}{}{Ma sembra che abbiano commesso un errore, dato che ho seguito un'evoluzione differente.}
 {175}{}{Brutta storia. Ci si vede.}
 {176}{}{Staro' in guardia. Grazie per la dritta.}
 {177}{}{Chi li guida?}
-{178}{}{No. Riuscii ad uccidere solo alcuni. C'era pero' un altro mutante, un ghoul di nome Set, che mi forni' il suo aiuto. }
+{178}{}{No. Riuscii ad uccidere solo alcuni. C'era pero' un altro mutante, un ghoul di nome Set, che mi forni' il suo aiuto.}
 {179}{}{Prima che io lasciassi la citta', ne rimasero solo una mezza dozzina.}
 {180}{}{Ottimo. Beh, ci vediamo.}
 {181}{}{E quelli rimasti non rappresentano piu' un problema, dopo la mia visita. Ah, Set sta benissimo.}
@@ -101,7 +101,7 @@
 {200}{}{Allora potrebbe essere uno degli esploratori. Provero' ad investigare.}
 {201}{}{Io invece credo che sia tu. Muori!}
 {202}{}{Avrei preferito che il cielo ti dotasse d'intelletto. Poco male, mi liberero' di te in un attimo.}
-{203}{}{So soltanto che la Cattedrale e' in combutta con i Nightkin, i super mutanti. }
+{203}{}{So soltanto che la Cattedrale e' in combutta con i Nightkin, i super mutanti.}
 {204}{}{Furono loro a strapparmi alla mia forma originaria, a Necropolis.}
 {205}{}{Brutta storia. Ci si vede.}
 {206}{}{Perche' ti trovavi a Necropolis?}

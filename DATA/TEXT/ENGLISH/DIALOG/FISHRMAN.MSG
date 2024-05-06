@@ -19,11 +19,11 @@
 {118}{}{Ti sembro forse uno di quegli "spazzini" del deserto? Beh, forse lo sono, ma solo perche' passo un sacco di tempo nella Lande per cercare di insegnare al mio ragazzo come si pesca e come si diventa uomini.}
 {119}{}{Non faccio piu' ricerche nel deserto. Troppi radscorpioni. E' facile rimanere uccisi, con tutte quelle bestie che infestano le zone qua attorno.}
 {120}{}{Circa otto anni fa, ho venduto qualche dispositivo elettronico a Junktown. Non so a cosa servissero. Poteva anche esserci un water chip, tra quella roba, ma non ci giurerei.}
-{121}{}{ Ad ogni modo, ho bisogno di silenzio per pescare, quindi mi farebbe piacere se tu facessi meno rumore possibile e mi lasciassi tornare al mio lavoro prima che io e il mio ragazzo muoriamo di fame.}
+{121}{}{Ad ogni modo, ho bisogno di silenzio per pescare, quindi mi farebbe piacere se tu facessi meno rumore possibile e mi lasciassi tornare al mio lavoro prima che io e il mio ragazzo muoriamo di fame.}
 {122}{}{Un esercito mutante? Di certo non qui. Anche un esercito normale sarebbe gia' una brutta cosa, eh eh.}
 {123}{}{Il problema e' che al mondo si fa troppa politica. Al mio ragazzo continuo a dire che i politici non vedono l'ora di far esplodere il mondo un'altra volta. E' per questo che vivo ai margini della terraferma: per evitare i politici! E' l'unico modo per sopravvivere.}
-{124}{}{Beh, questa e' un'informazione piuttosto personale. Ho ucciso persone per molto meno; prova a chiedere al ragazzo. Ma tu hai la faccia onesta, per cui questa volta chiudero' un occhio. }
-{125}{}{Beh, pesco qui da cinque anni, e ogni anno e' sempre peggio. Credo sia colpa di Skunk, il pescegatto gigante con tre occhi, che spaventa i pesci e non li fa avvicinare al mio amo. }
+{124}{}{Beh, questa e' un'informazione piuttosto personale. Ho ucciso persone per molto meno; prova a chiedere al ragazzo. Ma tu hai la faccia onesta, per cui questa volta chiudero' un occhio.}
+{125}{}{Beh, pesco qui da cinque anni, e ogni anno e' sempre peggio. Credo sia colpa di Skunk, il pescegatto gigante con tre occhi, che spaventa i pesci e non li fa avvicinare al mio amo.}
 {126}{}{Ma lo prendero', quel pesce. Aspetta e vedrai. E' diventata una questione personale, tra noi due, e solo uno di noi sopravvivera'. Puoi contarci. E quando dico cosi', sono piu' serio di uno di quei tizi della Confraternita d'Acciaio.}
 {127}{}{Ora probabilmente mi ucciderai, ma se mi lasciassi comandare da uno come te, darei un cattivo esempio al mio ragazzo. Capisci il mio dilemma? Perche' non te ne vai e rendi la cosa piu' facile ad entrambi?}
 {128}{}{No, non me ne vado. E tu non andrai piu' da nessuna parte, se non fai quello che ti dico.}
@@ -41,7 +41,7 @@
 {140}{}{Beh, qua fuori la regola e' "uccidi o rimani ucciso" - e' la Legge delle Lande. Ma ti diro' una cosa. Continua a uccidere i mostri e ti daro' qualche provvista.}
 {141}{}{Ah, certo. Ma cosa diavolo vuol dire "runk"? Qualunque cosa sia, spero che sia amichevole.}
 {142}{}{Adesso mi hai proprio offeso. Io faccio di tutto per essere amichevole e tu mi accusi di essere noioso! Ma bene! Non me la prendo facilmente, ma tu mi hai appena fatto salire una bile tale che ho una gran voglia di nuclearizzare qualcuno.}
-{143}{}{ Ad ogni modo: perche' adesso non te ne vai? Smamma!}
+{143}{}{Ad ogni modo: perche' adesso non te ne vai? Smamma!}
 {144}{}{Ti ringrazio calorosamente.}
 {145}{}{Di che cosa vuoi parlare?}
 {146}{}{Sto cercando un water chip.}

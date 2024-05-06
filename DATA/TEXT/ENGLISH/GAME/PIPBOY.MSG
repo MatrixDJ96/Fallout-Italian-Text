@@ -125,9 +125,9 @@
 {810}{}{Cattedrale}
 {1000}{}{* Data - 21 Marzo 2075}
 {1001}{}{Il Magg. Barnett ha ordinato esperimenti sul ceppo}
-{1002}{}{10-011 del virione panimmune, che e' stato nominato}
+{1002}{}{10-011 del virione panimmune, che e' stato nominato }
 {1003}{}{FEV, o Virus per l'Evoluzione Forzata. Gli studi}
-{1004}{}{si concentreranno sugli effetti collaterali della}
+{1004}{}{si concentreranno sugli effetti collaterali della }
 {1005}{}{quadrupla elica piuttosto che sull'effetto principale}
 {1006}{}{di stabilizzatore della replicazione. Si pensa che }
 {1007}{}{tale struttura sia l'evoluzione logica per il DNA dei}
@@ -141,7 +141,7 @@
 {1015}{}{**END-PAR**}
 {1016}{}{* Data - 9 Maggio 2075}
 {1017}{}{Abbiamo infettato varie specie di platelminti }
-{1018}{}{con il FEV. In poche ore le loro dimensioni sono}
+{1018}{}{con il FEV. In poche ore le loro dimensioni sono }
 {1019}{}{aumentate del 28%, e 39 campioni hanno resistito}
 {1020}{}{al contagio. Ogni campione e' stato osservato }
 {1021}{}{per diverse generazioni, e la nuova struttura }
@@ -153,8 +153,8 @@
 {1027}{}{**END-PAR**}
 {1028}{}{* Data - 30 Giugno 2075}
 {1029}{}{Abbiamo infettato con il FEV diversi gruppi di topi}
-{1030}{}{bianchi. Anche qui, le dimensioni sono aumentate in}
-{1031}{}{poche ore, per stabilizzarsi su un +31% dopo 9 gg.}
+{1030}{}{bianchi. Anche qui, le dimensioni sono aumentate in }
+{1031}{}{poche ore, per stabilizzarsi su un +31% dopo 9 gg. }
 {1032}{}{Le dissezioni hanno rivelato che ad aumentare }
 {1033}{}{maggiormente sono stati i muscoli striati e alcuni }
 {1034}{}{organi interni, quali il fegato, il cuore e i reni. }
@@ -171,29 +171,29 @@
 {1045}{}{l'infezione. Un aumento dell'attivita' cerebrale }
 {1046}{}{si e' verificata dopo 3,2 sec. (in media) dalla}
 {1047}{}{inoculazione. Ancora una volta si nota l'aumento }
-{1048}{}{di dimensioni. Tuttavia, si osserva anche una }
+{1048}{}{di dimensioni. Tuttavia, si osserva anche una}
 {1049}{}{aumentata aggressivita'. La lettura delle onde }
 {1050}{}{cerebrali indica propensione al sacrificio, mentre}
-{1051}{}{il sistema limbico e la corteccia frontale mostrano}
+{1051}{}{il sistema limbico e la corteccia frontale mostrano }
 {1052}{}{un notevole aumento delle connessioni dendritiche.}
 {1053}{}{**END-PAR**}
 {1054}{}{* Data - 12 Gennaio 2076}
-{1055}{}{Con il ceppo 11-011 l'efficienza del ciclo mitotico}
-{1056}{}{e' aumentata del 43%. Abbiamo infettato 53 procioni}
+{1055}{}{Con il ceppo 11-011 l'efficienza del ciclo mitotico }
+{1056}{}{e' aumentata del 43%. Abbiamo infettato 53 procioni }
 {1057}{}{per ottenere dati sul nuovo ceppo. In aggiunta al}
 {1058}{}{previsto aumento di dimensioni, i test comportamen- }
 {1059}{}{tali hanno confermato un aumento d'intelligenza e di }
-{1060}{}{destrezza manuale pari a 19 pt. (scala Schuler-Kapp).}
-{1061}{}{Sfortunatamente, diversi soggetti sono fuggiti }
-{1062}{}{ed e' stato necessario ritrovarli e abbatterli.}
+{1060}{}{destrezza manuale pari a 19 pt. (scala Schuler-Kapp). }
+{1061}{}{Sfortunatamente, diversi soggetti sono fuggiti}
+{1062}{}{ed e' stato necessario ritrovarli e abbatterli. }
 {1063}{}{Anche gli altri sono stati soppressi per ordine del}
 {1064}{}{Magg. Barnett. Ma due coppie mancano all'appello.}
 {1065}{}{**END-PAR**}
 {1066}{}{* Data - 13 Maggio, 2076}
-{1067}{}{Abbiamo inserito nel FEV nuove sequenze geniche, }
+{1067}{}{Abbiamo inserito nel FEV nuove sequenze geniche,}
 {1068}{}{forniteci dal team del Maggiore Barnett. Con il }
-{1069}{}{ceppo 11-101a abbiamo infettato 23 cani (di razza}
-{1070}{}{e meticci) e tutti hanno mostrato una crescita}
+{1069}{}{ceppo 11-101a abbiamo infettato 23 cani (di razza }
+{1070}{}{e meticci) e tutti hanno mostrato una crescita }
 {1071}{}{subitanea. La stazza maggiore e' accompagnata da }
 {1072}{}{un'aumentata aggressivita', mentre non si nota un }
 {1073}{}{aumento dell'intelligenza. A breve procederemo con}
@@ -204,17 +204,17 @@
 {1078}{}{Il crossover e' stato completato e il ceppo 11-111}
 {1079}{}{e' stato iniettato a 15 scimpanze'. I livelli di}
 {1080}{}{crescita e resistenza superano le previsioni. Vari}
-{1081}{}{tentativi di indurre la formazione di tumori nelle}
+{1081}{}{tentativi di indurre la formazione di tumori nelle }
 {1082}{}{cavie non hanno dato risultati. L'aumentata}
-{1083}{}{aggressivita' ha richiesto l'isolamento dei soggetti.}
+{1083}{}{aggressivita' ha richiesto l'isolamento dei soggetti. }
 {1084}{}{Due cavie hanno subito attacchi epilettici e sono }
 {1085}{}{morte. Gli altri soggetti sono stati soppressi.}
 {1086}{}{**END-PAR**}
 {1087}{}{* Data - 7 Gennaio, 2077}
-{1088}{}{Il Magg. Barnett ha ordinato che le ricerche sul}
-{1089}{}{FEV siano trasferite alla base di Mariposa.}
+{1088}{}{Il Magg. Barnett ha ordinato che le ricerche sul }
+{1089}{}{FEV siano trasferite alla base di Mariposa. }
 {1090}{}{Si prevede di continuare gli esperimenti su }
-{1091}{}{soggetti volontari. Io sono contrario, e vorrei}
+{1091}{}{soggetti volontari. Io sono contrario, e vorrei }
 {1092}{}{qui ribadire che io e il mio staff prendiamo}
 {1093}{}{le distanze da una simile decisione.}
 {1094}{}{**END-DISK**}
@@ -230,14 +230,14 @@
 {3007}{}{livelli di radiazioni hanno cominciato a volare non}
 {3008}{}{appena ci siamo avvicinati al cratere. Le nostre}
 {3009}{}{armature e i nostri farmaci ci avrebbero consentito}
-{3010}{}{almeno una giornata di esplorazioni. Il rischio era}
-{3011}{}{calcolato, ma alto. Tuttavia, eravamo pronti a tutto}
+{3010}{}{almeno una giornata di esplorazioni. Il rischio era }
+{3011}{}{calcolato, ma alto. Tuttavia, eravamo pronti a tutto }
 {3012}{}{pur di recuperare la tecnologia che ci attendeva.}
 {3013}{}{**END-PAR**}
-{3014}{}{Raggiungemmo il primo livello e tutto sembrava}
+{3014}{}{Raggiungemmo il primo livello e tutto sembrava }
 {3015}{}{andare secondo i piani. L'energia era disattivata,}
-{3016}{}{quindi i sistemi di sicurezza non ci avrebbero}
-{3017}{}{dato problemi. Almeno cosi' pensavamo. Non c'era}
+{3016}{}{quindi i sistemi di sicurezza non ci avrebbero }
+{3017}{}{dato problemi. Almeno cosi' pensavamo. Non c'era }
 {3018}{}{granche' in quel livello, cosi' procedemmo.}
 {3019}{}{**END-PAR**}
 {3020}{}{Il secondo livello era molto simile al primo.}
@@ -247,23 +247,23 @@
 {3024}{}{due livelli erano saltati, ma non quelli del terzo.}
 {3025}{}{Jensen fu ridotto in pezzi prima ancora di capire }
 {3026}{}{cosa stava succedendo. Non avevamo mai visto armi in}
-{3027}{}{grado di perforare Power Armor a quel modo. I miei}
+{3027}{}{grado di perforare Power Armor a quel modo. I miei }
 {3028}{}{compagni furono sterminati e i pochi superstiti}
 {3029}{}{impazzirono. Solamente io, Soto e Camarillo siamo}
 {3030}{}{riusciti a tornare al primo livello.}
 {3031}{}{**END-PAR**}
-{3032}{}{Il fatto che io riesca a sentire la puzza di carne}
+{3032}{}{ Il fatto che io riesca a sentire la puzza di carne }
 {3033}{}{bruciata proveniente dal braccio mutilato di Soto }
-{3034}{}{significa che la mia armatura non e' piu' a tenuta}
+{3034}{}{significa che la mia armatura non e' piu' a tenuta }
 {3035}{}{stagna, e quindi sto respirando radiazioni.}
-{3036}{}{Inoltre sto perdendo liquido idraulico. Prima che }
+{3036}{}{Inoltre sto perdendo liquido idraulico. Prima che}
 {3037}{}{l'armatura si spenga, dobbiamo allontanarci da qui. }
 {3038}{}{**END-PAR**}
 {3039}{}{Camarillo sembrava a posto, fisicamente, ma e'}
 {3040}{}{sparito un'ora fa, farneticando qualcosa sulla }
 {3041}{}{Gehenna. Quel bastardo aveva tutti gli anti-rad. }
 {3042}{}{**END-PAR**}
-{3043}{}{E cosi' siamo rimasti io e Soto. Non possiamo}
+{3043}{}{E cosi' siamo rimasti io e Soto. Non possiamo }
 {3044}{}{allontanarci abbastanza da qui, senza gli anti-rad, }
 {3045}{}{quindi devo riuscire a trovare Camarillo prima}
 {3046}{}{che sia troppo tardi.}
@@ -273,38 +273,38 @@
 {4000}{}{Progetto - Prototipo di Virione di Panimmunita'}
 {4001}{}{**END-PAR**}
 {4002}{}{Nella speranza di contrastare gli agenti virali }
-{4003}{}{e batteriologici usati dal governo cinese, }
-{4004}{}{abbiamo creato un frammento virale composto da}
-{4005}{}{acido ribonucleico (RNA) incluso in una capsula}
+{4003}{}{e batteriologici usati dal governo cinese,}
+{4004}{}{abbiamo creato un frammento virale composto da }
+{4005}{}{acido ribonucleico (RNA) incluso in una capsula }
 {4006}{}{proteico-lipidica. Tale virione e' dotato di una }
 {4007}{}{speciale sequenza di aminoacidi irradiati (AAI)}
 {4008}{}{in grado di legarsi a siti di legame non specifici}
 {4009}{}{presenti nell'acido desossiribonucleico (DNA) e di }
 {4010}{}{provocare una mitosi non proliferativa. Al termine}
-{4011}{}{del processo mitotico, la cellula ospite contiene}
+{4011}{}{del processo mitotico, la cellula ospite contiene }
 {4012}{}{un DNA con struttura ad elica quadrupla.}
 {4013}{}{**END-PAR**}
-{4014}{}{I primi test sono promettenti. Il virione penetra}
+{4014}{}{I primi test sono promettenti. Il virione penetra }
 {4015}{}{facilmente la membrana cellulare e nucleare della}
-{4016}{}{cellula ospite, legandosi al DNA. La mitosi inizia}
+{4016}{}{cellula ospite, legandosi al DNA. La mitosi inizia }
 {4017}{}{quasi immediatamente. La citochinesi e' inibita }
 {4018}{}{dal controllo della disposizione del cinetocore}
-{4019}{}{durante l'anafase. L'intero processo mitotico dura}
+{4019}{}{durante l'anafase. L'intero processo mitotico dura }
 {4020}{}{circa 2 ore, sebbene l'espressione fenotipica della}
-{4021}{}{nuova struttura possa richiedere giorni o settimane}
+{4021}{}{nuova struttura possa richiedere giorni o settimane }
 {4022}{}{per manifestarsi.}
 {4023}{}{**END-PAR**}
-{4024}{}{Oltre ad un'efficace immunita' contro gli agenti}
+{4024}{}{Oltre ad un'efficace immunita' contro gli agenti }
 {4025}{}{batterici e virali, l'elica quadrupla e' quasi }
-{4026}{}{totalmente immune agli errori di appaiamento di}
+{4026}{}{totalmente immune agli errori di appaiamento di }
 {4027}{}{basi che si verificano durante la replicazione.}
-{4028}{}{Cellule esposte alle radiazioni non mostrano}
+{4028}{}{Cellule esposte alle radiazioni non mostrano }
 {4029}{}{mutazioni nella sequenza di basi e i meccanismi}
 {4030}{}{ribosomiali di sintesi proteica sono normali.}
 {4031}{}{**END-PAR**}
 {4032}{}{Oltre l'80% dei campioni di tessuto contengono DNA}
-{4033}{}{ad elica quadrupla. Le cellule che meglio accolgono}
-{4034}{}{il virione sono quelle dei tessuti muscolari e ossei,}
+{4033}{}{ad elica quadrupla. Le cellule che meglio accolgono }
+{4034}{}{il virione sono quelle dei tessuti muscolari e ossei, }
 {4035}{}{e le cellule secretorie. I tessuti sensoriali sono i }
 {4036}{}{meno interessati. Incredibilmente, anche le cellule}
 {4037}{}{nervose non proliferanti e quelle non somatiche sono }
@@ -329,9 +329,9 @@
 {6005}{}{essere umano. Tuttavia, la struttura della creatura }
 {6006}{}{e' adesso molto diversa da quella di un umano normale.}
 {6007}{}{**END-PAR**}
-{6008}{}{Una prima serie di esami sulla creatura ha evidenziato}
+{6008}{}{Una prima serie di esami sulla creatura ha evidenziato }
 {6009}{}{una struttura cellulare simile a quella degli umani.}
-{6010}{}{Prima che inizi a decomporsi, ho deciso di registrare}
+{6010}{}{Prima che inizi a decomporsi, ho deciso di registrare }
 {6011}{}{le caratteristiche del soggetto.}
 {6012}{}{**END-PAR**}
 {6013}{}{* Caratteristiche del Soggetto A:}
@@ -341,30 +341,30 @@
 {6017}{}{Sesso: Indeterminato}
 {6018}{}{Colore della pelle: Predominanza di grigio con riflessi }
 {6019}{}{verdi visibili con luce naturale. Non e' chiaro se sia}
-{6020}{}{dovuto a decomposizione o a esposizione solare. Nota:}
+{6020}{}{dovuto a decomposizione o a esposizione solare. Nota: }
 {6021}{}{la pelle risulta dura e resistente al bisturi.}
 {6022}{}{**END-PAR**}
 {6023}{}{Peso - Percentuali:}
-{6024}{}{  Muscoli:  77,41% }
-{6025}{}{  Ossa:     10,23%}
-{6026}{}{  Grasso:   3,02%}
-{6027}{}{  Epitelio:  9,34%}
+{6024}{}{    Muscoli:  77,41% }
+{6025}{}{    Ossa:     10,23%}
+{6026}{}{    Grasso:   3,02%}
+{6027}{}{    Epitelio:  9,34%}
 {6028}{}{**END-PAR**}
 {6029}{}{Struttura Cellulare:}
-{6030}{}{ La divisione cellulare avviene a ritmi accelerati.}
-{6031}{}{ La mitosi si verifica con un ritmo del 15% superiore }
-{6032}{}{ rispetto a quello degli umani normali.}
-{6033}{}{ La struttura cellulare appare molto simile a quella}
-{6034}{}{ umana.}
-{6035}{}{ La struttura genetica mostra forti correlazioni tra}
-{6036}{}{ il soggetto e l'Homo Sapiens. Potrebbe trattarsi di}
-{6037}{}{ una mutazione causata da agenti biochimici o nucleari}
-{6038}{}{ rimasti nell'atmosfera dopo la guerra.}
-{6039}{}{ Le sequenze di DNA sono molto conservate. Tutti i}
-{6040}{}{ geni recessivi responsabili di malattia sono stati}
-{6041}{}{ eradicati dal genoma. Anche le sequenze di RNA }
-{6042}{}{ mostrano chiari segni di manipolazione e consentono}
-{6043}{}{ una maggiore espressione genetica.}
+{6030}{}{    La divisione cellulare avviene a ritmi accelerati.}
+{6031}{}{    La mitosi si verifica con un ritmo del 15% superiore }
+{6032}{}{    rispetto a quello degli umani normali.}
+{6033}{}{    La struttura cellulare appare molto simile a quella}
+{6034}{}{    umana.}
+{6035}{}{    La struttura genetica mostra forti correlazioni tra}
+{6036}{}{    il soggetto e l'Homo Sapiens. Potrebbe trattarsi di}
+{6037}{}{    una mutazione causata da agenti biochimici o nucleari}
+{6038}{}{    rimasti nell'atmosfera dopo la guerra.}
+{6039}{}{    Le sequenze di DNA sono molto conservate. Tutti i}
+{6040}{}{    geni recessivi responsabili di malattia sono stati}
+{6041}{}{    eradicati dal genoma. Anche le sequenze di RNA}
+{6042}{}{    mostrano chiari segni di manipolazione e consentono}
+{6043}{}{    una maggiore espressione genetica.}
 {6044}{}{**END-PAR**}
 {6045}{}{* Ipotesi Iniziale}
 {6046}{}{**END-PAR**}
@@ -380,22 +380,22 @@
 {6056}{}{* Risultati dei test condotti sul Soggetto A:}
 {6057}{}{**END-PAR**}
 {6058}{}{Esame Obiettivo:}
-{6059}{}{ Bruciature di polvere nera nella zona occipitale, }
-{6060}{}{ forse provocate da un proiettile a bruciapelo.}
-{6061}{}{ Le lacerazioni da 1,2 cm sopra il polpaccio destro }
-{6062}{}{ appaiono causate da morsi d'animale. Condurremo}
-{6063}{}{ degli esami per confermare la presenza di rabbia.}
-{6064}{}{ Pelle secca e in rapido decadimento.}
+{6059}{}{    Bruciature di polvere nera nella zona occipitale, }
+{6060}{}{    forse provocate da un proiettile a bruciapelo.}
+{6061}{}{    Le lacerazioni da 1,2 cm sopra il polpaccio destro }
+{6062}{}{    appaiono causate da morsi d'animale. Condurremo}
+{6063}{}{    degli esami per confermare la presenza di rabbia.}
+{6064}{}{    Pelle secca e in rapido decadimento.}
 {6065}{}{**END-PAR**}
 {6066}{}{Risultati degli Esami:}
-{6067}{}{  Conta Radioattiva:            12 rad.}
-{6068}{}{  Test per la Rabbia:           Negativo.}
-{6069}{}{  Gas Cloridrico:                 Negativo.}
-{6070}{}{  Livello di Cloro:                 .07%}
-{6071}{}{  Percentuale di Zolfo:           .02%}
-{6072}{}{  Virus a Scambio di Fase:        Negativo}
-{6073}{}{  Virus Gamma Ciclotronico:       Negativo}
-{6074}{}{  Virus Sconosciuto (mutante?):   Esposizione Massiva}
+{6067}{}{    Conta Radioattiva:            12 rad.}
+{6068}{}{    Test per la Rabbia:           Negativo.}
+{6069}{}{    Gas Cloridrico:                 Negativo.}
+{6070}{}{    Livello di Cloro:                 .07%}
+{6071}{}{    Percentuale di Zolfo:           .02%}
+{6072}{}{    Virus a Scambio di Fase:        Negativo}
+{6073}{}{    Virus Gamma Ciclotronico:       Negativo}
+{6074}{}{    Virus Sconosciuto (mutante?):   Esposizione Massiva}
 {6075}{}{**END-PAR**}
 {6076}{}{* Ipotesi}
 {6077}{}{**END-PAR**}
@@ -408,12 +408,12 @@
 {6084}{}{eseguendo dei test su un virus simile, ma tutti i dati}
 {6085}{}{della ricerca sono andati distrutti.}
 {6086}{}{**END-PAR**}
-{6087}{}{Ulteriori ricerche sul virus hanno rivelato particolari}
-{6088}{}{interessanti. Gran parte delle mutazioni subite dal}
+{6087}{}{Ulteriori ricerche sul virus hanno rivelato particolari }
+{6088}{}{interessanti. Gran parte delle mutazioni subite dal }
 {6089}{}{soggetto sono dovute al virus. Questo giustificherebbe }
-{6090}{}{le maggiori dimensioni di muscoli e ossa. Inoltre, i}
+{6090}{}{le maggiori dimensioni di muscoli e ossa. Inoltre, i }
 {6091}{}{geni recessivi che normalmente sono presenti negli }
-{6092}{}{umani sono stati ricombinati in modo tale da ottenere}
+{6092}{}{umani sono stati ricombinati in modo tale da ottenere }
 {6093}{}{la migliore combinazione possibile. Sebbene il}
 {6094}{}{meccanismo non sia chiaro, sono certi i suoi effetti}
 {6095}{}{collaterali. Quello principale e' sicuramente la}
@@ -425,7 +425,7 @@
 {6101}{}{**END-PAR**}
 {6102}{}{* Conclusioni}
 {6103}{}{**END-PAR**}
-{6104}{}{Essendo incapaci di riprodursi, potrei concludere che}
+{6104}{}{Essendo incapaci di riprodursi, potrei concludere che }
 {6105}{}{questi mutanti dovrebbero estinguersi naturalmente}
 {6106}{}{nel giro di qualche anno. Tuttavia, la concentrazione}
 {6107}{}{virale del soggetto mi fa pensare che qualcuno li}
@@ -438,7 +438,7 @@
 {7003}{}{Quando si scateno' la rivoluzione, io rispettai le sue}
 {7004}{}{convinzioni. Rimase indietro per aiutare i feriti, anche}
 {7005}{}{quelli della fazione ostile. Mise il destino mio e di}
-{7006}{}{mia madre nelle mani del suo migliore amico, e ci }
+{7006}{}{mia madre nelle mani del suo migliore amico, e ci}
 {7007}{}{ordino' di andare nel deserto con gli altri ribelli.}
 {7008}{}{**END-PAR**}
 {7009}{}{E cosi' noi, i pochi che eravamo, marciammo nelle Lande.}
@@ -456,7 +456,7 @@
 {7021}{}{responsabili delle nostre azioni e sorveglieremo le}
 {7022}{}{azioni degli altri.}
 {7023}{}{**END-PAR**}
-{7024}{}{Ti garantisco questo, Maxson, figlio mio. Il nostro }
+{7024}{}{Ti garantisco questo, Maxson, figlio mio. Il nostro}
 {7025}{}{nome rispecchia la realta'. Noi siamo una Confraternita.}
 {7026}{}{A differenza di mio padre, staremo fianco a fianco con}
 {7027}{}{chi condivide il nostro Credo. Noi siamo l'Acciaio, duri}
@@ -477,7 +477,7 @@
 {8008}{}{troppo contaminati. Dite al Tenente che li stiamo }
 {8009}{}{inviando li', perche' potrebbero sopravvivere all'}
 {8010}{}{immersione. Noi aspetteremo qualche altro giorno qui}
-{8011}{}{per intercettare qualche altra carovana. Passo.}
+{8011}{}{ per intercettare qualche altra carovana. Passo.}
 {8012}{}{**END-PAR**}
 {8013}{}{Messaggio ricevuto: Ricevuto. Avete subito perdite }
 {8014}{}{durante l'operazione? Passo.}
@@ -510,7 +510,7 @@
 {9013}{}{**END-PAR**}
 {9014}{}{* 12 Ott, 2077}
 {9015}{}{Ogni volta che riceviamo un rapporto dai superiori, le}
-{9016}{}{cose qui peggiorano. La guerra sta prendendo una pessima }
+{9016}{}{cose qui peggiorano. La guerra sta prendendo una pessima}
 {9017}{}{piega e questo posto e' a un passo dall'anarchia, con}
 {9018}{}{tutto il caos che ne consegue. Oggi ho impedito a due}
 {9019}{}{soldati di giustiziare uno scienziato. Ho ordinato di}
@@ -529,7 +529,7 @@
 {9032}{}{* 15 Ott, 2077}
 {9033}{}{Ho nuovamente provato a parlare con il Colonnello, }
 {9034}{}{ma sembra aver perso completamente il contatto con la}
-{9035}{}{realta'. Ho fatto irruzione nel suo ufficio giusto in}
+{9035}{}{realta'. Ho fatto irruzione nel suo ufficio giusto in }
 {9036}{}{tempo per vederlo mentre si faceva saltare la testa. }
 {9037}{}{Un attimo prima di sparare ha detto "Mi dispiace".}
 {9038}{}{**END-PAR**}
@@ -537,18 +537,18 @@
 {9040}{}{Uccidendo il testa d'uovo, pare che io abbia rafforzato }
 {9041}{}{la mia posizione di leader. Adesso gli uomini mi seguono }
 {9042}{}{senza obiezioni. Gli interrogatori finiscono sempre per}
-{9043}{}{diventare esecuzioni. Shellman ha resistito a lungo, ma}
+{9043}{}{diventare esecuzioni. Shellman ha resistito a lungo, ma }
 {9044}{}{il risultato e' stato lo stesso. I suoi discorsi erano}
 {9045}{}{troppo dettagliati per essere completamente inventati.}
 {9046}{}{Inizio a sentirmi male riguardo a come la cosa potrebbe}
-{9047}{}{finire. Ormai non mento nemmeno piu' a me stesso sulle}
+{9047}{}{finire. Ormai non mento nemmeno piu' a me stesso sulle }
 {9048}{}{ragioni che ci portano a uccidere gli scienziati.}
 {9049}{}{**END-PAR**}
 {9050}{}{* 20 Ott, 2077}
 {9051}{}{Ho finalmente risposto ai messaggi via radio del comando}
 {9052}{}{centrale. Non so perche' non abbiano inviato qualcuno}
 {9053}{}{per sapere per quale motivo non rispondevamo alle loro}
-{9054}{}{comunicazioni. La cosa non ha senso. Comunque, adesso }
+{9054}{}{comunicazioni. La cosa non ha senso. Comunque, adesso}
 {9055}{}{stanno arrivando. Ho comunicato la nostra secessione}
 {9056}{}{dall'Unione. Jefferson Davis, mangiati pure il fegato.}
 {9057}{}{**END-PAR**}
@@ -563,8 +563,8 @@
 {9066}{}{per davvero. Che vadano all'inferno! Hanno lanciato le }
 {9067}{}{bombe. Stavamo proprio per strappare la verita' a }
 {9068}{}{von Felden quando abbiamo perso il contatto. Ho la }
-{9069}{}{sensazione che il laboratorio sia stato colpito duro.}
-{9070}{}{Diciamo che me lo sento. Sembra incredibile che non}
+{9069}{}{sensazione che il laboratorio sia stato colpito duro. }
+{9070}{}{Diciamo che me lo sento. Sembra incredibile che non }
 {9071}{}{abbiano lanciato su di noi. Ma sicuramente la Cina }
 {9072}{}{mettera' presto a posto le cose. Per fortuna l'altro }
 {9073}{}{giorno abbiamo trasferito le nostre famiglie dagli }
@@ -576,7 +576,7 @@
 {9079}{}{uscire in superficie e raccogliere dati precisi sulle }
 {9080}{}{condizioni dell'atmosfera. Pare che le radiazioni non }
 {9081}{}{si siano spinte sin qui. Dal momento che indossava una }
-{9082}{}{Power Armor, il sergente non rischiava di subire una}
+{9082}{}{Power Armor, il sergente non rischiava di subire una }
 {9083}{}{contaminazione. Se fosse successo, l'avremmo esiliato. }
 {9084}{}{Non abbiamo gli strumenti per la decontaminazione.}
 {9085}{}{**END-PAR**}
@@ -598,8 +598,8 @@
 {10000}{}{L'Esodo dalla base maledetta fu un viaggio assai duro}
 {10001}{}{per gli uomini e le lor famiglie. Il periglio non }
 {10002}{}{veniva da rifiuti radioattivi, ma dai frequenti }
-{10003}{}{assalti dei rifiuti dell'umanita'. Bande di folli}
-{10004}{}{briganti tentarono diversi attacchi su quel gruppo}
+{10003}{}{assalti dei rifiuti dell'umanita'. Bande di folli }
+{10004}{}{briganti tentarono diversi attacchi su quel gruppo }
 {10005}{}{di nobili valorosi. }
 {10006}{}{**END-PAR**}
 {10007}{}{La compagnia non correva rischi, dacche' indossava }
@@ -622,7 +622,7 @@
 {10024}{}{la fortezza in qualcosa di glorioso, uno splendore }
 {10025}{}{ignoto ad un mondo dimentico della tecnologia.}
 {10026}{}{**END-PAR**}
-{10027}{}{Eppur c'era chi cercava di piu'. Questi animi non domi}
+{10027}{}{Eppur c'era chi cercava di piu'. Questi animi non domi }
 {10028}{}{chiedevano d'esplorare a sudest, in cerca d'avanzate }
 {10029}{}{tecnologie che secondo alcuni doveansi laggiu' }
 {10030}{}{trovar.}
@@ -644,11 +644,11 @@
 {11005}{}{La direttiva include anche le famiglie degli}
 {11006}{}{ufficiali e di tutto il personale militare.}
 {11007}{}{**END-PAR**}
-{11008}{}{Se non perverranno comunicazioni specifiche dal}
-{11009}{}{Dipartimento di Guerra, l'ordine non subira'}
+{11008}{}{Se non perverranno comunicazioni specifiche dal }
+{11009}{}{Dipartimento di Guerra, l'ordine non subira' }
 {11010}{}{variazioni rispetto a quanto qui riportato.}
 {11011}{}{**END-PAR**}
-{11012}{}{Punto 1: Tutto il personale militare e le loro famiglie}
+{11012}{}{Punto 1: Tutto il personale militare e le loro famiglie }
 {11013}{}{dovranno evacuare la base alle 0800 del 25 Ott. 2077.}
 {11014}{}{Tutto il personale, guidato dagli ufficiali, si dirigera' }
 {11015}{}{verso la base di Lost Hills. Nessuna licenza concessa.}
@@ -659,7 +659,7 @@
 {11020}{}{**END-PAR**}
 {11021}{}{Punto 3: L'equipaggiamento ritenuto necessario per la}
 {11022}{}{sopravvivenza del personale militare sara' prelevato }
-{11023}{}{dai magazzini. Le dovute autorizzazioni saranno redatte}
+{11023}{}{dai magazzini. Le dovute autorizzazioni saranno redatte }
 {11024}{}{in seguito, se il tempo lo permettera'.}
 {11025}{}{**END-PAR**}
 {11026}{}{Punto 4: La legge marziale sara' assoluta, e riguardera' }
@@ -667,7 +667,7 @@
 {11028}{}{impegnato in operazioni congiunte con quello militare.}
 {11029}{}{**END-PAR**}
 {11030}{}{Punto 5: Finche' non sara' possibile stabilire una }
-{11031}{}{comunicazione certa con il Dipartimento di Guerra,}
+{11031}{}{comunicazione certa con il Dipartimento di Guerra, }
 {11032}{}{questi ordini avranno la precedenza su qualsiasi}
 {11033}{}{direttiva precedentemente in vigore.}
 {11034}{}{**END-PAR**}
@@ -712,11 +712,11 @@
 {12035}{}{che vivono qui. Prima di capire cosa stesse accadendo,}
 {12036}{}{un tentacolo e' uscito dal mio stomaco e ha avvinghiato}
 {12037}{}{la povera creatura. Quando il roditore e' stato}
-{12038}{}{risucchiato nei miei visceri, ho percepito i suoi }
-{12039}{}{pensieri. Credo. C'e' la seria possibilita' che io stia }
-{12040}{}{lentamente impazzendo e che non sia piu' in grado di }
+{12038}{}{risucchiato nei miei visceri, ho percepito i suoi}
+{12039}{}{pensieri. Credo. C'e' la seria possibilita' che io stia}
+{12040}{}{lentamente impazzendo e che non sia piu' in grado di}
 {12041}{}{distinguere la realta' dall'allucinazione.}
-{12042}{}{Forse sono ancora nella vasca, agonizzante, e tutto }
+{12042}{}{Forse sono ancora nella vasca, agonizzante, e tutto}
 {12043}{}{questo me lo sono immaginato.}
 {12044}{}{**END-PAR**}
 {12045}{}{                                                    0097 - 0111}
@@ -898,7 +898,7 @@
 {14006}{}{varato ufficialmente il 15 settembre 2073. }
 {14007}{}{**END-PAR**}
 {14008}{}{2075. Fu presto chiaro come il modo migliore per}
-{14009}{}{combattere le piu' recenti armi biologiche fosse quello}
+{14009}{}{combattere le piu' recenti armi biologiche fosse quello }
 {14010}{}{di modificare il DNA umano per renderlo immune contro }
 {14011}{}{le infezioni virali standard.}
 {14012}{}{**END-PAR**}
@@ -907,24 +907,24 @@
 {14015}{}{mostrare un tasso di crescita anomalo, accompagnato }
 {14016}{}{dall'aumento dell'attivita' cerebrale. Il governo USA }
 {14017}{}{prese nota di queste scoperte e, nell'interesse della }
-{14018}{}{sicurezza nazionale, pose una guarnigione a guardia del}
+{14018}{}{sicurezza nazionale, pose una guarnigione a guardia del }
 {14019}{}{laboratorio responsabile del progetto, ora chiamato }
 {14020}{}{Progetto FEV (Virus per l'Evoluzione Forzata).}
 {14021}{}{**END-PAR**}
-{14022}{}{2077. Il FEV e' prossimo al completamento. I test sulle}
+{14022}{}{2077. Il FEV e' prossimo al completamento. I test sulle }
 {14023}{}{cavie raggiungono quasi il 100% di successi. I muscoli }
 {14024}{}{aumentano, per dimensioni e densita', di circa il 60%; }
 {14025}{}{l'aumento dell'intelligenza e' stimabile al 200%. Non }
 {14026}{}{si conoscono ancora gli effetti sugli esseri umani,}
 {14027}{}{anche se teoricamente promettenti. L'esercito, per }
-{14028}{}{permettere altri test, costruisce una grande struttura}
+{14028}{}{permettere altri test, costruisce una grande struttura }
 {14029}{}{nella base militare di Mariposa, nella California }
 {14030}{}{Centrale. In questo nuovo laboratorio, i test sul FEV }
 {14031}{}{continuano su volontari dell'esercito.}
 {14032}{}{**END-DISK**}
 {15000}{}{L'Armatura Motorizzata T-51b (Power Armor) nasce da}
-{15001}{}{un progetto basato sulle ultime ricerche sulla difesa }
-{15002}{}{passiva in ambiti civili e militari. Il Generatore }
+{15001}{}{un progetto basato sulle ultime ricerche sulla difesa}
+{15002}{}{passiva in ambiti civili e militari. Il Generatore}
 {15003}{}{TX-28 a MicroFusione, montato sulla schiena, invia}
 {15004}{}{60Kw al sistema idraulico HiFlo incluso nell'armatura.}
 {15005}{}{Costruita con gli ultimi composti di polilaminato, la}
@@ -998,7 +998,7 @@
 {17022}{}{Vault 13}
 {17023}{}{**END-PAR**}
 {17024}{}{Situato nella splendida regione montuosa a nordovest}
-{17025}{}{del Vault 12, questo Vault offre un'inesauribile }
+{17025}{}{del Vault 12, questo Vault offre un'inesauribile}
 {17026}{}{riserva d'acqua ai suoi Abitanti. Le voci che danno}
 {17027}{}{per probabile una contaminazione della falda}
 {17028}{}{acquifera in caso di Guerra Nucleare, sono state}
@@ -1013,11 +1013,11 @@
 {17037}{}{Vault 15}
 {17038}{}{**END-PAR**}
 {17039}{}{Molte miglia ad est del Vault 13, la costruzione di}
-{17040}{}{questo Vault e' avvenuta senza alcun intoppo. Gli }
-{17041}{}{sforzi si sono concentrati per rinforzare i muri del }
-{17042}{}{terzo piano, per assicurare maggior sicurezza ai futuri }
-{17043}{}{Abitanti: anche nell'eventualita' di un forte terremoto }
-{17044}{}{si puo' star certi che il computer centrale del Vault }
+{17040}{}{questo Vault e' avvenuta senza alcun intoppo. Gli}
+{17041}{}{sforzi si sono concentrati per rinforzare i muri del}
+{17042}{}{terzo piano, per assicurare maggior sicurezza ai futuri}
+{17043}{}{Abitanti: anche nell'eventualita' di un forte terremoto}
+{17044}{}{si puo' star certi che il computer centrale del Vault}
 {17045}{}{continuera' a funzionare. Le ultime visite all'interno}
 {17046}{}{hanno lasciato a bocca aperta i potenziali Abitanti}
 {17047}{}{per l'incredibile quantita' di miglioramenti che questo}
@@ -1046,7 +1046,7 @@
 {18020}{}{**END-PAR**}
 {18021}{}{Mess. ricevuto: : Affermativo, Regolatore.}
 {18022}{}{E voglio che facciate un bel casino. Impalatelo vicino}
-{18023}{}{all'ingresso- oh, e tagliategli la lingua, cosi' che non}
+{18023}{}{all'ingresso- oh, e tagliategli la lingua, cosi' che non }
 {18024}{}{possa parlare mentre "cerchiamo" di salvargli il culo.}
 {18025}{}{Ricevuto?}
 {18026}{}{**END-PAR**}

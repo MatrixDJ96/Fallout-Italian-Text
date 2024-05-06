@@ -39,7 +39,7 @@
 {138}{}{Redimimi 'sto cazzo, zombie. }
 {139}{}{Avete del vin santo, da queste parti? }
 {140}{}{Arma? }
-{141}{}{Salute, amico! Sono davvero felice di vedere che hai abbracciato la nostra causa! Ora sei tra amici.}
+{141}{}{Salute, amico! Sono davvero felice di vedere che hai abbracciato la nostra causa! Ora sei tra amici. }
 {142}{}{Non ancora, ma mi interessa. Oltre a 'sta storia della Pace e dell'Unita', di cosa vi occupate? }
 {143}{}{Doveva succedere, prima o poi. A chi devo rivolgermi per l'iniziazione? }
 {144}{}{Sono qui per essere istruito. Posso vedere il Master? }
@@ -238,7 +238,7 @@
 {338}{}{Gia'. Poveri disgraziati. Apriamo una bottiglia di vin santo e brindiamo in loro onore! }
 {339}{}{Ehi, se vi serve qualcuno che metta fine alla loro vita - o alla tua - io sono a disposizione! }
 {340}{}{Amico, se cercherai la verita' con una mente aperta, troverai noi ad aspettarti. Lode al Master! Ti auguro la miglior fortuna nella tua ricerca dell'illuminazione. }
-{341}{}{Dobbiamo diventare piu' vicini a Dio. Tutti noi, umani e mutanti. Non so cosa intenda esattamente il Master, con questo messaggio, ma dev'essere la verita'. Lode al Master! Lode alla sua saggezza!}
+{341}{}{Dobbiamo diventare piu' vicini a Dio. Tutti noi, umani e mutanti. Non so cosa intenda esattamente il Master, con questo messaggio, ma dev'essere la verita'. Lode al Master! Lode alla sua saggezza! }
 {342}{}{Ma se e' davvero cosi' saggio, perche' il suo messaggio e' ambiguo? }
 {343}{}{Siete pazzi! }
 {344}{}{Sara' meglio che vada a dare un'altra occhiata in giro. }

@@ -33,7 +33,7 @@
 {132}{}{Non ho nulla da dirti.}
 {133}{}{Dovresti imparare cosa significa "rispetto".}
 {134}{}{La riunione sta per iniziare. Tutti gli Anziani sono presenti e hanno accettato di ascoltare cio' che Fratello }
-{135}{}{ ha da dire. Dopo di che decideremo quali azioni intraprendere. Fratello }
+{135}{}{ha da dire. Dopo di che decideremo quali azioni intraprendere. Fratello }
 {136}{}{, dicci cosa hai visto a nord.}
 {137}{}{Nel corso delle mie esplorazioni, ho trovato una base militare occupata da mutanti. E' pesantemente difesa e ci sono diverse squadre di pattuglia.}
 {138}{}{Norfa?}

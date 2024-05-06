@@ -22,7 +22,7 @@
 {121}{}{Qualcuno sa come riparare un tostapane?}
 {122}{}{Certo che lo sanno, idiota! E' la tua testa che non possono riparare, figlio di puttana!}
 {123}{}{Sono le pistole, coglione! La polvere da sparo e' intelligente e malvagia e controlla la tua mente! Piu' polvere da sparo avrai vicino, piu' pazzo diventerai! BOOM! BOOM! BOOM!}
-{124}{}{...I just want to set the world on fiiiiiiiyaaah!!!}
+{124}{}{ ...I just want to set the world on fiiiiiiiyaaah!!!}
 {125}{}{Vuoi fare a botte? Una volta ero davvero bravo... finche' i Nightkin non mi hanno pestato. Ne ho stesi due, pero'. I Nightkin sono davvero forti!}
 {126}{}{Sono mutanti, imbecille! E' logico che siano forti!}
 {127}{}{Anche i pinguini lo sono. E i bufali-giroscopio. Li sparano fuori da enormi cannoni-bisonte. Bisogna stare attenti a quelle donne bufalo. Ti mollano addosso un bisonte cosi' in fretta che non saprai mai cosa ti ha colpito! Ah!}
@@ -68,8 +68,8 @@
 {167}{}{Chi e' il Master?}
 {168}{}{Vuoi morire? Io posso metter fine alle tue sofferenze.}
 {169}{}{Mi sembri uno stupido!}
-{170}{}{Questo e' il Fonte Battesimale. Qui si creano i Servitori. Una volta che gli accoliti sono stati indottrinati, vengono portati qui e sottoposti al processo. Solo pochi sopravvivono... }
-{171}{}{Molti hanno perso il senno, ma sono ancora utili. Li buttano di sotto, farneticano del Master e vagano stupiti. Li hai visti gli zombie, no? Ottimi schiavi -- e soldati... }
+{170}{}{Questo e' il Fonte Battesimale. Qui si creano i Servitori. Una volta che gli accoliti sono stati indottrinati, vengono portati qui e sottoposti al processo. Solo pochi sopravvivono...}
+{171}{}{Molti hanno perso il senno, ma sono ancora utili. Li buttano di sotto, farneticano del Master e vagano stupiti. Li hai visti gli zombie, no? Ottimi schiavi -- e soldati...}
 {172}{}{John Brown giace nella tomba la' nel pian, John Brown giace nella tomba la' nel pian, e il Master ci sta fottendo tutti quanti piano pian...}
 {173}{}{Smettila. Sta diventando davvero difficile rimanere seri.}
 {174}{}{Parlami dei Nightkin.}
@@ -78,10 +78,10 @@
 {177}{}{Chi e' il Master?}
 {178}{}{Vuoi morire? Io posso metter fine alle tue sofferenze.}
 {179}{}{Ooops! Non riesco piu' a tenermi serio! Whee! Whee! Whee!}
-{180}{}{Sono mutanti. Li ho sentiti parlare. Sono molto silenzioso. Conosco tutti i loro segreti. Mi odiano. Mi odiano tantissimo. }
-{181}{}{Sono pazzo, ma questa e' solo la Fase 1 del Grande Piano della Cattedrale. Una volta che il lavaggio del cervello dei Servitori e' completo, si passa alla Fase 2. E' allora che il Master battezza tutti nel FEV-2! }
-{182}{}{Molti muoiono qui. Ma quelli che sopravvivono diventano mutanti. GROSSI mutanti. Nightkin! Il Master pensa che solo i Nightkin possano sopravvivere. Vuole rendere tutti dei Nightkin perche' sono forti! }
-{183}{}{Sai tutta questa stronzata della pace e dell'unita'? Per il Master non e' una stronzata. Pensa davvero di salvare il mondo! }
+{180}{}{Sono mutanti. Li ho sentiti parlare. Sono molto silenzioso. Conosco tutti i loro segreti. Mi odiano. Mi odiano tantissimo.}
+{181}{}{Sono pazzo, ma questa e' solo la Fase 1 del Grande Piano della Cattedrale. Una volta che il lavaggio del cervello dei Servitori e' completo, si passa alla Fase 2. E' allora che il Master battezza tutti nel FEV-2!}
+{182}{}{Molti muoiono qui. Ma quelli che sopravvivono diventano mutanti. GROSSI mutanti. Nightkin! Il Master pensa che solo i Nightkin possano sopravvivere. Vuole rendere tutti dei Nightkin perche' sono forti!}
+{183}{}{Sai tutta questa stronzata della pace e dell'unita'? Per il Master non e' una stronzata. Pensa davvero di salvare il mondo!}
 {184}{}{Sterile! Diventeremo tutti dei mostri schifosi e sterili! Sterile! Sterile! Sterile! Il mio nome non e' Errol! Sterile!}
 {185}{}{Parlami dei Nightkin.}
 {186}{}{Cosa succede qui dentro?}
@@ -96,7 +96,7 @@
 {195}{}{Chi e' il Master?}
 {196}{}{Vuoi morire? Io posso metter fine alle tue sofferenze.}
 {197}{}{Ooops! Non riesco piu' a tenermi serio! Whee! Whee! Whee!}
-{198}{}{Riempito di droghe, ricoperto di buchi, gridato nelle orecchie. Tutte stronzate cosi'. Hanno cercato di fare di me qualcosa che non sono. I genitori lo fanno sempre. }
+{198}{}{Riempito di droghe, ricoperto di buchi, gridato nelle orecchie. Tutte stronzate cosi'. Hanno cercato di fare di me qualcosa che non sono. I genitori lo fanno sempre.}
 {199}{}{Io porto dolore.}
 {200}{}{Cos'e' questo posto?}
 {201}{}{Parlami dei Nightkin.}
@@ -104,21 +104,21 @@
 {203}{}{Chi e' il Master?}
 {204}{}{Vuoi morire? Io posso metter fine alle tue sofferenze.}
 {205}{}{Mi sembri uno stupido!}
-{206}{}{Anch'io facevo del male alla gente! Ero un vero bestione! Diavolo, ero una divinta'! Un grandissimo figlio di puttana d'una divinita'! Ma non era abbastanza! Ero un macchina da guerra che marciava al passo dell'oca! Ma ora sono... sono... aiutami... }
-{207}{}{Sai, i Nightkin dicono che sia piu' brutto di loro. Questo significa che dev'essere proprio un rivoltante figlio di puttana. }
-{208}{}{Ecce Homo! L'Uomo con il Progetto! Lui progetta perche' ci ama! E se il mondo lo ostacola, al diavolo il mondo! Perche' e' di questo che e' fatto l'amore! }
+{206}{}{Anch'io facevo del male alla gente! Ero un vero bestione! Diavolo, ero una divinta'! Un grandissimo figlio di puttana d'una divinita'! Ma non era abbastanza! Ero un macchina da guerra che marciava al passo dell'oca! Ma ora sono... sono... aiutami...}
+{207}{}{Sai, i Nightkin dicono che sia piu' brutto di loro. Questo significa che dev'essere proprio un rivoltante figlio di puttana.}
+{208}{}{Ecce Homo! L'Uomo con il Progetto! Lui progetta perche' ci ama! E se il mondo lo ostacola, al diavolo il mondo! Perche' e' di questo che e' fatto l'amore!}
 {209}{}{Cos'e' questo posto?}
 {210}{}{Parlami dei Nightkin.}
 {211}{}{Cosa succede qui dentro?}
 {212}{}{Cosa ti hanno fatto?}
 {213}{}{Vuoi morire? Io posso metter fine alle tue sofferenze.}
 {214}{}{Mi sembri uno stupido!}
-{215}{}{L'amore e' cio' che fa crescere i cactus! L'amore e' cio' che fa fare muu ai brahmin! L'amore rovina, rovina la tua vita! Odio l'amore! Amo l'odio! Se il Master ci odiasse, tutto andrebbe meglio! }
-{216}{}{Dov'e' la tua coscienza, amico? Credi che la vita dovrebbere essere un bel quadretto senza un filo di sofferenza? La vita E' sofferenza! Sofferenza, unita ad ogni cosa che facciamo per evitarla! }
-{217}{}{Sopportare! Amare! Impazzire! Odiare! Cogliere le opportunita'! Annoiare le persone! Pestare i coglioni! Fare amicizia con altri coglioni! Fuggire dai propri errori! Affrontare i propri errori! Radiazioni! }
-{218}{}{Fare figli e rifare le stesse cose di nuovo, a volte meglio, a volte peggio! }
-{219}{}{Questa e' la vita, amico! E' come essere ubriachi; se la guardi da un lato e' una cosa di cui vergognarsi da morire! Dall'altro e' una cosa meravigliosa! Ma e' sempre la stessa cosa! E' la vita! }
-{220}{}{Ah ah! Ah! Ah! Ah! Ah! Hai ragione! Siamo tutti stupidi! Non l'hai ancora capito? Ah! Ah! Ah! }
+{215}{}{L'amore e' cio' che fa crescere i cactus! L'amore e' cio' che fa fare muu ai brahmin! L'amore rovina, rovina la tua vita! Odio l'amore! Amo l'odio! Se il Master ci odiasse, tutto andrebbe meglio!}
+{216}{}{Dov'e' la tua coscienza, amico? Credi che la vita dovrebbere essere un bel quadretto senza un filo di sofferenza? La vita E' sofferenza! Sofferenza, unita ad ogni cosa che facciamo per evitarla!}
+{217}{}{Sopportare! Amare! Impazzire! Odiare! Cogliere le opportunita'! Annoiare le persone! Pestare i coglioni! Fare amicizia con altri coglioni! Fuggire dai propri errori! Affrontare i propri errori! Radiazioni!}
+{218}{}{Fare figli e rifare le stesse cose di nuovo, a volte meglio, a volte peggio!}
+{219}{}{Questa e' la vita, amico! E' come essere ubriachi; se la guardi da un lato e' una cosa di cui vergognarsi da morire! Dall'altro e' una cosa meravigliosa! Ma e' sempre la stessa cosa! E' la vita!}
+{220}{}{Ah ah! Ah! Ah! Ah! Ah! Hai ragione! Siamo tutti stupidi! Non l'hai ancora capito? Ah! Ah! Ah!}
 {221}{}{Sono un po' triste, adesso. Come un Orange Pekoe lasciato alla pioggia. Ah! Mi piace! Credo che lo ripetero' all'infinito! Sono un po' triste, adesso. Come un Orange Pekoe lasciato alla pioggia...}
 {222}{}{[ALTRO]}
 {529}{}{Ma certo che la conosci, idiota d'un Dane! E' la nostra nemica! Dev'essere distrutta!}

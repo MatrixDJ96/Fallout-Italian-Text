@@ -70,7 +70,7 @@
 {169}{}{Dimenticatene e basta, okay?}
 {170}{}{Stai scherzando?! Beh... er... te... te l'ha chiesto lui personalmente?}
 {171}{}{Si', l'ha fatto.}
-{172}{}{Cavoli, che scontro epico! Ti sei comportato bene. Ora che Decker e Kane sono morti il resto della Malavita si sgretolera' in men che non si dica. Senza una guida forte, le organizzazioni come quella non possono durare. E da queste parti nessuno e' sveglio abbastanza da prenderne in mano le redini. }
+{172}{}{Cavoli, che scontro epico! Ti sei comportato bene. Ora che Decker e Kane sono morti il resto della Malavita si sgretolera' in men che non si dica. Senza una guida forte, le organizzazioni come quella non possono durare. E da queste parti nessuno e' sveglio abbastanza da prenderne in mano le redini.}
 {173}{}{Beh, ecco il resto della tua paga. Grazie ancora dell'aiuto. La citta' e' in debito con te. [Lo Sceriffo ti da' 1000 testoni]}
 {174}{}{Possiamo andare non appena sei pronto.}
 {175}{}{Fammi sapere quando sarai pronto. Ti aspetteremo, ma non impiegarci troppo.}

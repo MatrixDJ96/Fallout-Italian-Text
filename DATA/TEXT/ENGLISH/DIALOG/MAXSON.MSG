@@ -149,7 +149,7 @@
 {248}{Gen_63}{I Paladini sono i responsabili della sicurezza e di tutte le attivita' che si svolgono all'esterno. Ricordo quando commerciavo con i mercanti dell'Hub, o quando andavo in missione per conto degli Anziani. Ah, cavoli: quelli si' che erano bei tempi.}
 {249}{Gen_64}{L'Hub si trova a sudest. Ci vendono cibo e altre cose in cambio delle armi che produciamo. Ora, se mai ti capitasse di andare laggiu', va' a parlare con Butch Harris.}
 {250}{Gen_65}{Butch e' il capo dei Mercanti FarGo. E' un tipo un po' viscido, ma non e' troppo male. A differenza di quei Mercanti d'Acqua. Una manica di dannati avvoltoi, ecco cosa sono.}
-{251}{Gen_66}{E' la compagnia con cui commerciamo di piu'. Non sono totalmente affidabili, ma sono meno peggio degli altri.}
+{251}{Gen_66}{E' la compagnia con cui commerciamo di piu'. Non sono totalmente affidabili, ma sono meno peggio degli altri. }
 {252}{Gen_67}{Non ci si puo' fidare di loro. Qualche anno fa ci offrirono acqua in cambio di una grossa partita di armi. Noi rifiutammo, e sai cosa fecero loro? Mandarono dei ladri per rubarci le armi! Noi scoprimmo tutto e ci manco' poco che mandassimo una squadra armata all'Hub per dar loro una bella lezione.}
 {253}{Gen_68}{Olodischi? Hmm? Sono secoli che non ne vedo uno.}
 {254}{Gen_69}{Vree ce l'ha da qualche parte nella Biblioteca.}
